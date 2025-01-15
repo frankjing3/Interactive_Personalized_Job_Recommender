@@ -1,0 +1,424 @@
+id,job_skills_new
+1,html/css
+2,frontend frameworks
+3,backend frameworks
+4,restful api development
+5,web security principles
+6,ios app development
+7,android app development
+8,cross-platform development
+9,mobile ui/ux design
+10,app deployment and distribution
+11,sql query writing
+12,database administration
+13,database optimization
+14,data modeling
+15,nosql databases
+16,aws services
+17,microsoft azure services
+18,google cloud platform services
+19,cloud security
+20,serverless computing
+21,network configuration and troubleshooting
+22,network security protocols
+23,ip address management
+24,network monitoring and analysis
+25,wireless networking technologies
+26,ethical hacking techniques
+27,cryptography
+28,security incident response
+29,threat intelligence analysis
+30,server configuration and maintenance
+31,virtualization technologies
+32,backup and recovery procedures
+33,active directory management
+34,system performance optimization
+35,help desk support
+36,remote desktop services
+37,software installation and troubleshooting
+38,it ticket management
+39,end-user training and support
+40,machine learning algorithms
+41,data preprocessing techniques
+42,feature engineering
+43,model evaluation and validation
+44,natural language processing
+45,hadoop ecosystem
+46,apache spark
+47,stream processing frameworks
+48,distributed computing
+49,data warehousing
+50,business intelligence
+51,bi tools
+52,data visualization techniques
+53,dashboard creation and management
+54,data warehousing concepts
+55,reporting and analytics
+56,etl
+57,data pipeline development
+58,data quality assurance
+59,data integration solutions
+60,data governance frameworks
+61,cryptocurrency development
+62,decentralized application
+63,consensus mechanisms
+64,blockchain security principles
+65,continuous integration/continuous deployment
+66,configuration management
+67,monitoring and logging tools
+68,test planning and strategy
+69,test automation frameworks
+70,regression testing
+71,bug tracking and reporting
+72,performance testing
+73,patient assessment
+74,wound care
+75,medication administration
+76,vital signs monitoring
+77,patient hygiene assistance
+78,nursing assessment
+79,patient triage
+80,wound dressing changes
+81,catheterization
+82,healthcare administration
+83,healthcare policy analysis
+84,healthcare ethics
+85,health informatics
+86,medical terminology
+87,medical history taking
+88,physical examination
+89,diagnostic testing interpretation
+90,treatment planning
+91,infection prevention
+92,patient identification protocols
+93,medication safety procedures
+94,fall prevention strategies
+95,risk assessment and mitigation
+96,pharmacology
+97,anatomy and physiology
+98,pathophysiology
+99,financial modeling
+100,forecasting
+101,cash flow analysis
+102,budget analysis
+103,bookkeeping
+104,general ledger management
+105,payroll processing
+106,tax preparation
+107,financial reporting
+108,capital budgeting
+109,investment analysis
+110,risk management
+111,asset allocation
+112,portfolio management
+113,time management
+114,prioritization
+115,task delegation
+116,inventory control
+117,stock replenishment
+118,demand forecasting
+119,inventory auditing
+120,vendor management
+121,recordkeeping
+122,file management
+123,project planning
+124,strategic planning
+125,attention to detail
+126,error detection
+127,negotiation skills
+128,product knowledge
+129,customer relationship management
+130,market research
+131,sales techniques
+132,digital marketing skill
+133,supply chain management
+134,vendor management
+135,inventory control
+136,logistics coordination
+137,cost management
+138,quality assurance
+139,teamwork
+140,adaptability
+141,ethical conduct
+142,conflict resolution
+143,time management
+144,scheduling
+145,prioritization
+146,deadline management
+147,flexibility
+148,problem solving
+149,critical thinking
+150,analytical skills
+151,troubleshooting
+152,decision making
+153,leadership skills
+154,supervision
+155,management
+156,team management
+157,collaboration
+158,team player
+159,team leadership
+160,team development
+161,customer service
+162,customer relations
+163,customer focus
+164,customer satisfaction
+165,service excellence
+166,verbal communication
+167,written communication
+168,interpersonal communication
+169,presentation skills
+170,public speaking
+171,emotional intelligence
+172,conflict management
+173,empathy
+174,active listening
+175,stress management
+176,negotiation skills
+177,time management
+178,decision making
+179,problem solving
+180,leadership
+181,adaptability
+182,creativity
+183,collaboration
+184,resilience
+185,critical thinking
+186,organization
+187,attention to detail
+188,initiative
+189,teamwork
+190,integrity
+191,patience
+192,persistence
+193,self-motivation
+194,accountability
+195,professionalism
+196,flexibility
+197,cultural awareness
+198,networking
+199,mentoring
+200,continuous learning
+201,project management
+202,data analysis
+203,microsoft office suite
+204,bachelors degree
+205,high school diploma
+206,documentation
+207,microsoft excel
+208,driver's license
+209,retirement planning
+210,patient education
+211,cpr/first aid training
+212,endurance
+213,microsoft word
+214,culinary skills
+215,physical examination
+216,healthcare administration
+217,compliance management
+218,autocad
+219,housekeeping
+220,electrical engineering
+221,sales techniques
+222,equal opportunity employer
+223,physical strength
+224,walking
+225,continuous improvement
+226,civil engineering
+227,process improvement
+228,human resources management
+229,equipment maintenance
+230,computer literacy
+231,background check
+232,us citizenship
+233,data management
+234,contract management
+235,climbing
+236,business administration
+237,insurance
+238,restaurant management
+239,auditing
+240,event planning
+241,windows
+242,hvac
+243,software engineering
+244,computer proficiency
+245,plumbing
+246,operations management
+247,curriculum development
+248,legal research
+249,pos systems
+250,litigation
+251,visual merchandising
+252,feedback
+253,barber license
+254,criminal background check
+255,math skills
+256,cosmetology license
+257,git
+258,property management
+259,forklift operation
+260,mental health counseling
+261,basic math skills
+262,sustainability
+263,typing
+264,verbal communication skills
+265,mileage reimbursement
+266,drug test
+267,digital marketing
+268,cash handling procedures
+269,phlebotomy
+270,systems engineering
+271,hand tools
+272,accounts receivable
+273,structural engineering
+274,radiography
+275,invoicing
+276,servsafe certification
+277,legal writing
+278,welding
+279,carpentry
+280,child development
+281,marriage and family therapy
+282,blueprint reading
+283,email alerts
+284,early childhood education
+285,building codes
+286,teaching experience
+287,drug screen
+288,talent acquisition
+289,haccp
+290,project coordination
+291,fundraising
+292,cosmetology
+293,longterm disability
+294,real estate
+295,grant writing
+296,journal entries
+297,gis
+298,basic math
+299,administrative tasks
+300,scripting
+301,pos system
+302,painting
+303,graphic design
+304,project management software
+305,mechanical aptitude
+306,bilingual englishspanish
+307,childcare
+308,drawings
+309,administrative skills
+310,fabrication
+311,housing
+312,facilities management
+313,employment law
+314,hydraulics
+315,environmental engineering
+316,video game knowledge
+317,learning and development
+318,auto insurance
+319,bilingual spanish
+320,environmental science
+321,vehicle maintenance
+322,facility management
+323,administrative duties
+324,facility maintenance
+325,noise
+326,content creation
+327,manufacturing processes
+328,manufacturing engineering
+329,lmft
+330,eyehand coordination
+331,taxation
+332,travel arrangements
+333,general surgery
+334,comprehensive benefits package
+335,animal care
+336,public accounting
+337,automobile insurance
+338,system integration
+339,background checks
+340,ecommerce
+341,law
+342,photography
+343,osha regulations
+344,mental health support
+345,employee assistance program eap
+346,entrepreneurship
+347,hair styling
+348,store cleaning
+349,process engineering
+350,online tutoring
+351,standard operating procedures sops
+352,control systems
+353,plc programming
+354,dbs check
+355,linkedin for good
+356,geotechnical engineering
+357,automotive repair
+358,personal training
+359,venipuncture
+360,substance abuse
+361,barbering
+362,ada compliance
+363,process optimization
+364,programming languages
+365,advancement opportunities
+366,continuous integration
+367,video editing
+368,product design
+369,housing options
+370,cpa certification
+371,food safety certification
+372,github
+373,data structures
+374,software architecture
+375,cycle to work scheme
+376,scheduling software
+377,building maintenance
+378,3d modeling
+379,automotive
+380,renewable energy
+381,landscaping
+382,aerospace engineering
+383,commercial construction
+384,performance metrics
+385,shortterm disability insurance
+386,comprehensive benefits
+387,music
+388,bash
+389,sketchup
+390,machining
+391,legal analysis
+392,event coordination
+393,teletherapy
+394,waste management
+395,site management
+396,google analytics
+397,accessibility
+398,administrative experience
+399,radiation therapy
+400,liability insurance
+401,arcgis
+402,refrigeration
+403,benefits administration
+404,structural analysis
+405,research and development
+406,geology
+407,drug testing
+408,cms
+409,systems analysis
+410,copywriting
+411,merchandise presentation
+412,sterile technique
+413,osha standards
+414,hvac systems
+415,housing assistance
+416,haircutting
+417,construction inspection
+418,mental health services
+419,voluntary benefits
+420,computer vision
+421,embedded systems
+422,indesign
+423,depositions

@@ -1,0 +1,1347 @@
+job_link,job_skills,job_summary,job_title,company,city,state,job_level,job_type,first_seen
+https://www.linkedin.com/jobs/view/data-architect-at-razor-3764068924,"data architecture, data management, data analytics, data integration, dataops, data lineage, data discovery & classification, data quality, data security, sql, nosql, inmemory, hdfs, columnar, graphdb, aws rds, redshift, dynamodb, elasticache, java, python, cloud application design principles, microservices, 12factor apps, stateless applications, containers, data lakes, data pipelines, data models, analytical and quantitative skills, people leadership skills, talent development, crossfunctional teams","Our client, a Healthcare Technology company, is looking for a Remote Data Architect to help build out their Connected Care Platform. The platform is changing how Providers and Payers collaborate and driving value by improving patient care, care quality and financial performance.
+The Data Architect designs, describes, and manages the solution engineering in relation to specific business problems. The Technical Solutions Architect leads the practice of introducing the overall technical vision for a particular solution. The bridges the gap between business problems and technology solutions and can lead a team and mentor Software Engineers and Software Developers.
+Responsibilities
+Lead the definition and implementation of Data Capabilities like Data Discovery & Classification, Data Catalog, Data Lineage, Data Integration and Data Lake.
+Build data pipeline frameworks to automate high-volume and real-time data delivery for Data Lake and streaming data hub
+Build data APIs and data delivery services that support critical operational and analytical applications
+Develop sustainable data driven solutions with current new gen data technologies to meet the needs of our organization and business Customers
+Define Data Operations (DataOps) strategy and operating model for Data Anonymization, Synthetic Data Generation and Test Data Management.
+Responsible for defining and delivering innovative Enterprise Data Services to realize the data capabilities that are core to data strategy.
+Collaborate with and influences solution architects, engineers & delivery teams to adopt enterprise data architecture specifications in solutions
+Work directly with Product Managers and customers to deliver data products in a collaborative and agile environment
+Requirements
+10&plus; years of Enterprise Data Architecture function, data strategy consulting and driving business value through architecture adoption, data management & analytics cultural change
+Experienced with various database technologies - SQL/NoSQL/in-memory/HDFS/columnar/GraphDB
+Hands on experience with cloud DB technologies - AWS RDS, Redshift, DynamoDB, ElastiCache
+Experience around designing and building production grade secured data pipelines from ingestion to consumption, using Java, Python, or similar.
+Experience with large scale, complex integration systems in a high availability, high volume, performance environment.
+Understanding of cloud application design principles (micro-services, 12-factor apps, stateless applications meant for cloud, containers, etc.).
+Strong technical experience with designing data lakes, pipelines, and data models.
+Strong analytical and quantitative skills with the ability to use data and metrics to justify requirements, features and demonstrate business value
+Advanced people leadership skills, including developing talent and the next data functional leaders
+Experience working with cross-functional teams in delivery of new products or services
+Show more
+Show less",Data Architect,RAZOR,Hartford, CT,Mid senior,Onsite,2024-01-12
+https://uk.linkedin.com/jobs/view/data-architect-at-oliver-james-3794955436,"data architect, data modeling, data warehousing, data integration, sql, database management systems, cloud platforms, modern data technologies, collaboration, communication, presentation skills, insurance industry, data architectures, data analysis, data integrity, data quality, data storage, data migration, data management, data security, data privacy, industry trends, data compliance","Proven experience working as a Data Architect
+Strong knowledge of data modelling, data warehousing, and data integration
+Proficiency in SQL and database management systems
+Experience with cloud platforms and modern data technologies
+Ability to collaborate effectively with cross-functional teams.
+Strong communication and presentation skills.
+Knowledge of the Insurance industry
+My client, a leading insure-tech business is looking for an Enterprise Data Architect to
+Design, develop and maintain complex data architectures for our client's insurance systems
+Collaborate with cross-functional teams to understand and analyse data requirements
+Create data models and ensure data integrity and accuracy
+Develop and implement strategies for data storage, integration, and migration
+Optimise data management processes and improve overall data quality
+Provide guidance and support to data engineers and other team members
+Stay updated with industry trends and technologies related to data architecture
+Ensure compliance with data security and privacy regulations
+Show more
+Show less",Data Architect,Oliver James,City of London, England,Mid senior,Onsite,2024-01-12
+https://www.linkedin.com/jobs/view/data-architect-at-tech-army-llc-3688040082,"data governance, data architecture, data content standards, database management systems, recovery strategy, load strategy, business analysis, data acquisition, access analysis, bachelor's degree, computer science, information systems, management information systems, work experience, it database management, systems analysis, management analysis, program planning, program research, program evaluation","Job Responsibilities
+Data Architect Task List. The Contractor, through the Data Architect it provides, shall perform the
+following tasks, as necessary, to complete work as assigned by the Department's Contract Manager:
+Assist with the development and implementation of a comprehensive data governance strategy,
+applying the appropriate frameworks, methodologies, and tools.
+Define data architecture standards, policies and procedures for the Department, structure, attributes,
+and nomenclature of data elements.
+Apply accepted data content standards to technology projects.
+Business analysis, data acquisition and access analysis and design, Database Management Systems
+optimization, recovery strategy and load strategy design and implementation.
+Qualification Requirements
+Professional Qualification Requirements. The mandatory and preferred professional qualification
+requirements for the Contractor Representative, to be provided by the Contractor, are found in
+Attachment 5, Skills Matrix. The Contractor represents that the mandatory and preferred qualification,
+provided in its Response, represents the knowledge, skills, and abilities of the Contractor
+Representative and the minimum qualifications for any subsequent Contractor Representative provided
+by the Contractor to perform these services.
+Educational Requirements. The Contractor Representative, and any subsequent Contractor
+Representative provided by the Contractor, must possess, at a minimum:
+A bachelor's degree in one (1) of the Computer Science, Information Systems or other related fields,
+or in Management Information Systems; or
+Seven (7) years of work experience in IT database management, systems analysis, management
+analysis, program planning, program research, and/or program evaluation.
+Show more
+Show less",Data Architect,"Tech Army, LLC",Tallahassee, FL,Mid senior,Onsite,2024-01-12
+https://www.linkedin.com/jobs/view/data-architect-at-confiz-3790095076,"data architecture, data pipelines, snowflake, azure data services, azure data factory, elt, data quality, data governance, data modeling, performance scalability, sql, sql server, postgres, nosql, cloud data analytic services, streamprocessing systems, sparkstreaming, flink, data security, encryption, data analysis, data processing, big data, message queuing, stream processing, crossfunctional collaboration, data engineering, data architecture, data modeling, etl/elt processes, data integration, team leadership, mentoring, project success, skill development, data quality assurance, big data pipelines, unit testing, business analysis, data visualization, data warehousing, data mining, data analytics, machine learning","We are looking for a savvy Lead Data Engineer to join our growing team of analytics experts. you will be responsible for designing, developing, and maintaining our data architecture and pipelines in Snowflake, leveraging Azure services. You will play a crucial role in ensuring data availability, integrity, and accessibility for our data-driven initiatives. In addition, you will lead a team of data engineers and collaborate closely with cross-functional teams to drive data-related projects. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+Responsibilities
+Create and maintain optimal data pipeline architecture in Snowflake
+Design and implement data architecture in Snowflake, including schema design, data modeling, and optimization for performance and scalability.
+Develop ELT pipelines using Azure Data Factory, and other Azure services to ingest, data into Snowflake.
+Implement data quality checks and governance processes to ensure data accuracy, consistency, and compliance with industry standards and regulations.
+Lead and mentor a team of data engineers, providing guidance, coaching, and support to ensure project success and skill development.
+Ensure data security and access control measures are in place and adhere to company policies and standards.
+Work with stakeholders including the Data Architect, Product Owner, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Stay up-to-date with industry trends and best practices in data engineering and propose improvements to enhance data infrastructure.
+Requirements
+Minimum 8 years of experience as a Data Engineer, with at least 4-5 years of experience in Snowflake.
+Proficiency in working with Snowflake and Azure Data Analytics, including Azure Data Factory
+Experience with data modeling, ETL/ELT processes, and data integration.
+Hands-on experience in design and implement data architecture in Snowflake, including schema design, data modeling, and optimization for performance and scalability
+Experience in Leading and mentoring a team of data engineers, providing guidance, coaching, and support to ensure project success and skill development.
+Experience with relational SQL like SQL Server, Postgres and NoSQL databases e.g., Cosmos etc.
+Experience with data pipeline and workflow management tools: Azure Data Factory, etc.
+Experience with one of cloud data analytic services GCP/Azure/AWS.
+Experience with stream-processing systems: Spark-Streaming, Flink etc.
+Experience in ensuring data quality in big data pipelines. Unit testing of big data pipelines.
+Advanced working SQL Analytical Queries knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Best Security practice in Data computing, including encryption of sensitive data, encryption at rest and encryption in flight.
+Strong analytic skills related to working with unstructured datasets.
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+We have an amazing team of 550+ individuals working on highly innovative enterprise projects & products. Our customer base includes fortune 5 retail and CPG companies, leading store chains, fast growth fintech and multiple Silicon Valley startups.
+What makes Confiz stand out is our focus on processes and culture. Confiz is ISO 9001:2015 certified. We have a vibrant culture of learning via collaboration and making workplace fun.
+People who work with us work with the cutting-edge technologies while contributing success to the company as well as to themselves.
+To know more about Confiz Limited, visit: https://web.facebook.com/lifeatconfiz
+Show more
+Show less",Data Architect,Confiz,Bentonville, AR,Mid senior,Onsite,2024-01-12
+https://www.linkedin.com/jobs/view/data-architect-at-confiz-3790095076,"data architecture, data pipelines, snowflake, azure data services, azure data factory, elt, data quality, data governance, data modeling, performance scalability, sql, sql server, postgres, nosql, cloud data analytic services, streamprocessing systems, sparkstreaming, flink, data security, encryption, data analysis, data processing, big data, message queuing, stream processing, crossfunctional collaboration, data engineering, data architecture, data modeling, etl/elt processes, data integration, team leadership, mentoring, project success, skill development, data quality assurance, big data pipelines, unit testing, business analysis, data visualization, data warehousing, data mining, data analytics, machine learning","We are looking for a savvy Lead Data Engineer to join our growing team of analytics experts. you will be responsible for designing, developing, and maintaining our data architecture and pipelines in Snowflake, leveraging Azure services. You will play a crucial role in ensuring data availability, integrity, and accessibility for our data-driven initiatives. In addition, you will lead a team of data engineers and collaborate closely with cross-functional teams to drive data-related projects. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+Responsibilities
+Create and maintain optimal data pipeline architecture in Snowflake
+Design and implement data architecture in Snowflake, including schema design, data modeling, and optimization for performance and scalability.
+Develop ELT pipelines using Azure Data Factory, and other Azure services to ingest, data into Snowflake.
+Implement data quality checks and governance processes to ensure data accuracy, consistency, and compliance with industry standards and regulations.
+Lead and mentor a team of data engineers, providing guidance, coaching, and support to ensure project success and skill development.
+Ensure data security and access control measures are in place and adhere to company policies and standards.
+Work with stakeholders including the Data Architect, Product Owner, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Stay up-to-date with industry trends and best practices in data engineering and propose improvements to enhance data infrastructure.
+Requirements
+Minimum 8 years of experience as a Data Engineer, with at least 4-5 years of experience in Snowflake.
+Proficiency in working with Snowflake and Azure Data Analytics, including Azure Data Factory
+Experience with data modeling, ETL/ELT processes, and data integration.
+Hands-on experience in design and implement data architecture in Snowflake, including schema design, data modeling, and optimization for performance and scalability
+Experience in Leading and mentoring a team of data engineers, providing guidance, coaching, and support to ensure project success and skill development.
+Experience with relational SQL like SQL Server, Postgres and NoSQL databases e.g., Cosmos etc.
+Experience with data pipeline and workflow management tools: Azure Data Factory, etc.
+Experience with one of cloud data analytic services GCP/Azure/AWS.
+Experience with stream-processing systems: Spark-Streaming, Flink etc.
+Experience in ensuring data quality in big data pipelines. Unit testing of big data pipelines.
+Advanced working SQL Analytical Queries knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Best Security practice in Data computing, including encryption of sensitive data, encryption at rest and encryption in flight.
+Strong analytic skills related to working with unstructured datasets.
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+We have an amazing team of 550+ individuals working on highly innovative enterprise projects & products. Our customer base includes fortune 5 retail and CPG companies, leading store chains, fast growth fintech and multiple Silicon Valley startups.
+What makes Confiz stand out is our focus on processes and culture. Confiz is ISO 9001:2015 certified. We have a vibrant culture of learning via collaboration and making workplace fun.
+People who work with us work with the cutting-edge technologies while contributing success to the company as well as to themselves.
+To know more about Confiz Limited, visit: https://web.facebook.com/lifeatconfiz
+Show more
+Show less",Data Architect,Confiz,Bentonville, AR,Mid senior,Onsite,2024-01-12
+https://www.linkedin.com/jobs/view/data-architect-at-gateway-recruiting-gateway-to-global-careers-contingent-retained-contract-recruiting-services-3749313269,"data strategy, data governance, data warehousing, data analytics, data modeling, database development, data quality, data competency, data policies, data reporting, business analysis, technical architecture, advanced database systems, data marts, business analysis, financial analysis, operational analysis, microsoft azure, python, data stores, data quality management, realtime data ingestion, metadata management, big data, data lakehouse architecture, container management, docker, kubernetes, data pipeline tools, apache airflow, dbt, sql, nosql, microsoft azure data engineering","The Data Architect is responsible for delivering a data strategy that is in line with the goals and objectives of the digital unit. The strategy includes principles and best practices on data model designs, database development standards, implementation and management of data warehouses, and data analytics systems. The Data Architect is also responsible for managing the data services activities and designing data governance within the company's digital unit function. They are also responsible for maintaining the highest levels of data competency, data policies, data usage, data quality, and reporting capabilities across the organization.
+Job Duties:
+Data Strategy, Governance & Implementation.
+Drive the business objectives of the digital unit by ensuring a best-of-class data management function that is adaptable and scalable with the growing business needs.
+Provide data governance guidelines involving proper data classification, data policies, data quality, and other activities around data and analytics functions.
+Implement a data catalog of enterprise data assets throughout the organization.
+Partner with business analysts and architects to develop technical architectures for strategic projects and initiatives.
+Provide oversight, strategic thought leadership, and innovative solutions towards maturing a data strategy, architecture, and service capabilities.
+Leverage advanced database systems including data warehouses, data marts, and models needed for business, financial and operational analysis, and/or reporting with Microsoft Azure technologies.
+Job Qualifications:
+Required:
+BS/BA degree, ideally in computer science, engineering, or a comparable background.
+Minimum of 8 years of programming experience with Python.
+Minimum of4 years of experience working with Microsoft Azure-related data technologies.
+Expertise in the design and implementation of enterprise data stores, data warehouses, data governance, data quality management, real-time data ingestion, data modeling, and metadata management.
+Proficiency in tools like Spark or DataBricks to handle big data.
+Experience in working with data lakehouse architecture.
+Container management and orchestration experience with Docker and Kubernetes.
+Proficiency in data pipeline tools (e.g., Apache Airflow, DBT) and database technologies (e.g., SQL, NoSQL). Certification in Microsoft Azure Data Engineering is a plus.
+Traveling: 10%
+Show more
+Show less",Data Architect,"Gateway Recruiting - Gateway to Global Careers - Contingent, Retained, Contract Recruiting Services",Multnomah County, OR,Mid senior,Onsite,2024-01-12
+https://www.linkedin.com/jobs/view/data-architect-at-caci-international-inc-3733830880,"data analyst, data architect, oracle database, nosql mongodb, elasticsearch, postgresql, hadoop, json, data architecture, data management, data management book of knowledge (dmbok), agile safe teams, data governance, data models, data dictionaries, cots products, erwin, er/studio, hackolade, ms office, data validation, data quality testing, us citizen, secret clearance, systems and data, department of defense (dod), veterans affairs (va), logistics, supplychain management, medical, facilities management, equipment management, financial management, data analysis, data migration, information requirements, data definitions, business rules, data dictionaries, data models, data maps, technical specifications, interface specifications, design documents, technical documents, analytical skills, communication skills, attention to detail, problemsolving skills, bs in computer science, information systems, it degree, data extraction, diverse databases, file structures, json, xml, csv, txt, data architecture, erwin, er/studio, oracle, mongodb, elasticsearch, hadoop, postgresql, sql, cardinality, levels of granularity, normalization, denormalization, database optimization, tool optimization, data management best practices, data management association (dama), data standardization, industrydriven, open standards, enterprisewide, metadata, data repository, data management program, data warehouse design, dimensional data modeling, data quality programs, data profiling, data cleansing","Job Category: Engineering
+Time Type: Full time
+Minimum Clearance Required to Start: None
+Employee Type: Regular
+Percentage of Travel Required: Up to 10%
+Type of Travel: Continental US
+What You’ll Get To Do
+We are seeking a multi-faceted Data Analyst / Data Architect who will assist with the data solutions required for the transition of a large medical supply-chain / logistics user community to a new suite of systems. The Data Analyst will be responsible for identifying data requirements, data migration/conversion needs, interface data mapping, performing data validation, and assisting with data clean-up. This position supports a long-term initiative to expand a supply-chain / logistics suite of systems to support a new global user community and the expand system functionality and data integration with other supply-chain, financial, asset visibility, and medical systems in a rapidly modernizing technology environment. The applicant must be proficient with analyzing business data and inquiring of subject matter experts to identify data meaning, syntax, and business rules to map to a target system.
+The applicant will work with our business analysts, developers, and other data analysts/architects to help deploy an enterprise business system to a new customer environment replacing their legacy systems. The applicant should have experience gathering and documenting interface specifications, data mappings, data relationships, and data structures. The applicant will assist in automating the validation process. The technology environment includes Oracle database, No-SQL MongoDB, ElasticSearch, PostgreSQL, Hadoop, and JSON.
+More About The Role
+Employ data architecture and data management best practices and methodologies following the Data Management Book of Knowledge (DMBOK) guidelines
+Collaborate with cross-functional Agile SAFe teams to translate business needs into data requirements and provide technical guidance to data engineers for implementation
+Maintaining accurate and up-to-date knowledge of data requirements and design for maximizing database potential
+Provide technical data governance over data models and adherence to standards, master and reference data management, and transactional data changes
+Develop and maintain data models and data dictionaries for MongoDB document, relational, and analytical data structures using COTS products such as ERwin, ER/Studio, Hackolade and MS Office
+Perform data validation and quality testing for application software releases
+You’ll Bring These Qualifications
+Must be a US citizen and must have (or be able to obtain) a Secret clearance at least at the ‘Public Trust’ level (Tier 3 (T3) background investigation))
+Experience with systems and data in Department of Defense (DoD), Veterans Affairs (VA), Logistics, Supply-Chain Management, Medical, Facilities Management, Equipment Management, or Financial Management
+Experience performing data analysis to migrate data from a legacy system to a target system.
+Ability to perform detailed analysis of information requirements and to assist users and other stakeholders to identify and clarify data definitions and business rules
+Needs to understand the use and maintenance of data dictionaries, data models, and data maps in an enterprise business software environment.
+Experience with writing technical specifications, interface specifications, design documents, and other technical documents at a high level of accuracy and quality
+Collaborative team player with flexibility and a focus on customer service
+Requires strong analytical and communication skills, attention to detail, and problem-solving skills.
+BS in computer science, information systems, or similar IT degree
+Some onsite work may be required.
+These Qualifications Would Be Nice To Have
+Experience extracting data from diverse databases and file structures (e.g., JSON, XML, CSV, TXT, MongoDB) to leverage in a different target system.
+Experience forward and reverse engineering data architecture and associated tools (ERwin, ER/Studio) and databases (Oracle, MongoDB, ElasticSearch, Hadoop, PostgreSQL)
+Full comprehension of SQL, cardinality, levels of granularity, normalization vs. de-normalization, and database and tool optimization techniques
+Possess a professional understanding of data management best practices (e.g., Data Management Association (DAMA))
+Must have a strong desire to drive toward data standardization (industry-driven, open standards, enterprise-wide) and employ data management best practices.
+Experience managing metadata in a repository or supporting a data management program
+Experience with data warehouse design and dimensional data modeling
+Experience with data quality programs, data profiling and data cleansing techniques
+Company Overview: At CACI, you will have the opportunity to make an immediate impact by providing information solutions and services in support of national security missions and government transformation for Intelligence, Defense, and Federal Civilian customers. CACI is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other protected characteristic.
+Pay Range: The proposed salary range for this position is $74,600-$156,700. There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. Employment benefits include health and wellness programs, income protection, paid leave and, life insurance, retirement and savings.
+Show more
+Show less",Data Architect,CACI International Inc,State Farm, VA,Mid senior,Onsite,2024-01-12
+https://www.linkedin.com/jobs/view/data-architect-at-allspring-global-investments-3742700280,"data modeling, data warehousing, power designer, erwin, entity relationship data modeling, normalization techniques, kimball methodology, domain, referential integrity, data migration, data analysis, data quality, data profiling, agile development, sdlc, ci/cd, aws, dmbok, investment management","Elevate Your Career
+Work where your ideas have impact
+Company
+Allspring Global Investments™ is a leading independent asset management firm that offers a broad range of investment products and solutions designed to help meet clients' goals. At Allspring, our vision is to inspire a new era of investing that pursues both financial returns and positive outcomes. With decades of trusted experience propelling us forward, we strive to build portfolios aimed at generating successful outcomes for our clients. We do this through the independence of thought that powers our investment strategies and by bringing a renewed approach to look around the corner to unlock what's possible. Allspring is a company committed to thoughtful investing, purposeful planning, and the desire to deliver outcomes that expand above and beyond financial gains. For more information, please visit About Us - Allspring Global Investments.
+At Allspring, unique views inspire us. We leverage the diversity of people, ideas, and skills to help our clients pursue their financial goals. We strive to attract and retain a diverse talent pool that enables us to better serve our global client base. Intentionally fostering a diverse and inclusive culture allows us to empower innovation, productivity, and engagement. It’s also essential for elevating the experience of our clients as well as the communities in which we operate. Thank you for considering Allspring as you explore the next step in your career journey.
+POSITION
+Allspring is seeking a Data Architect with specialization in data modeling & data warehousing skills to join our Allspring Engineering and Technology team (Allspring ET).
+Responsibilities
+Develop conceptual/logical/physical data models.
+Reverse engineer un-documented databases and bring them to standards and manage them on an on-going basis.
+Establish best practices of data modeling, using Kimball methodologies for data warehousing and business intelligence.
+Manage data models, promote to higher environments.
+Develop self-documented data models with good data dictionary, naming standards, etc.
+Establish & enforce governance policies around data model management and enforce consistency through governed & automated deployment techniques.
+Day in the life looks as follows: Collaborate with business users, data stewards, data engineers to gather business requirements, design data models to fulfill the business needs, review the data models with stake holders to gather sign off to confirm the design and generate SQL scripts to be implemented in the database through deployment process, etc.
+Ensure the E/R models stay up to date backed by solid technical metadata and business glossaries to support the Data Governance.
+Follow the DMBOK framework of Data Architecture, Data Modeling, Data Storage, Data Security etc.
+Build data model reports through data modeling tools to present the design to the stakeholders.
+Synchronize data models and keep them up to date in the data model repository.
+Required Qualifications
+Bachelor’s degree or higher MIS, CS or other technology related field.
+Recent 5+ years of using data modeling tools (like Power Designer, Erwin, etc) for Entity Relationship data modeling (Conceptual/Logical/Physical).
+Strong requirement analysis skills to interpret the business needs correctly during the data model design.
+Deep expertise with Normalization techniques beyond 3 NF and dimensional modeling using Kimball methodology,
+Experience with domain, referential integrity (PK/FK), dependency constraints, unique keys, indexes, sequences, subject areas, STM, etc.
+Familiar with impact and lineage analysis, comparing and merging data models.
+Teamwork spirit, willing to share the knowledge and advocate the importance of data modeling as a foundation.
+Be able to work with any data domain such as data migration, data analysis, data quality, data profiling as needed.
+Proven experience with Agile development and SDLC using CI/CD principles.
+Strong verbal and written communication skills.
+Strong problem solving, troubleshooting skills.
+Able to work with a team or independently.
+Follow industry best practices and document design approach, standards, and guidelines to share with the team.
+Preferred Qualifications
+Knowledge of modernizing data pipelines from on-prem to cloud, preferably with AWS is highly desirable.
+Prior experience in migrating data from on-prem into AWS is highly desirable.
+Demonstrated ability to collaborate with teams spanning a range of locations and be able to navigate the matrix organization smoothly.
+Demonstrated flexibility to step into unfamiliar territory and be able to navigate ambiguity with attention to details is a bonus.
+Experience with Data Management frameworks such as DMBOK is an added advantage.
+Exposure to investment management industry is a plus.
+We are an Equal Opportunity/Affirmative Action Employer. We consider all qualified applicants for employment regardless of age, race, color, national origin, sex, religion, veteran status, disability, sexual orientation, gender identity, or any other protected status.
+Show more
+Show less",Data Architect,Allspring Global Investments,Boston, MA,Mid senior,Onsite,2024-01-13
+https://www.linkedin.com/jobs/view/data-architect-at-cohere-technology-group-3787901998,"data architect, sprint planning, coordination, architecture, information assurance, requirements, testing, configuration management, communication, presentation, fast paced environment, team interaction, client management, system user, database infrastructure, database, integration services, reporting services, data dictionaries, business glossaries, data lineages, data definitions, metadata, reference models, data architecture design, standards, best practices, ontology representation, data governance framework, user needs, data governance practices, data standards, data policies, data quality, data usage, data strategy, data architecture, policy, procedure, system help, training, data encryption, data integrity, data security, special studies, investigations, information systems, technical reports, memoranda, instructional manuals, dataquality issues, policies, procedures, internal controls, guidelines, protocols, data proliferation, privacy controls, database solutions, database models, database structural necessities, client operations, applications, programming, database implementation procedures, internal regulations, external regulations, information systems, database design, database architecture, data analysis, data standardization, data migration, legacy systems, new solutions, testing, troubleshooting, new features, database systems, training, individual support, presentations, reports, operational database administration support, database systems, backup, recovery, database downtime, query responses, database environment, policies, procedures, standards, tests, evaluations, data security, data privacy, data integrity, database performance, changes, patches, versions, plans, technical review board, monitoring, performance analysis, troubleshooting, problems, issues, incidents, jira, confluence","Cohere is looking for a Data Architect that will actively participate in sprint planning and review sessions with the product owner and provide coordination with architecture, information assurance, requirements, testing and configuration management personnel.
+The successful candidate must be able to communicate clearly and succinctly both written and orally, and present products and ideas in a business-like manner. The candidate will be required to work in dynamic fast paced environments that require team interaction and coordination of efforts. The candidate must be experienced in interfacing with both client managers and system users. The Data Architect will be competent in all areas of database infrastructure including database, integration services, and reporting services. The candidate should speak well in front of an audience and be able to present briefs to high ranking government personnel and be able to provide whiteboard sessions and presentations to personnel in a clear, concise but comprehensive manner.
+More About the Role:
+The position will involve working in development and production environments designing, developing, and supporting new database models or providing complex enhancements to the existing database for mission critical systems.
+This position requires an active TS/SCI Poly security clearance.
+To succeed in this role, you should have a passion for data and innovative theories and additional familiarity with the following:
+Create data dictionaries and business glossaries to document data lineages, data definitions and metadata for all business-critical data domains.
+Apply knowledge of reference models to data architecture design and maintain alignment with standards and best practices for ontology representation.
+Develop data governance framework that aligns with user needs and data governance practices and standards.
+Implement data architecture initiatives on data quality, data governance, data standards, and data policies across all core business functions to ensure consistency in data definitions and data usage.
+Guide efforts to define the mission, goals, critical success factors, principles, and policies for data strategy and architecture.
+Build a framework that encourages integration of policy, procedure, system help, training, and other useful resources.
+Help maintain the integrity and security of the database including data encryption.
+Conducts special studies and investigations pertaining to development of new information systems to meet current and projected needs
+Plans and prepares technical reports, memoranda, and instructional manuals relative to the establishment and functioning of complete operational systems
+Establish procedures for detection and correction of data-quality issues and collaborate to establish policies, procedures, and internal controls affecting the quality of data
+Establish guidelines and protocols that govern the proliferation of data to ensure that privacy controls are enforced in all processes
+Design and implements effective database solutions and models to store and retrieve data.
+Examine and identify database structural necessities by evaluating client operations, applications, and programming.
+Assess database implementation procedures to ensure they comply with internal and external regulations.
+Install and organize information systems to guarantee functionality.
+Develop database design and architecture documentation.
+Provide data analysis and establishes data standardization.
+Oversee the migration of data from legacy systems to new solutions.
+Perform regular tests, troubleshooting, and integrating new features.
+Recommend solutions to improve new and existing database systems.
+Educate staff members through training and individual support.
+Develop presentations and reports.
+Provide operational database administration support as needed:
+Build, support, and maintain database systems of high availability including backup and recovery
+Minimize database downtime and manage parameters to provide fast query responses
+Determine, enforce and document database environment, policies, procedures and standards
+Perform tests and evaluations regularly to ensure data security, privacy, and integrity
+Monitor database performance, implement changes and apply new patches and versions when required
+Prepare and present plans and changes to Technical Review Board
+Utilize monitoring and performance analysis to troubleshoot and isolate problems/issues/incidents
+Track all work activities in JIRA, and Confluence
+Compensation:
+Cohere knows that our employees are our most valuable assets. Cohere offers competitive pay, commensurate with experience, labor categories, and current market demands.
+FULLY PAID health care premiums for medical with PPO and HSA options
+FULLY PAID dental, vision, and life insurance
+Earn 240 hours PTO / year (30 days, accrued at 20 hours/month)
+401k plan with matching employer contributions and profit sharing
+Extremely lucrative referral programs
+Monthly billable incentive rewards
+Yearly training allowance for self-development
+Flexible schedules
+About Cohere:
+Cohere was founded in 2015 by seasoned intelligence community engineers to unify and streamline both cyber and kinetic workflows for the Intelligence Community and the Department of Defense.
+We are looking for candidates to join our team as we grow our cyber development department. This is an opportunity to join a close-knit team of engineers who are passionate about learning from each other and developing next-generation capabilities supporting our stakeholders’ operations. Your work will contribute directly to securing infrastructure from malicious cyber actors.
+We invest in our people, offering tailored training and mentorship as we grow our engineers. We believe that providing opportunities to learn fuels individual and organizational success. At Cohere, not only will you take your technical skills to the next level, but if desired, you can learn the processes and skills necessary to launch your own company too. We offer mentoring opportunities to learn from experienced leaders on creating and growing your own contracting business.
+If you have a background in coding and computer security and want to take your career to the next level, with the ability to learn from senior engineers invested in your success, apply today!
+Powered by JazzHR
+JoyyDqPkDk
+Show more
+Show less",Data Architect,Cohere Technology Group,McLean, VA,Mid senior,Onsite,2024-01-13
+https://au.linkedin.com/jobs/view/data-architect-at-australian-institute-of-company-directors-3796372288,"agile methodology, data architecture, data integration, data migration, data modelling, data platform concepts, data quality assessment, data structures, data transformation processes, data warehousing, enterprise architecture, togaf certification, bachelor’s degree in computer science computer engineering information systems, analytical skills, artificial intelligence, business requirements, communication skills, conceptual skills, data analysis, data governance, data management, data mining, data quality, data warehousing, design patterns, etl tools, machine learning, problemsolving skills, project management, sql, technical aptitude","Job Type: Contract
+Location: Melbourne, VIC
+Job Category: IT
+About Us
+The Australian Institute of Company Directors is committed to strengthening society through world-class governance. We aim to be the independent and trusted voice of governance, building the capability of a community of leaders for the benefit of society. Our membership of more than 50,000 includes directors and senior leaders from business, government and the not-for-profit sectors.
+Job Description
+About the team
+The Digital team is responsible for defining, executing and operationalising the AICD digital strategy, and the digitalisation of the AICD business.
+The goal is to fundamentally transform the AICD business model to use digital technologies and capabilities, enabling an unrivalled customer and staff experience, while providing new value producing opportunities.
+About The Role
+As the Data Architect, you will drive the design, oversee the implementation, and govern the data architecture and migration of the AICD’s Platform Modernisation Program. Your expertise and precision in data management, data asset analysis, data modelling, and data quality assessment will be critical in developing and establishing a comprehensive, best practice data migration and integration approach.
+An essential element to this role is strong engagement capabilities as you will need to cultivate effective relationships with key stakeholders and cross functional teams to achieve deliverables and successful outcomes. The ability to work with ambiguity to conceptualise solutions and navigate challenges will also see you succeed.
+This is an exciting time to join the AICD as we progress our digital transformation that is driving significant change across all aspects of the organisation including the adoption of an Agile mindset and cutting-edge technologies. You will play a key role in advancing AICD’s data and analytics capability and be a part of a growing team of data experts.
+Key Responsibilities
+Design, guide the implementation, and govern the migration as well as the data architecture for the Platform Modernisation project.
+Optimise, implement, and uphold enterprise data architecture aligned with business strategies and processes.
+Streamline data flows along the value chain using existing assets.
+Collaboratively align development plans with processes and systems.
+Provide leadership and technical guidance, leveraging expertise to ensure project success and adherence to data architecture and governance standards and practices.
+Establish methods to track and improve data quality.
+Drive, maintain and continuously improve architecture frameworks, maturity, systems, procedures and controls for the wider team.
+Develop then present designs and roadmaps to the Architecture Review Board then oversee it across multiple initiatives.
+Maintain strong awareness of emerging technology and market trends and evaluate suitability.
+About You
+Desired Skills and Experience
+You will have strong technical aptitude and previous relevant experience, and you will champion the AICD “OneTeam” approach and values of:
+Accountability, Respect, Excellence and Collaboration
+. In addition, you will also have the following:
+Bachelor’s Degree in Computer Science, Computer Engineering, Information Systems, or a similar related field.
+Extensive experience across data migration strategies, data solution architecture, design, and governance.
+TOGAF Certification or similar practical experience within Enterprise Architecture practices.
+Identification of organisational data needs and articulating complex technological solutions experience.
+Strong analytical, conceptual, and problem-solving skills.
+Well-developed ability to communicate, engage and influence leadership, a range of stakeholders and cross functional teams.
+Exceptional analysis, evaluation and reporting capabilities with a focus on translating business requirements into technical data models.
+Proven knowledge of data platform concepts, data transformation processes, data structures, and data extraction.
+Expertise in Artificial Intelligence / Machine Learning.
+Your career at the AICD
+Our Values
+Accountability, Respect, Excellence and Collaboration
+There are various benefits of joining the AICD, but the following are examples of what is offered:
+An inclusive and supportive work environment where your voice is respected.
+Access to salary sacrificing and salary continuance (income protection) insurance.
+Professional development with access to a wide range of training courses and webinars, professional coaching, and external education support.
+Hybrid/flexible working arrangements.
+Volunteer day and additional leave options.
+Personal wellbeing support through AICD’s robust employee assistance program for you and your immediate family.
+A solution focused, and collaborative organisation that celebrates a ‘One Team’ culture and great culture enriching initiatives.
+An opportunity to contribute to a widely respected organisation, that’s dedicated to positive social impact through their work in governance, policy, and leadership.
+We welcome applications from people of all ages, genders, sexuality, cultural and linguistic backgrounds, Aboriginal and Torres Strait Islander Peoples and people with a disability.
+For further information on what it’s like to work with us, please visit our Careers page:
+Our Careers page: https://www.aicd.com.au/about-aicd/work-aicd.html
+Our LinkedIn page: www.linkedin.com/school/35753/
+Show more
+Show less",Data Architect,Australian Institute of Company Directors,Melbourne, Victoria,Mid senior,Onsite,2024-01-13
+https://www.linkedin.com/jobs/view/data-architect-at-dice-3805519419,"data warehousing, data architect, data flow diagram, er diagram, visio, data governance, data standards, data standardization, data mastering, metadata management, data management, data visualization, data virtualization, data modelling, information management, mdm, data analysis, sql query tuning, banking, financial domain, knowledgedriven data processing, data curation, data representation, data standardization, data normalization, data integration, data persistence, data analysis, data exchange, data sharing, roadmap execution, information delivery, information management, data warehouse, business intelligence, analytics, system design, business strategy, technology strategy, scalability, evolvability","Dice is the leading career destination for tech experts at every stage of their careers. Our client, ClifyX, is seeking the following. Apply via Dice today!
+JOB DESCRIPTION:
+15 years of experience and Strong understanding of DW Concepts
+Prior experience as Data Architect, Should have experience building Data Flow Diagram, ER Diagram etc. using Visio.
+Strong understanding of Banking Applica tions & Payment Systems
+Strong Knowledge of Data Governance, Data Standards, , data standardization, data mastering and Metadata Management
+Demonstrated understanding of Data management, Data Visualization and Data Virtualization
+Data modelling
+Established experience delivering information management solutions to large numbers of end users and common provisioning of the enterprise data for all corporate functions & business units
+Knowledge of MDM
+Prior experience in data analysis and SQL query tuning.
+Banking and Financial domain experience
+Experienced in knowledge-driven data processing techniques like data curation, representation, standardization, normalization and any other type of processing that prepares the data fori ntegration, persistence, analysis, exchange share and so forth. #
+Responsibilities:
+Facilitate the establishment and execution of the roadmap and vision for information delivery and management including the enterprise data warehouse, BI & analyt ics and Data management
+Lead data engineers to architect and deliver the solutions that fulfill the Business information needs and align with the information vision and strategy
+Research and evaluate capability with other systems, alternative sol utions and recommend the most efficient and cost-effective solution for system design
+Apply business strategy while driving technology strategy, balancing short term and long term needs to ensure that the architecture can scale and evolve accordingly""
+Show more
+Show less",Data Architect,Dice,Morristown, NJ,Mid senior,Onsite,2024-01-13
+https://www.linkedin.com/jobs/view/data-architect-at-dice-3805519419,"data warehousing, data architect, data flow diagram, er diagram, visio, data governance, data standards, data standardization, data mastering, metadata management, data management, data visualization, data virtualization, data modelling, information management, mdm, data analysis, sql query tuning, banking, financial domain, knowledgedriven data processing, data curation, data representation, data standardization, data normalization, data integration, data persistence, data analysis, data exchange, data sharing, roadmap execution, information delivery, information management, data warehouse, business intelligence, analytics, system design, business strategy, technology strategy, scalability, evolvability","Dice is the leading career destination for tech experts at every stage of their careers. Our client, ClifyX, is seeking the following. Apply via Dice today!
+JOB DESCRIPTION:
+15 years of experience and Strong understanding of DW Concepts
+Prior experience as Data Architect, Should have experience building Data Flow Diagram, ER Diagram etc. using Visio.
+Strong understanding of Banking Applica tions & Payment Systems
+Strong Knowledge of Data Governance, Data Standards, , data standardization, data mastering and Metadata Management
+Demonstrated understanding of Data management, Data Visualization and Data Virtualization
+Data modelling
+Established experience delivering information management solutions to large numbers of end users and common provisioning of the enterprise data for all corporate functions & business units
+Knowledge of MDM
+Prior experience in data analysis and SQL query tuning.
+Banking and Financial domain experience
+Experienced in knowledge-driven data processing techniques like data curation, representation, standardization, normalization and any other type of processing that prepares the data fori ntegration, persistence, analysis, exchange share and so forth. #
+Responsibilities:
+Facilitate the establishment and execution of the roadmap and vision for information delivery and management including the enterprise data warehouse, BI & analyt ics and Data management
+Lead data engineers to architect and deliver the solutions that fulfill the Business information needs and align with the information vision and strategy
+Research and evaluate capability with other systems, alternative sol utions and recommend the most efficient and cost-effective solution for system design
+Apply business strategy while driving technology strategy, balancing short term and long term needs to ensure that the architecture can scale and evolve accordingly""
+Show more
+Show less",Data Architect,Dice,Morristown, NJ,Mid senior,Onsite,2024-01-13
+https://www.linkedin.com/jobs/view/data-architect-at-quantumbricks-3679884275,"data architecture, informatica, data modeling, data integration, data quality, data governance, performance optimization, metadata management, collaboration, documentation, training, continuous improvement, computer science, information technology, data architect, etl, powercenter, powerexchange, data quality (idq), master data management (mdm), sql, data warehousing, data analytics, analytical, problemsolving, communication, teamwork, data profiling, data mapping, data lineage analysis, informatica certifications, data management certifications","Job Title: Data Architect
+Loc: Orlando, FL (
+Day 1 Onsite
+) (
+No H1B
+)
+Exp: 15 Yrs
+Job Description
+Key Responsibilities:
+Data Architecture Design: Collaborate with stakeholders, including business analysts, data engineers, and database administrators, to understand business requirements and design data architectures that support data integration, transformation, and storage within the Informatica ecosystem.
+Informatica Tool Selection: Evaluate and recommend appropriate Informatica tools and components for specific data-related projects and initiatives, ensuring alignment with organizational goals and data management standards.
+Data Modeling: Develop and maintain data models that capture the structure, relationships, and definitions of data entities, ensuring data accuracy, consistency, and integrity throughout the data lifecycle.
+Data Integration: Design and implement data integration solutions using Informatica PowerCenter, PowerExchange, and other relevant Informatica products to facilitate seamless data flow between various systems and platforms.
+Data Quality and Governance: Define and enforce data quality standards, data governance policies, and data security measures to ensure compliance with industry regulations and organizational data governance requirements.
+Performance Optimization: Identify opportunities to enhance data processing efficiency, optimize data workflows, and improve overall system performance using Informatica's performance tuning techniques.
+Metadata Management: Implement and maintain metadata repositories, enabling effective data lineage, data impact analysis, and data cataloging to support data governance and data lineage requirements.
+Collaboration and Support: Work closely with cross-functional teams, including data analysts, data scientists, and business stakeholders, to understand their data needs and provide guidance on leveraging Informatica solutions effectively.
+Documentation and Training: Create and maintain comprehensive technical documentation for data integration processes, data models, and system architectures. Conduct training sessions for end-users and team members to promote knowledge sharing and best practices adoption.
+Continuous Improvement: Stay abreast of the latest developments in Informatica technologies and data management practices, and proactively identify opportunities to improve existing processes and adopt new features to enhance overall data solutions.
+Requirements
+Bachelor's or Master's degree in Computer Science, Information Technology, or a related field.
+Proven experience as a Data Architect, with a focus on Informatica tools and technologies.
+In-depth knowledge of data modeling, data integration, ETL (Extract, Transform, Load) processes, and data governance principles.
+Hands-on experience with Informatica PowerCenter, PowerExchange, Informatica Data Quality (IDQ), and Informatica MDM (Master Data Management) is highly desirable.
+Strong SQL and database management skills.
+Familiarity with data warehousing concepts and data analytics tools.
+Excellent analytical, problem-solving, and communication skills.
+Ability to work collaboratively in a team environment and lead data-related projects.
+Experience in data profiling, data mapping, and data lineage analysis is a plus.
+Industry certifications in Informatica or data management domains are advantageous
+Show more
+Show less",Data Architect,QuantumBricks,Orlando, FL,Mid senior,Onsite,2024-01-12
+https://www.linkedin.com/jobs/view/data-architect-at-techstra-solutions-3676379145,"data architecture, data infrastructure, data management, data integration, data modeling, data warehousing, data security, data privacy, business requirements, technical specifications, data streams, databases, reference data, master data, reference architecture, data flows, data analysis, statistical information, relational databases, foundational databases, database management software, verbal communication, written communication, it team leadership, complex concepts explanation, attention to detail, multitasking, troubleshooting, problem solving, networking, roadblock identification, issue resolution, sensitive information handling, remote work, digital transformation, talent transformation, business strategy, technology, innovation, human capital management, client consulting, staffing solutions, software development, strategic requirements","Techstra is seeking an experienced Data Architect to be responsible for designing data infrastructure to extract and organize data for authorized individuals to access. Their duties include identifying a company’s internal and external data sources, collaborating with department heads to determine their data storage and organizational needs and using the information to create and maintain data infrastructure for company employees
+From the day you join, you will hit the ground running surrounded by amazing people. Here is a look of some of the expectations and responsibilities for this position:
+Responsibilities
+Translating business requirements into technical specifications, including data streams, integrations, transformations, databases, and data warehouses
+Defining the data architecture framework, standards, and principles, including modeling, metadata, security, reference data such as product codes and client categories, and master data such as clients, vendors, materials, and employees
+Defining reference architecture, which is a pattern that others can follow to create and improve data systems
+Defining data flows, i.e., which parts of the organization generate data, which require data to function, how data flows are managed, and how data changes in transition
+Collaborating and coordinating with multiple departments, stakeholders, partners, and external vendors
+Employ best-practices and standards with security and privacy in mind
+Key Qualifications
+3+ years in the Healthcare Insurance/Healthcare Provider industries
+Bachelor’s degree required in Computer Science or Information Systems or equivalent degree
+Operating within a large corporate (or global) environment with sensitive data (PII, PHI, etc.) and compliance requirements.
+Responsible for visualizing and designing an organization's enterprise data management framework
+The ability to translate business requirements into technology requirements and define data standards and principles.
+Math and computer science proficiency
+The ability to analyze and present statistical information
+Mastery of specific types of databases, such as relational or foundational databases
+Experience with database management software
+Data management skills
+Exceptional verbal and written communication skills
+Ability to lead an IT team
+Ability to explain complicated concepts in simple terms
+Excellent attention to detail
+Multitasking ability
+Outstanding troubleshooting/problem solving abilities.
+Inquisitive and resourceful– not afraid to network within the organizations to ask relevant questions
+Excellent verbal and written communication skills – ability to explain complex concepts to a wide variety of individuals with varying technical skills.
+Team builder and facilitator of cross team discussions with proven ability to identify and remove roadblocks and resolve issues
+Ability to handle sensitive and confidential information appropriately
+Location
+This position is available as primarily remote from home (Due to COVID-19 all work is currently remote).
+At Techstra Solutions, we help top companies and brands achieve the business value ofDigital and Talent Transformation.We believe there are three components in successful business transformation: Business Strategy, Technology and Talent. It is the coming together of these three disciplines that enable companies to take full advantage of opportunities. It differentiates us. Our approach is holistic and all encompassing. We consider the full picture as we guide our clients on this journey.
+We are experts in transformation, business strategy, technology, innovation, and human capital management. We deliver our expertise through client consulting, innovative staffing solutions and software development. From strategy through implementation, we are dedicated to bringing our clients world-class business and talent solutions that fit strategic requirements and most importantly, deliver results.
+Show more
+Show less",Data Architect,Techstra Solutions,Pittsburgh, PA,Mid senior,Onsite,2024-01-12
+https://www.linkedin.com/jobs/view/data-architect-at-cdw-3793525313,"data architecture, data strategy, data modeling, sql, nosql, hadoop, azure data factory, data governance, data quality, data integration, data transformation, data cleansing, etl/elt, stored procedures, userdefined functions, common table expressions, data warehouse, data analysis, data management, conceptual data models, logical data models, physical data models, relational data models, business knowledge, quality requirements, regulatory requirements, manufacturing systems, technical communication, conceptual communication, interpersonal communication, written communication, verbal communication, problemsolving, adaptability","One of CDW’s Top Clients is looking to hire a Data Architect for a permanent position onsite in Charlotte, NC.
+Location: Onsite (South Charlotte, Carowinds area)
+Job Type: Direct Hire
+Salary Range: $120-150K
+Interview Process: (2) 1-hour interviews to offer
+Scope of Work:
+Will be responsible for designing, developing, and implementing the data architecture strategy aligned with business objectives.
+Collaborate with stakeholders to understand data needs and translate them into effective solutions.
+Design and maintain conceptual, logical, and physical data models for integrity and consistency.
+Define data standards, governance processes, and management best practices.
+Evaluate and recommend new technologies to optimize data architecture and enhance data quality.
+Serve as the Subject Matter Expert (SME) for recommended technical approaches for solving our internal complex data-related development and integration problems.
+Provide guidance and mentorship to data engineering team.
+Stay informed about industry trends and advancements in data architecture, data management, and data governance.
+Ensure data quality and consistency through data integration, transformation, and cleansing.
+Participate in on-call rotation and assist with after-hours issues, as required.
+Requirements:
+Bachelor’s degree in computer science or information systems science, or equivalent experience (Master's degree preferred).
+6+ years of comprehensive data warehouse analysis and design experience, with full knowledge of data warehouse methodologies, data modeling and ETL/ELT processes.
+5+ years of experience with SQL programming objects, including stored procedures, user-defined functions, and common table expressions.
+5+ years of experience with data management tools and technologies (e.g., SQL, NoSQL, Hadoop, etc.).
+Prior experience developing cloud-based data solutions using Azure Data Factory.
+Create conceptual, logical, and physical data models, typically for the purpose of creating or extending complex relational data models.
+Working knowledge of general business, quality/regulatory requirements, and /or manufacturing systems is preferred.
+Familiarity with data governance frameworks and best practices.
+Must demonstrate proficiency with technical, conceptual, interpersonal, written, and verbal communication skills.
+Must demonstrate ability to adapt to changing priorities and respond to problems creatively.
+Show more
+Show less",Data Architect,CDW,Charlotte, NC,Mid senior,Onsite,2024-01-12
+https://www.linkedin.com/jobs/view/data-architect-at-themesoft-inc-3804287038,"data modelling, dw concepts, data flow diagram, er diagram, visio, banking applications, payment systems, data governance, data standards, data standardization, data mastering, metadata management, data management, data visualization, data virtualization, mdm, data analysis, sql query tuning, banking and financial domain, data curation, data representation, data standardization, data normalization, data integration, data persistence, data analysis, data exchange, data sharing, enterprise data warehouse, bi & analytics, data management, business information needs, information vision, information strategy, capability evaluation, system design, business strategy, technology strategy, short term needs, long term needs","Job Title: Data Architect
+Location: Morristown, NJ (On-Site)
+Duration: Contract
+Must Have : Data modelling
+Job Description:
+This position is responsible to prepare the end to end data diagram for data integration of 80 applications in Community Association Banking Business space. The Data Architect will be responsible to work with application owners, SMEs, D ata Analysts, Business Analysts to gain the knowledge and leverage his expertise to build the Data architecture, data flow diagram and various artifacts. The Data Architect will work with the client leadership team to build the technical roadmap fort he portfolio.
+Skillset
+15 years of experience and Strong understanding of DW Concepts
+Prior experience as Data Architect, Should have experience building Data Flow Diagram, ER Diagram etc. using Visio.
+Strong understanding of Banking Applica tions & Payment Systems
+Strong Knowledge of Data Governance, Data Standards, , data standardization, data mastering and Metadata Management
+Demonstrated understanding of Data management, Data Visualization and Data Virtualization
+Data modelling
+Established experience delivering information management solutions to large numbers of end users and common provisioning of the enterprise data for all corporate functions & business units
+Knowledge of MDM
+Prior experience in data analysis and SQL query tuning.
+Banking and Financial domain experience
+Experienced in knowledge-driven data processing techniques like data curation, representation, standardization, normalization and any other type of processing that prepares the data fori ntegration, persistence, analysis, exchange share and so forth. #
+Responsibilities:
+Facilitate the establishment and execution of the roadmap and vision for information delivery and management including the enterprise data warehouse, BI & analyt ics and Data management
+Lead data engineers to architect and deliver the solutions that fulfill the Business information needs and align with the information vision and strategy
+Research and evaluate capability with other systems, alternative sol utions and recommend the most efficient and cost-effective solution for system design
+Apply business strategy while driving technology strategy, balancing short term and long term needs to ensure that the architecture can scale and evolve accordingly""
+Show more
+Show less",Data Architect,Themesoft Inc.,Morristown, NJ,Mid senior,Onsite,2024-01-12
+https://www.linkedin.com/jobs/view/data-architect-at-themesoft-inc-3804287038,"data modelling, dw concepts, data flow diagram, er diagram, visio, banking applications, payment systems, data governance, data standards, data standardization, data mastering, metadata management, data management, data visualization, data virtualization, mdm, data analysis, sql query tuning, banking and financial domain, data curation, data representation, data standardization, data normalization, data integration, data persistence, data analysis, data exchange, data sharing, enterprise data warehouse, bi & analytics, data management, business information needs, information vision, information strategy, capability evaluation, system design, business strategy, technology strategy, short term needs, long term needs","Job Title: Data Architect
+Location: Morristown, NJ (On-Site)
+Duration: Contract
+Must Have : Data modelling
+Job Description:
+This position is responsible to prepare the end to end data diagram for data integration of 80 applications in Community Association Banking Business space. The Data Architect will be responsible to work with application owners, SMEs, D ata Analysts, Business Analysts to gain the knowledge and leverage his expertise to build the Data architecture, data flow diagram and various artifacts. The Data Architect will work with the client leadership team to build the technical roadmap fort he portfolio.
+Skillset
+15 years of experience and Strong understanding of DW Concepts
+Prior experience as Data Architect, Should have experience building Data Flow Diagram, ER Diagram etc. using Visio.
+Strong understanding of Banking Applica tions & Payment Systems
+Strong Knowledge of Data Governance, Data Standards, , data standardization, data mastering and Metadata Management
+Demonstrated understanding of Data management, Data Visualization and Data Virtualization
+Data modelling
+Established experience delivering information management solutions to large numbers of end users and common provisioning of the enterprise data for all corporate functions & business units
+Knowledge of MDM
+Prior experience in data analysis and SQL query tuning.
+Banking and Financial domain experience
+Experienced in knowledge-driven data processing techniques like data curation, representation, standardization, normalization and any other type of processing that prepares the data fori ntegration, persistence, analysis, exchange share and so forth. #
+Responsibilities:
+Facilitate the establishment and execution of the roadmap and vision for information delivery and management including the enterprise data warehouse, BI & analyt ics and Data management
+Lead data engineers to architect and deliver the solutions that fulfill the Business information needs and align with the information vision and strategy
+Research and evaluate capability with other systems, alternative sol utions and recommend the most efficient and cost-effective solution for system design
+Apply business strategy while driving technology strategy, balancing short term and long term needs to ensure that the architecture can scale and evolve accordingly""
+Show more
+Show less",Data Architect,Themesoft Inc.,Morristown, NJ,Mid senior,Onsite,2024-01-12
+https://www.linkedin.com/jobs/view/data-architect-at-ekodus-3782095022,"data architecture, application architecture, information management, data management, data analytics, business intelligence, advanced analytics, data standards, best practices, policies and procedures, integration patterns, data models, data flow, data services, application development, enterprise architecture, data architecture patterns, new tools and technologies, proof of concepts (pocs), implementation, adoption","Position Data Architect
+Location - Branchville, NJ / 2-day Hybrid
+Contract
+Job Description
+Essentially this role is an application architect, focusing on info management env.
+The Data and Analytics Architect is responsible for the overall design of the data, platforms, and applications (batch/real-time, cloud/hybrid) within our Information Management area (including Business Intelligence & Advanced Analytics).
+This will include the definition of standards, best practices, policies and procedures, integration patterns, data models, high-level data flow, and data services.
+This Architect will work in collaboration with Application Development teams, Enterprise Architecture, and business partners to establish data and analytics architecture patterns, evaluate new tools and technologies, provide recommendations, support POCs, and assist with implementation/adoption as appropriate
+Please share your resume to career@ekodusinc.com
+Show more
+Show less",Data Architect,Ekodus,Bradevelt, NJ,Mid senior,Onsite,2024-01-13
+https://www.linkedin.com/jobs/view/data-architect-at-dice-3805518369,"data architect, data modelling, data warehousing (dw) concepts, data flow diagram (dfd), entity relationship diagram (erd), visio, banking applications, payment systems, data governance, data standards, data standardization, data mastering, metadata management, data management, data visualization, data virtualization, master data management (mdm), sql query tuning, banking and financial domain, data curation, data representation, data normalization, data processing, data integration, data persistence, data analysis, data exchange, data sharing, information delivery, information management, enterprise data warehouse (edw), business intelligence (bi), analytics, data engineers, solution architecture, business information needs, information vision, information strategy, capability evaluation, system design, business strategy, technology strategy","Dice is the leading career destination for tech experts at every stage of their careers. Our client, ReqRoute, Inc, is seeking the following. Apply via Dice today!
+Job Title: Data Architect
+Must Have : Data modelling
+Type: Contract
+Location: Morristown, NJ (onsite day 1)
+Job Summary
+This position is responsible to prepare the end to end data diagram for data integration of 80 applications in Community Association Banking Business space. The Data Architect will be responsible to work with application owners, SMEs, D ata Analysts, Business Analysts to gain the knowledge and leverage his expertise to build the Data architecture, data flow diagram and various artifacts. The Data Architect will work with the client leadership team to build the technical roadmap fort he portfolio.
+Skillset
+15 years of experience and Strong understanding of DW Concepts
+Prior experience as Data Architect, Should have experience building Data Flow Diagram, ER Diagram etc. using Visio.
+Strong understanding of Banking Applica tions & Payment Systems
+Strong Knowledge of Data Governance, Data Standards, , data standardization, data mastering and Metadata Management
+Demonstrated understanding of Data management, Data Visualization and Data Virtualization
+Data modelling
+Established experience delivering information management solutions to large numbers of end users and common provisioning of the enterprise data for all corporate functions & business units
+Knowledge of MDM
+Prior experience in data analysis and SQL query tuning.
+Banking and Financial domain experience
+Experienced in knowledge-driven data processing techniques like data curation, representation, standardization, normalization and any other type of processing that prepares the data fori ntegration, persistence, analysis, exchange share and so forth. #
+Responsibilities:
+Facilitate the establishment and execution of the roadmap and vision for information delivery and management including the enterprise data warehouse, BI & analytics and Data management
+Lead data engineers to architect and deliver the solutions that fulfill the Business information needs and align with the information vision and strategy
+Research and evaluate capability with other systems, alternative solutions and recommend the most efficient and cost-effective solution for system design
+Apply business strategy while driving technology strategy, balancing short term and long term needs to ensure that the architecture can scale and evolve accordingly""
+Show more
+Show less",Data Architect,Dice,Morristown, NJ,Mid senior,Onsite,2024-01-13
+https://www.linkedin.com/jobs/view/data-architect-at-dice-3805519448,"data modeling, dw concepts, data architect, data flow diagram, er diagram, visio, banking applications, payment systems, data governance, data standards, data standardization, data mastering, metadata management, data management, data visualization, data virtualization, mdm, data analysis, sql, banking, financial domain, data curation, data representation, data standardization, data normalization, data integration, data persistence, data analysis, data exchange, enterprise data warehouse, bi & analytics, data management, business information, information vision, strategy, system design","Dice is the leading career destination for tech experts at every stage of their careers. Our client, ClifyX, is seeking the following. Apply via Dice today!
+ClifyX group is an award winning IT Consultancy formed in 1998. Our Mission is to provide our clients with Optimal Technology solutions that are effective and within budgets. We specialize in helping Organizations to review their strategic SOW Projects/Talent needs and implement high value and cost effective solutions to increase profitability and efficiency. Our consulting capabilities include expertise in Cloud, Artificial Intelligence, Data Analytics and compliance aspects of Cyber Security development.
+Work With Us : What makes working at ClifyX so great? We give tons of flexibilty, listen to you, give opportunity to work in different technologies, give feedback on your profile and present you to global fortune companies.
+Job Title: Data Architect
+Location: Morristown, NJ (onsite day 1)
+Must have : data Modeling
+Job Description:
+15 years of experience and Strong understanding of DW Concepts
+Prior experience as Data Architect, Should have experience building Data Flow Diagram, ER Diagram etc. using Visio.
+Strong understanding of Banking Applica tions & Payment Systems
+Strong Knowledge of Data Governance, Data Standards, , data standardization, data mastering and Metadata Management
+Demonstrated understanding of Data management, Data Visualization and Data Virtualization
+Data modelling
+Established experience delivering information management solutions to large numbers of end users and common provisioning of the enterprise data for all corporate functions & business units
+Knowledge of MDM
+Prior experience in data analysis and SQL query tuning.
+Banking and Financial domain experience
+Experienced in knowledge-driven data processing techniques like data curation, representation, standardization, normalization and any other type of processing that prepares the data fori ntegration, persistence, analysis, exchange share and so forth. #
+Responsibilities:
+Facilitate the establishment and execution of the roadmap and vision for information delivery and management including the enterprise data warehouse, BI & analyt ics and Data management
+Lead data engineers to architect and deliver the solutions that fulfill the Business information needs and align with the information vision and strategy
+Research and evaluate capability with other systems, alternative sol utions and recommend the most efficient and cost-effective solution for system design
+Apply business strategy while driving technology strategy, balancing short term and long term needs to ensure that the architecture can scale and evolve accordingly""
+We are an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, sexual orientation, disability status, protected veteran status, or any other characteristic protected by law.
+Show more
+Show less",Data Architect,Dice,Morristown, NJ,Mid senior,Onsite,2024-01-13
+https://www.linkedin.com/jobs/view/data-architect-at-dice-3805519448,"data modeling, dw concepts, data architect, data flow diagram, er diagram, visio, banking applications, payment systems, data governance, data standards, data standardization, data mastering, metadata management, data management, data visualization, data virtualization, mdm, data analysis, sql, banking, financial domain, data curation, data representation, data standardization, data normalization, data integration, data persistence, data analysis, data exchange, enterprise data warehouse, bi & analytics, data management, business information, information vision, strategy, system design","Dice is the leading career destination for tech experts at every stage of their careers. Our client, ClifyX, is seeking the following. Apply via Dice today!
+ClifyX group is an award winning IT Consultancy formed in 1998. Our Mission is to provide our clients with Optimal Technology solutions that are effective and within budgets. We specialize in helping Organizations to review their strategic SOW Projects/Talent needs and implement high value and cost effective solutions to increase profitability and efficiency. Our consulting capabilities include expertise in Cloud, Artificial Intelligence, Data Analytics and compliance aspects of Cyber Security development.
+Work With Us : What makes working at ClifyX so great? We give tons of flexibilty, listen to you, give opportunity to work in different technologies, give feedback on your profile and present you to global fortune companies.
+Job Title: Data Architect
+Location: Morristown, NJ (onsite day 1)
+Must have : data Modeling
+Job Description:
+15 years of experience and Strong understanding of DW Concepts
+Prior experience as Data Architect, Should have experience building Data Flow Diagram, ER Diagram etc. using Visio.
+Strong understanding of Banking Applica tions & Payment Systems
+Strong Knowledge of Data Governance, Data Standards, , data standardization, data mastering and Metadata Management
+Demonstrated understanding of Data management, Data Visualization and Data Virtualization
+Data modelling
+Established experience delivering information management solutions to large numbers of end users and common provisioning of the enterprise data for all corporate functions & business units
+Knowledge of MDM
+Prior experience in data analysis and SQL query tuning.
+Banking and Financial domain experience
+Experienced in knowledge-driven data processing techniques like data curation, representation, standardization, normalization and any other type of processing that prepares the data fori ntegration, persistence, analysis, exchange share and so forth. #
+Responsibilities:
+Facilitate the establishment and execution of the roadmap and vision for information delivery and management including the enterprise data warehouse, BI & analyt ics and Data management
+Lead data engineers to architect and deliver the solutions that fulfill the Business information needs and align with the information vision and strategy
+Research and evaluate capability with other systems, alternative sol utions and recommend the most efficient and cost-effective solution for system design
+Apply business strategy while driving technology strategy, balancing short term and long term needs to ensure that the architecture can scale and evolve accordingly""
+We are an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, sexual orientation, disability status, protected veteran status, or any other characteristic protected by law.
+Show more
+Show less",Data Architect,Dice,Morristown, NJ,Mid senior,Onsite,2024-01-13
+https://www.linkedin.com/jobs/view/data-architect-at-v-soft-consulting-group-inc-3797041240,"data architect, data warehouse concepts, data flow diagram, er diagram, visio, data governance, data standards, data standardization, data mastering, metadata management, banking applications, payment systems, data management, data visualization, data virtualization, data modelling, mdm, data analysis, sql query tuning, banking and financial domain, data curation, data representation, data standardization, data normalization, information management solutions, enterprise data provisioning, business strategy, technology strategy, enterprise data warehouse, business intelligence, analytics, data management, system design, roadmap, vision","Primary Location: Morristown, New Jersey
+V-Soft Consulting is currently hiring for a
+Data Architect
+for our premier client in
+Morristown, New Jersey
+.
+Education And Experience »
+15 years of experience and Strong understanding of DW Concepts.
+Prior experience as Data Architect, should have experience building Data Flow Diagram, ER Diagram etc. using Visio.
+Strong Knowledge of Data Governance, Data Standards, data standardization, data mastering and Metadata Management.
+Strong understanding of Banking Applications & Payment Systems.
+Demonstrated understanding of Data management, Data Visualization and Data Virtualization.
+Data modelling:
+Established experience delivering information management solutions to large numbers of end users and common provisioning of the enterprise data for all corporate functions & business units.
+Knowledge Of MDM
+Prior experience in data analysis and SQL query tuning.
+Banking and Financial domain experience.
+Experienced in knowledge-driven data processing techniques like data curation, representation, standardization, normalization and any other type of processing that prepares the data for integration, persistence, analysis, exchange share and so forth.
+What You’ll Do
+Job Responsibilities:
+Lead data engineers to architect and deliver the solutions that fulfill the Business information needs and align with the information vision and strategy.
+Apply business strategy while driving technology strategy, balancing short term and long term needs to ensure that the architecture can scale and evolve accordingly"".
+Research and evaluate capability with other systems, alternative solutions and recommend the most efficient and cost-effective solution for system design.
+Facilitate the establishment and execution of the roadmap and vision for information delivery and management including the enterprise data warehouse, BI & analytics and Data management.
+Interested?
+Qualified candidates should send their resumes to
+mamil@vsoftconsulting.com
+V-Soft Consulting Group is recognized among the top 100 fastest growing staffing companies in North America, V-Soft Consulting Group is headquartered in Louisville, KY with strategic locations in India, Canada and the U.S. V-Soft is known as an agile, innovative technology services company holding several awards and distinctions and has a wide variety of partnerships across diverse technology stacks.
+As a valued V-Soft Consultant, you’re eligible for full benefits (Medical, Dental, Vision), a 401(k) plan, competitive compensation and more. V-Soft is partnered with numerous Fortune 500 companies, exceptionally positioned to advance your career growth.
+V-Soft Consulting provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+For more information or to view all our open jobs, please visit www.vsoftconsulting.com or call (844) 425-8425.
+#INDSP
+#Jobs
+Show more
+Show less",Data Architect,"V-Soft Consulting Group, Inc.",Morristown, NJ,Mid senior,Onsite,2024-01-13
+https://uk.linkedin.com/jobs/view/data-architect-at-marc-jehotte-sprl-3803891580,"data architect, data modelling, data warehousing, analytic endtoend architecture, 3nf, dimensional data vault, machine learning, modern algorithmic techniques, agile, scrum, xp, ai, reusable tech, metrics, system design, business strategy, crossfunctional collaboration, data analysis, data visualization, data management, data security, cloud computing, big data, architecture, software development, communication, influencing, curiosity, problem solving, business process understanding, data utilization, data governance, data quality, data integration, data migration, data lineage, data dictionary, data catalog, data lake, data engineering, dataops, data science, business intelligence, analytics, reporting, visualization, data mining, machine learning, artificial intelligence, natural language processing, computer vision, deep learning, reinforcement learning, neural networks, big data tools, hadoop, spark, hive, pig, flink, kafka, nosql databases, mongodb, cassandra, hbase, influxdb, elasticsearch, data visualization tools, tableau, power bi, qlikview, data mining tools, rapidminer, knime, weka, machine learning libraries, tensorflow, pytorch, keras, scikitlearn, theano, mxnet, data integration tools, informatica, talend, ibm datastage, data migration tools, informatica powercenter, talend data integration, ibm datastage, data quality tools, informatica data quality, talend data quality, ibm infosphere datastage, data governance tools, informatica data governance, talend data governance, ibm infosphere data governance, data catalog tools, informatica data catalog, talend data catalog, ibm infosphere data catalog","Job Description
+Wed all like amazing work to do, and real work-life balance. Thats waiting for you at Sainsburys. Think about the scale it takes for us to feed the nation. The level of data, transactions and variety it involves. Then youll realise that ours is a modern software engineering environment because it has to be. Weve made serious investment into a Tech Academy and into setting standards and principles. We iterate, learn, experiment and push ways of working such as Agile, Scrum and XP. So you can look forward to awesome opportunities in everything from AI to reusable tech.
+Sainsburys Tech - Data Architect
+Why join us
+Joining our team at Sainsbury's means becoming part of a multi-channel, multi-brand business that serves millions of customers daily, providing a vast and diverse dataset that is truly exciting. With over 1.2 billion transactions each year, we have the opportunity to harness this data and build scalable, high-performance products using cutting-edge technology, such as our award-winning Smartshop app, to deliver an exceptional shopping experience for our customers. As a Data Architect, you will play a crucial role in designing and building advanced data solutions and models, working closely with cross-functional teams to shape innovative products and services. In our inclusive and agile environment, you will have the freedom to explore, experiment, and tackle real-world challenges, witnessing the impact of your creations on millions of people across the UK. Additionally, you will benefit from a supportive culture that fosters innovation, collaboration, continuous learning, and personal ownership. Together, we strive to create a work-life balance that enables you to excel in your professional and personal aspirations.
+What you'll do
+As a Data Architect within our multi-channel, multi-brand business, you will play a pivotal role in designing and building leading-edge data solutions and models. Working closely with colleagues such as Product Owners and the Engineering community, you will ensure the delivery of optimal data solutions that align with business requirements. Your responsibilities will include triaging new requirements, assessing their impact, and providing estimates for modifying data models accordingly. You will also be responsible for developing and enhancing business physical data models to meet evolving needs while driving alignment as necessary. Acting as the custodian of data models, you will define and own modelling within delivery teams, ensuring adherence to standards and principles. It will be your duty to create solutions that fulfil business needs and align with the end state architecture, while simultaneously documenting, communicating, and centrally managing data models in an appropriate manner. Collaborating with the broader architecture community, you will share your expertise to promote alignment and innovation across Sainsburys Tech. As an experienced Data Modeller or Architect, you will bring your passion for creating order within reporting structures, along with a comprehensive understanding of Data Warehousing/Analytic end-to-end architecture. Your proficiency with various modelling methodologies, such as 3NF, Dimensional, and Data Vault, will be essential, and your expertise in staying up to date with industry advancements, including machine learning and modern algorithmic techniques at scale, will be valuable in driving data design best practices. Strong communication and influencing skills will enable you to advocate for and implement these best practises at the Engineering and Product Manager levels. A curious and driven mindset will empower you to comprehend business processes and the data they generate, leveraging opportunities to structure and utilise this data for driving business value. In addition to abundant training and growth opportunities, you will enjoy benefits such as colleague discounts, holiday allowance, bonus schemes, pension plans, and special offers on various lifestyle perks. We prioritise work-life balance and offer flexibility in terms of remote and collaborative working, empowering our colleagues to find their own ideal balance while delivering exceptional results.
+Who you are
+As a Data Architect for our multi-channel, multi-brand business, you are a skilled and experienced professional who thrives in working with vast and complex data sets. With a passion for creating order within reporting structures, you possess expertise in data warehousing, analytic end-to-end architecture, and various modelling methodologies such as 3NF, Dimensional, and Data Vault. Your knowledge of the latest industry developments, including machine learning and modern algorithmic techniques at scale, enables you to design and build leading-edge data solutions that deliver valuable insights and enhance the overall customer experience. Your strong communication and influencing skills, combined with your curiosity and drive to understand business processes and leverage data for driving business value, make you a valuable asset in shaping and designing new products and services within the overall data architecture of our organisation.
+Benefits
+We are committed to being a truly inclusive retailer so youll be welcomed whoever you are and wherever you work. Around here, theres always the chance to try something new whether thats as part of an evolving team or somewhere else across the business - and we take development seriously and promise to support you. We also recognise and celebrate colleagues when they go the extra mile and, where possible, offer flexible working. When you join our team, well also offer you an amazing range of benefits. Here are some of them:
+Starting off with colleague discount, you'll be able to save 10% on your shopping online and instore at Sainsbury's, Argos, TU and Habitat, and we regularly increase the discount to 15% at points during the year. We've also got you covered for your future with our pensions scheme and life cover. You'll also be able to share in our success as you may be eligible for a performance-related bonus of up to 10% of salary, depending on how we perform.
+Your wellbeing is important to us too. You'll receive an annual holiday allowance and you can buy up to an additional week's holiday. We also offer other benefits that will help your money go further such as season ticket loans, cycle to work scheme, health cash plans, salary advance (where you can access some of your pay before pay day) as well access to a great range of discounts from hundreds of other retailers. And if you ever need it there is also an employee assistance programme.
+Moments that matter are as important to us as they are to you which is why we give up to 26 weeks pay for maternity or adoption leave and up to 4 weeks pay for paternity leave.
+Please see www.sainsburys.jobs for a range of our benefits (note, length of service and eligibiity criteria may apply).
+Show more
+Show less",Data Architect,Marc Jehotte sprl,Southampton, England,Mid senior,Onsite,2024-01-13
+https://www.linkedin.com/jobs/view/data-architect-at-diverse-lynx-3683943310,"data architecture, data governance, data modeling, data engineering, data analysis, data profiling, data warehousing, data transformation, data visualization, sql, nosql, hadoop, hive, impala, python, splunk, excel, data security, data quality, data integrity, data lifecycle, data governance, data stewardship, data catalog, data lineage, data taxonomy, data classification, data masking, data encryption, data anonymization, data governance, data privacy, data protection, data regulations, data ethics, data monetization, data science, machine learning, artificial intelligence, business intelligence, data visualization, data storytelling, datadriven decision making","Job Title: Data Architect
+Location: Berkley Heights, NJ (5 Days Onsite)
+Duration: Contract
+Job Description
+An expert to deliver a world class data architecture to an enterprise that establishes robust data governance and enforces best practices, policies, and procedures across the entire data landscape on cloud or premises.
+Solid experience in building reference architecture and establish prescriptive patterns for data ingestion, transformation, consumption, provisioning, and prospecting. Be able to execute proof of concepts for new technologies, techniques, and patterns such as data mesh and domain driven design.
+15&plus; years of experience in designing data assets for extremely performant Operational Data Stores, near real time Data Warehouses and BI&A universe. Well versed with industry standard Kimball and Inmon practices
+10&plus; years of data analysis and profiling experience in financial services development, including account, card, payment, or digital processing.
+5&plus; years of experience in tools such as Matillion, SnapLogic, or DBT building data transformation pipelines for on cloud / on premises databases such as Snowflake.
+Strong data analysis / profiling skills on large data sets with complex VSAM files / Cobol copybook structures on IBM Z/OS mainframe. Experience with IBM tools such as CP4D, ADDI, DVM, Information Analyzer is a big plus.
+Expertise in creating ER (Entity Relationship), Logical, Physical, and Conceptual data models for an enterprise. At least 15 years hands on experience with Data Modeling tool such as Power Designer and well versed in designing universes for reports / dashboards in tools such as Tableau, Cognos, Power BI etc. Data Modeling experience in financial industry is highly preferred.
+Expert hands-on data architecture, development, and performance tuning experience in Snowflake including writing pipelines, coding stored procedures, and establishing data sharing.
+Expert SQL development, analysis, design, and performance skills in database technologies such as DB2, Oracle, SQL Server, Cassandra, and Snowflake to build highly performant physical data models.
+Experience in modern data design methodologies such as DDD (Domain Driven Design), Bounded Contexts, and Data Mesh building data warehouses for agility, scalability, and autonomy.
+Experience in event streaming and event-based data warehousing methodologies
+Experience in Big Data development, design, and architecture for distributed and scalable file system such as HDFS. Working experience in HWs / Cloudera Hadoop environment with expert development skills in HIVE and/or Impala.
+Solid communication skills and be able to facilitate / lead Data Modeling sessions with partners including Business, IT (engineers and developers), BI (Business Intelligence), System of Record (SOR) SMEs etc. to assess business requirements and deliver design prototypes and models.
+Experience with reference frameworks such as BIAN (Banking Industry Architecture Network), IBM Banking & Financial Markets Model, ISO20022.
+Scripting experience in Python to create alerts and monitoring, build interfaces to move data between systems and automate data governance.
+Experience in building and maintaining an evergreen Data Catalogue for an enterprise with robust metadata and end to end lineage. Experience with Alation and Manta is a plus.
+Experience in reverse/forward engineering analysis for complex data flows and be able to develop source-to-target and process mappings.
+Expert in Excel and Splunk with experience in writing complex macros to expedite data analysis.
+Experience in Data Taxonomy, Classification, and Security and be able to work with Data Stewards to ensure firm’s data is defined, classified, traceable, and protected at rest and in motion.
+Establish Master and Reference Data Management best practices and policies in core banking and financial markets domain and guide initiatives/solutions to align with master data strategy.
+Drive reuse of data and data models at all levels and establish standards to enforce and preserve single version of truth across the data landscape.
+Experience in development and implementation of Data Quality and Integrity standards in all phases of Data Lifecycle – ingestion, transformation, provisioning, discovery etc.
+Ability to exercise independent judgment and creative problem-solving techniques for data solutions in a large and complex environment.
+Strong organizational skills with demonstrated ability to work with partners to meet business SLAs and plan and deliver work to expectations.
+Functional knowledge of the Financial Services industry with experience promoting a robust risk & control environment is preferred.
+Diverse Lynx LLC is an Equal Employment Opportunity employer. All qualified applicants will receive due consideration for employment without any discrimination. All applicants will be evaluated solely on the basis of their ability, competence and their proven capability to perform the functions outlined in the corresponding role. We promote and support a diverse workforce across all levels in the company.
+Show more
+Show less",Data Architect,Diverse Lynx,Auburndale, FL,Mid senior,Onsite,2024-01-17
+https://au.linkedin.com/jobs/view/data-architect-at-australian-institute-of-company-directors-3796372287,"data architect, data strategy, data migration, data architecture, data governance, data management, data modelling, data quality assessment, enterprise architecture, business strategies, data flows, data transformation, data structures, data extraction, data platform concepts, data integration, data analytics, artificial intelligence, machine learning, data science, agile mindset, togaf certification, stakeholder engagement, communication skills, problemsolving skills, analytical skills, conceptual skills, reporting skills, bachelor's degree in computer science, computer engineering, information systems, salary sacrificing, salary continuance insurance, professional development, training courses, webinars, professional coaching, external education support, hybrid/flexible working arrangements, volunteer day, additional leave options, employee assistance program, collaborative culture","Job Type: Contract
+Location: Adelaide, SA
+Job Category: IT
+About Us
+The Australian Institute of Company Directors is committed to strengthening society through world-class governance. We aim to be the independent and trusted voice of governance, building the capability of a community of leaders for the benefit of society. Our membership of more than 50,000 includes directors and senior leaders from business, government and the not-for-profit sectors.
+Job Description
+About the team
+The Digital team is responsible for defining, executing and operationalising the AICD digital strategy, and the digitalisation of the AICD business.
+The goal is to fundamentally transform the AICD business model to use digital technologies and capabilities, enabling an unrivalled customer and staff experience, while providing new value producing opportunities.
+About The Role
+As the Data Architect, you will drive the design, oversee the implementation, and govern the data architecture and migration of the AICD’s Platform Modernisation Program. Your expertise and precision in data management, data asset analysis, data modelling, and data quality assessment will be critical in developing and establishing a comprehensive, best practice data migration and integration approach.
+An essential element to this role is strong engagement capabilities as you will need to cultivate effective relationships with key stakeholders and cross functional teams to achieve deliverables and successful outcomes. The ability to work with ambiguity to conceptualise solutions and navigate challenges will also see you succeed.
+This is an exciting time to join the AICD as we progress our digital transformation that is driving significant change across all aspects of the organisation including the adoption of an Agile mindset and cutting-edge technologies. You will play a key role in advancing AICD’s data and analytics capability and be a part of a growing team of data experts.
+Key Responsibilities
+Design, guide the implementation, and govern the migration as well as the data architecture for the Platform Modernisation project.
+Optimise, implement, and uphold enterprise data architecture aligned with business strategies and processes.
+Streamline data flows along the value chain using existing assets.
+Collaboratively align development plans with processes and systems.
+Provide leadership and technical guidance, leveraging expertise to ensure project success and adherence to data architecture and governance standards and practices.
+Establish methods to track and improve data quality.
+Drive, maintain and continuously improve architecture frameworks, maturity, systems, procedures and controls for the wider team.
+Develop then present designs and roadmaps to the Architecture Review Board then oversee it across multiple initiatives.
+Maintain strong awareness of emerging technology and market trends and evaluate suitability.
+About You
+Desired Skills and Experience
+You will have strong technical aptitude and previous relevant experience, and you will champion the AICD “OneTeam” approach and values of:
+Accountability, Respect, Excellence and Collaboration
+. In addition, you will also have the following:
+Bachelor’s Degree in Computer Science, Computer Engineering, Information Systems, or a similar related field.
+Extensive experience across data migration strategies, data solution architecture, design, and governance.
+TOGAF Certification or similar practical experience within Enterprise Architecture practices.
+Identification of organisational data needs and articulating complex technological solutions experience.
+Strong analytical, conceptual, and problem-solving skills.
+Well-developed ability to communicate, engage and influence leadership, a range of stakeholders and cross functional teams.
+Exceptional analysis, evaluation and reporting capabilities with a focus on translating business requirements into technical data models.
+Proven knowledge of data platform concepts, data transformation processes, data structures, and data extraction.
+Expertise in Artificial Intelligence / Machine Learning.
+Your career at the AICD
+Our Values
+Accountability, Respect, Excellence and Collaboration
+There are various benefits of joining the AICD, but the following are examples of what is offered:
+An inclusive and supportive work environment where your voice is respected.
+Access to salary sacrificing and salary continuance (income protection) insurance.
+Professional development with access to a wide range of training courses and webinars, professional coaching, and external education support.
+Hybrid/flexible working arrangements.
+Volunteer day and additional leave options.
+Personal wellbeing support through AICD’s robust employee assistance program for you and your immediate family.
+A solution focused, and collaborative organisation that celebrates a ‘One Team’ culture and great culture enriching initiatives.
+An opportunity to contribute to a widely respected organisation, that’s dedicated to positive social impact through their work in governance, policy, and leadership.
+We welcome applications from people of all ages, genders, sexuality, cultural and linguistic backgrounds, Aboriginal and Torres Strait Islander Peoples and people with a disability.
+For further information on what it’s like to work with us, please visit our Careers page:
+Our Careers page: https://www.aicd.com.au/about-aicd/work-aicd.html
+Our LinkedIn page: www.linkedin.com/school/35753/
+Show more
+Show less",Data Architect,Australian Institute of Company Directors,Adelaide, South Australia,Mid senior,Onsite,2024-01-14
+https://www.linkedin.com/jobs/view/data-architect-at-central-business-solutions-inc-3581006179,"data architect, aws, redshift, glue, etl, tableau, data analytics, reporting platform, agile framework, data warehouse, visualization tools, sql, data modeling, bigdata framework, data transformation, spark, pyspark, python, hipaa, 21 cfr part 11, machine qa, qc, life sciences","Position Role/Tile: Data Architect
+Location: Melbourne, FL.
+Must Have
+AWS, Redshift, Glue, ETL, Tableau
+Required
+To build Data Analytics and Reporting Platform
+Preferred
+Data Architect - Handson Experience working in AWS, Redshift, S3, Glue & Agile framework is a MUST
+8+ years of experience architecting data analytics and reporting solutions using various ETL, Data Warehouse and Visualization Tools on cloud
+Experience designing data analytics and reporting solutions using ETL tools like Glue / Snow pipe, Cloud data warehouse like Redshift / Snowflake, Visualization tools like Quicksight / Power BI / Apache Superset.
+Expertise in SQL, data modeling, and operational excellence
+Experience in Bigdata framework, Data transformation, Spark Complex quantitative and data analysis skills
+Experience in cost modelling
+Experience developing software code in one or more programming languages (Pyspark, Python, etc)
+Experience designing solutions that are compliant to HIPAA, 21 CFR Part 11
+Experience working in Life sciences Machine QA / QC will be good to have
+Central Business Solutions, Inc,
+37600 Central Ct.
+Suite #214
+Newark, CA 94560.
+Central Business Solutions, Inc(A Certified Minority Owned Organization)
+Checkout our excellent assessment tool: http://www.skillexam.com/
+Checkout our job board : http://www.job-360.net/
+=====================================================
+Central Business Solutions, Inc
+37600 Central Court Suite 214 Newark CA, 94560
+Phone: (833)247-8800 Fax: (510)-740-3677
+Web: http://www.cbsinfosys.com
+=====================================================
+Show more
+Show less",Data Architect,Central Business Solutions Inc.,Melbourne, FL,Mid senior,Onsite,2024-01-14
+https://www.linkedin.com/jobs/view/data-architect-at-concero-3789386376,"it architecture, data warehouse operations, project planning, process improvement, emerging architectural methods, data analysis, problem solving, script writing, reporting, data warehousing, sql query development, power apps, power bi, powershell, ssrs, office 365, sharepoint online, excel, analytical skills, leadership, results orientation, selfmotivation, communication skills, project management, critical thinking, decision making, business acumen, scalability, sustainability, security, bachelor's degree in computer science computer information systems management information systems","Job Summary
+The IT Architect position is an exciting opportunity to work on multiple applications and is responsible for multiple technologies and interfaces within the organization. Many of our systems are third-party business systems with some smaller applications written in house. This position is an expert on the system architecture and assists the vendor with technical information for the changes, working with the vendor to coordinate changes or has the ability to write an in-house solution for smaller internal applications. The IT Architect works with both business partners and other IT team members to determine the future direction of all applications based on company requirements.
+Responsibilities
+Applies advanced knowledge of professional concepts and company objectives to resolve a wide range of issues in creative and effective ways
+Subject matter expert in more than one area of responsibility; represents team within and outside own department. Become technical owner of multiple third-party and in house applications. This includes utilizing the full project lifecycle including requirements, development, testing and implementation.
+Conduct product research, evaluate new software products against requirements.
+Oversees Data Warehouse operations, troubleshoots and fixes issues
+Assists with project planning; provides technical expertise to team members and/or vendors
+Has significant autonomy over completion of day-to-day work and receives general instructions on new projects or assignments
+Defines, develops, communicates, and implements standards, processes, and procedures for the team or department
+Establishes, maintains, and fosters relationships both within and outside the team, department and our vendors
+Monitors key performance metrics to ensure compliance of established standards, processes, and procedures
+Understands and translates business requirements to software designs that align with overall business and technology vision
+Defines, creates, and evaluates processes; identifies and recommends process improvements; designs solutions using knowledge of business strategy, security, technologies, and architectural methods
+Collaborates with vendors on the direction for the development of solutions or enhancements
+Maintains knowledge of emerging architectural methods and technologies for application to the environment
+Listens to and evaluates customer needs to determine, provide, and identify high quality solutions that align with customer expectations
+Provides instruction and guidance to less senior team members on new tasks and assignments; ensures deadlines are met
+Perform other miscellaneous duties as required by management.
+Experience
+Requires 5 or more years of experience in data analysis, problem solving, script writing, reporting and data warehouse.
+Requires 3 or more years previous development experience
+3 or more years of SQL query development
+Preferred
+Previous experience in Power Apps, Power BI and PowerShell, SSRS
+Knowledge, Skills And Abilities
+Extensive knowledge with Office 365 products including SharePoint online and Excel
+Excellent analytical skills with the ability to use data for effective presentation of information
+Proven leadership, results orientation, and self-motivation traits
+Superb communication skills -- both written and verbal with the ability to engage an audience across a broad range of technical expertise and/or business acumen
+Proficient knowledge of project management concepts, from planning and inception, through implementation and support
+Must demonstrate flexibility and agility related to critical thinking and making decisions with complex considerations as it relates to business implications
+Proven experience developing strategies for solutions that solve business problems, are scalable and sustainable, are secure, and meet internal long-term goals of IT and the business
+Education
+Bachelor's degree in Computer Science, Computer Information Systems, Management Information Systems, or related field
+#5755
+Show more
+Show less",Data Architect,Concero,St Louis, MO,Mid senior,Onsite,2024-01-14
+https://ca.linkedin.com/jobs/view/data-architect-at-equifax-3714540729,"data architect, data fabric, data modernization, cloud technology, data analytics, data governance, data acquisition, data structures, data pipeline, data model, data integration, data warehouse, business intelligence, reporting, metadata management, content management architectures, datadriven, product development, cloudbased capabilities, google cloud, analytics, software engineering, data management, big data platforms, hadoop, modern data architecture, data security, design principles, master data management, reference data management, agile methodologies, epics, user stories, financial services industry, fraud prevention","Synopsis of the role
+The Data Architect is an organizational thought leader recognized internally and externally as the lead designer of our data assets. Leveraging Data Fabric as an enabler for business transformation, this leader is responsible for designing high level data architecture that enables the organization's transformation from a credit bureau to a data and analytics power house. In conjunction with the rest of the Data team, this role will play a critical role in the overall data strategy by staying current on emerging trends and innovation in modern data management methods. Reporting to the VP, Data Modernization and working closely with the IT organisation, the Enterprise Data Architect will be responsible for designing and implementing new data architecture that leverages our investment in Cloud technology, including the development of alternate data exchanges within our Data Fabric, and building more flexible tools to ingest and leverage a broader range of data assets . To support the growth in our data assets and in close collaboration with the Data Acquisition team, the Data Architect will work with Data Engineers and Data Scientists within the Data Modernization team to build a traceable and automated data pipeline with quality built in. To support the robust data environment, this role will work closely with Data Governance, ensuring that there is clear yet nimble oversight, governance and processes to ensure the protection and consistency of our data assets.
+What You’ll Do
+Design and build new data structures to maximise the value of our Cloud-based Data Fabric to expand into new data sources.
+Design a nimble and flexible data architecture that supports structured and unstructured data, both in the traditional credit world and from alternative sources. With a view to flexible product development, and enabling advanced analytics, the data architect will keep consistency of data assets top of mind.
+Collaborate closely with the Data Acquisition teams to understand the overall data strategy and support through developing strong data architecture plans.
+As the Enterprise Data Architect, work involves developing the standards, tools, and governance for capturing, modelling, storing, and delivering data for the enterprise.
+Develop a high level enterprise data model and conceptual view of related data sub-architectures (e.g.,database, data integration, data warehouse/business intelligence, reporting, metadata, and content management architectures).
+Optimize the overall data/information flow by reducing redundancy and enabling accessibility within security boundaries.
+This role is an individual contributor with responsibility in a highly technical discipline and may manage a small team of employees.
+What Experience You Need
+Proven track record of both business-minded and data leadership.
+Strong understanding of data-driven, technology based product development with 5 to 7 years of hands-on experience designing and building analytical solutions to solve real world problems.
+Strong knowledge of Cloud-based capabilities and platforms (Google Cloud experience is an asset).
+Experience in analytics, software engineering, data management/architecture or similar disciplines and experience in managing technical documentation.
+In-depth knowledge of Big Data platforms such as Hadoop and the associated tools needed for analytics and a good understanding of modern data architecture, data security, and design principles.
+Proven experience with Master Data Management and Reference Data Management.
+Strong understanding of agile methodologies including the creation of epics and user stories.
+What Could Set You Apart
+Experience in designing and building analytics solutions to solve real world business problems.
+Creativity, drive and the ability to identify efficiencies and opportunities. The ability to collaborate with multiple teams and get teams to work together.
+Experience in large scale digital transformation initiatives.
+Expertise in the financial services industry or fraud prevention domain.
+Show more
+Show less",Data Architect,Equifax,Toronto, Ontario,Mid senior,Onsite,2024-01-14
+https://www.linkedin.com/jobs/view/data-architect-at-allied-onesource-3805730237,"data architecture, data modeling, data warehousing, enterprise data warehouse, data quality assessment, process review, process improvement, star schema methodology, microsoft azure, cloud computing, data analysis, business analysis, data integrity, data management, data governance, data acquisition, data storage, data delivery, data reporting, data analytics, data visualization, communication skills","Join our dynamic team as a Data Architect and play a crucial role in shaping the data landscape of our organization. As a Data Architect, you will be at the forefront of designing and developing data architectures within our Enterprise Data Warehouse. Your expertise will drive strategic and tactical decisions, ensuring that our data solutions are effective, transparent, and aligned with industry best practices. If you're passionate about anticipating and meeting data requirements, fostering consistency, and promoting accuracy, we invite you to bring your skills to our innovative environment. Apply today for this immediate REMOTE need - interviews are starting asap!
+Duties:
+Create data models and structures that seamlessly support the organization's reporting and analytic needs, contributing to the enhancement of decision-making processes.
+Oversee every stage of model and structure development and delivery, setting the standards for quality and efficiency.
+Identify and pursue opportunities to enhance data acquisition, storage, and delivery within the Enterprise Data Warehouse, driving increased efficiency and effectiveness.
+Provide expert advice to upcoming and ongoing projects, ensuring that data warehouse activities are aligned with organizational objectives.
+Research and explore new data sources to address customer needs, keeping us at the forefront of data innovation and relevance.
+Uphold and enhance established Data Management standards, practices, and procedures, contributing to an environment of continuous improvement.
+Offer accurate scope and time estimates for data-related activities, guiding prospective efforts towards success.
+Evaluate project data requirements and recommend approaches and solutions that align with architectural designs and business objectives.
+Develop and maintain comprehensive data diagrams and models, leveraging approved tools to ensure clarity and consistency.
+Ensure that developed content seamlessly aligns with architectural designs and performs as expected, maintaining the integrity of our data ecosystem.
+Qualifications:
+A minimum of 3-7 years of robust data warehouse experience, showcasing your ability to tackle a wide range of data challenges.
+Demonstrated history as a data architect, showcasing expertise in data modeling, gap analysis, data quality assessment, process review, and improvement.
+Extensive experience and expertise in data warehousing concepts, ensuring optimal performance and scalability.
+Experience with Star Schema methodology and proven experience in its implementation.
+Experience with Microsoft Azure, ensuring our data solutions leverage cutting-edge cloud capabilities.
+Hands-on experience with data analysis and business analysis, translating data into meaningful insights that guide decision-making.
+Exceptional written and verbal communication skills, enabling you to convey complex data concepts to both technical and non-technical audiences.
+Salary:
+$120,000 - $130,000
+AW
+Show more
+Show less",Data Architect,Allied OneSource,St Louis, MO,Mid senior,Onsite,2024-01-14
+https://www.linkedin.com/jobs/view/data-architect-at-allied-onesource-3805730237,"data architecture, data modeling, data warehousing, enterprise data warehouse, data quality assessment, process review, process improvement, star schema methodology, microsoft azure, cloud computing, data analysis, business analysis, data integrity, data management, data governance, data acquisition, data storage, data delivery, data reporting, data analytics, data visualization, communication skills","Join our dynamic team as a Data Architect and play a crucial role in shaping the data landscape of our organization. As a Data Architect, you will be at the forefront of designing and developing data architectures within our Enterprise Data Warehouse. Your expertise will drive strategic and tactical decisions, ensuring that our data solutions are effective, transparent, and aligned with industry best practices. If you're passionate about anticipating and meeting data requirements, fostering consistency, and promoting accuracy, we invite you to bring your skills to our innovative environment. Apply today for this immediate REMOTE need - interviews are starting asap!
+Duties:
+Create data models and structures that seamlessly support the organization's reporting and analytic needs, contributing to the enhancement of decision-making processes.
+Oversee every stage of model and structure development and delivery, setting the standards for quality and efficiency.
+Identify and pursue opportunities to enhance data acquisition, storage, and delivery within the Enterprise Data Warehouse, driving increased efficiency and effectiveness.
+Provide expert advice to upcoming and ongoing projects, ensuring that data warehouse activities are aligned with organizational objectives.
+Research and explore new data sources to address customer needs, keeping us at the forefront of data innovation and relevance.
+Uphold and enhance established Data Management standards, practices, and procedures, contributing to an environment of continuous improvement.
+Offer accurate scope and time estimates for data-related activities, guiding prospective efforts towards success.
+Evaluate project data requirements and recommend approaches and solutions that align with architectural designs and business objectives.
+Develop and maintain comprehensive data diagrams and models, leveraging approved tools to ensure clarity and consistency.
+Ensure that developed content seamlessly aligns with architectural designs and performs as expected, maintaining the integrity of our data ecosystem.
+Qualifications:
+A minimum of 3-7 years of robust data warehouse experience, showcasing your ability to tackle a wide range of data challenges.
+Demonstrated history as a data architect, showcasing expertise in data modeling, gap analysis, data quality assessment, process review, and improvement.
+Extensive experience and expertise in data warehousing concepts, ensuring optimal performance and scalability.
+Experience with Star Schema methodology and proven experience in its implementation.
+Experience with Microsoft Azure, ensuring our data solutions leverage cutting-edge cloud capabilities.
+Hands-on experience with data analysis and business analysis, translating data into meaningful insights that guide decision-making.
+Exceptional written and verbal communication skills, enabling you to convey complex data concepts to both technical and non-technical audiences.
+Salary:
+$120,000 - $130,000
+AW
+Show more
+Show less",Data Architect,Allied OneSource,St Louis, MO,Mid senior,Onsite,2024-01-14
+https://au.linkedin.com/jobs/view/data-architect-at-australian-institute-of-company-directors-3796373009,"data architecture, data migration, data governance, togaf certification, enterprise architecture, data platform concepts, data transformation processes, data structures, data extraction, artificial intelligence, machine learning, data analysis, data modeling, data quality assessment, agile mindset, communication, engagement, influence, problemsolving, analytical skills, reporting, bachelor's degree in computer science computer engineering or information systems","Job Type: Contract
+Location: Sydney, NSW
+Job Category: IT
+About Us
+The Australian Institute of Company Directors is committed to strengthening society through world-class governance. We aim to be the independent and trusted voice of governance, building the capability of a community of leaders for the benefit of society. Our membership of more than 50,000 includes directors and senior leaders from business, government and the not-for-profit sectors.
+Job Description
+About the team
+The Digital team is responsible for defining, executing and operationalising the AICD digital strategy, and the digitalisation of the AICD business.
+The goal is to fundamentally transform the AICD business model to use digital technologies and capabilities, enabling an unrivalled customer and staff experience, while providing new value producing opportunities.
+About The Role
+As the Data Architect, you will drive the design, oversee the implementation, and govern the data architecture and migration of the AICD’s Platform Modernisation Program. Your expertise and precision in data management, data asset analysis, data modelling, and data quality assessment will be critical in developing and establishing a comprehensive, best practice data migration and integration approach.
+An essential element to this role is strong engagement capabilities as you will need to cultivate effective relationships with key stakeholders and cross functional teams to achieve deliverables and successful outcomes. The ability to work with ambiguity to conceptualise solutions and navigate challenges will also see you succeed.
+This is an exciting time to join the AICD as we progress our digital transformation that is driving significant change across all aspects of the organisation including the adoption of an Agile mindset and cutting-edge technologies. You will play a key role in advancing AICD’s data and analytics capability and be a part of a growing team of data experts.
+Key Responsibilities
+Design, guide the implementation, and govern the migration as well as the data architecture for the Platform Modernisation project.
+Optimise, implement, and uphold enterprise data architecture aligned with business strategies and processes.
+Streamline data flows along the value chain using existing assets.
+Collaboratively align development plans with processes and systems.
+Provide leadership and technical guidance, leveraging expertise to ensure project success and adherence to data architecture and governance standards and practices.
+Establish methods to track and improve data quality.
+Drive, maintain and continuously improve architecture frameworks, maturity, systems, procedures and controls for the wider team.
+Develop then present designs and roadmaps to the Architecture Review Board then oversee it across multiple initiatives.
+Maintain strong awareness of emerging technology and market trends and evaluate suitability.
+About You
+Desired Skills and Experience
+You will have strong technical aptitude and previous relevant experience, and you will champion the AICD “OneTeam” approach and values of:
+Accountability, Respect, Excellence and Collaboration
+. In addition, you will also have the following:
+Bachelor’s Degree in Computer Science, Computer Engineering, Information Systems, or a similar related field.
+Extensive experience across data migration strategies, data solution architecture, design, and governance.
+TOGAF Certification or similar practical experience within Enterprise Architecture practices.
+Identification of organisational data needs and articulating complex technological solutions experience.
+Strong analytical, conceptual, and problem-solving skills.
+Well-developed ability to communicate, engage and influence leadership, a range of stakeholders and cross functional teams.
+Exceptional analysis, evaluation and reporting capabilities with a focus on translating business requirements into technical data models.
+Proven knowledge of data platform concepts, data transformation processes, data structures, and data extraction.
+Expertise in Artificial Intelligence / Machine Learning.
+Your career at the AICD
+Our Values
+Accountability, Respect, Excellence and Collaboration
+There are various benefits of joining the AICD, but the following are examples of what is offered:
+An inclusive and supportive work environment where your voice is respected.
+Access to salary sacrificing and salary continuance (income protection) insurance.
+Professional development with access to a wide range of training courses and webinars, professional coaching, and external education support.
+Hybrid/flexible working arrangements.
+Volunteer day and additional leave options.
+Personal wellbeing support through AICD’s robust employee assistance program for you and your immediate family.
+A solution focused, and collaborative organisation that celebrates a ‘One Team’ culture and great culture enriching initiatives.
+An opportunity to contribute to a widely respected organisation, that’s dedicated to positive social impact through their work in governance, policy, and leadership.
+We welcome applications from people of all ages, genders, sexuality, cultural and linguistic backgrounds, Aboriginal and Torres Strait Islander Peoples and people with a disability.
+For further information on what it’s like to work with us, please visit our Careers page:
+Our Careers page: https://www.aicd.com.au/about-aicd/work-aicd.html
+Our LinkedIn page: www.linkedin.com/school/35753/
+Show more
+Show less",Data Architect,Australian Institute of Company Directors,Sydney, New South Wales,Mid senior,Onsite,2024-01-14
+https://ca.linkedin.com/jobs/view/data-architect-at-fraser-health-authority-3800613177,"data architect, data engineering, data science, data analytics, software development, cloud computing, project management, leadership, communication, problemsolving, analytical skills, attention to detail, time management, bachelor's degree in computer science or related field, 8+ years of experience in data engineering or software development, proven track record of managing technical teams and projects, experience in designing and deploying largescale data solutions, cloud or related technical certifications, strong knowledge of data modeling etl development and data warehousing architecture, expertlevel understanding of software development deployment and release processes, deep understanding of coding best practices and modern architectural patterns, demonstrated ability to work effectively with multidisciplinary teams, excellent oral and written communication skills, ability to work independently and meet deadlines under pressure","Salary range
+The salary range for this position is CAD $52.59 - $75.59 / hour
+Why Fraser Health?
+Fraser Health is responsible for the delivery of hospital and community-based health services to over 1.9 million people in 20 diverse communities from Burnaby to Fraser Canyon on the traditional territories of the Coast Salish and Nlaka’pamux Nations. Our team of 45,000 staff, medical staff and volunteers is dedicated to serving our patients, families and communities to deliver on our vision: Better health, best in health care.
+Twelve acute care hospitals, BC’s first dedicated outpatient care and surgery centre and a wide range of services in public health, home health, mental health and long-term care facilities - all within Metro Vancouver and the Fraser Valley. Known as one of the most desirable places to live in the world, these dynamic communities along with inspiring scenery and easy access to an abundance of outdoor activities provide an amazing quality of life.
+We are proud of the innovation, dedication, integrity and tenacity of our physicians, employees and volunteers. More than any building or technology, it's our people who make Fraser Health distinct.
+Position Highlights:
+Bring your demonstrated leadership and consultation skills to this exciting opportunity as a
+Data Architect
+, Fraser Health's Centre for Advanced Analytics, Data Science, and Innovation (CAADSI) team. In this role, leads a cross functional team of technical staff to develop, design, build, monitor, maintain and support a variety of data products used within designated programs/services. Your ability to work effectively and in collaboration/consultation with internal and external stakeholders will make you an ideal candidate for this role.
+Build on your education and career experience as you:
+Oversees the Data Engineering team’s efforts in development, design, modelling and support of the data products from an architectural perspective.
+Defines requirements and creates architectural specifications, ensuring feasibility, functionality, and integration with existing models.
+Leads, inspires, and influences technical team to embrace modern data engineering practices that enable them to frequently release high-quality and performant service that operate at enterprise scale.
+Leads the design and implementation of various initiatives for FHA clients. Analyzes requirements, develops architecture / design artifacts, articulates the approach, and organizes the development of data products.
+Acts as a technical lead on assigned projects and applies project management methodologies. Develops roadmaps, reference architectures and provides guidance and direction to project teams.
+Fosters collaborative relationships with technology, privacy, security, analytics, reporting, and business departments and teams across FHA and partner organisations.
+Performs other related duties as required.
+Are you passionate about joining our team? We will be looking for you to have:
+Bachelor’s Degree in Computer Science, Information Systems Management or a related technical discipline or equivalent is required
+A minimum of eight (8) years of industry experience in Software Development, Data Engineering or a related data intensive field with a proven track record of success in managing technical teams or projects
+Demonstrated experience in a technical architecture role in designing and deploying large scale solutions. Cloud or related technical certifications are an asset.
+Effective October 26, 2021, all new hires to Fraser Health will need to have full COVID 19 vaccination (have received a full series of a World Health Organization “WHO” approved vaccine against infection by SARS-COV-2, or a combination of approved WHO vaccines). Please note this applies to all postings, and individual medical exemptions must be approved by the Provincial Health Officer.
+Valued Benefits:
+A career at Fraser Health will offer you the opportunity to work in a fast growing and exciting organization with professionals who are eminent in their respective fields. We offer a competitive compensation package, including comprehensive health benefits coverage.
+Come work with dedicated professionals who are enthusiastic and committed to provide quality healthcare to our clients/patients/residents.
+We invite you to apply today and find out why employees recommend Fraser Health to their friends as an exceptional place to work. We are committed to planetary health, we value diversity in the work force and seek to maintain an environment of Respect, Caring and Trust.
+Detailed Overview
+Supporting the Vision, Values, Purpose and Commitments of Fraser Health including service delivery that is centered around patients/clients/residents and families:
+Reporting to the Director, Data Engineering, the Data Architect leads a cross functional team of technical staff to develop, design, build, monitor, maintain and support a variety of data products used within designated programs/services within the Centre for Advanced Analytics, Data Science, and Innovation (CAADSI) and/or throughout Fraser Health. As a key member, the Data Architect works closely with senior technical leadership to ensure design, changes, and support of data projects and operations are in line with the overarching vision and roadmap of the data platform. The Data Architect will work closely with data stakeholders, other teams across FHA and partner health authorities, project managers, and other functions to foster relationships, increase collaboration and represent CAADSI. Possessing expert data architecture knowledge and experience, the Data Architect will push forward the continual improvement of data products including designing solutions, services, and systems while ensuring the technical sustainability and cost meet changing business needs. The role will also stay current with technical trends and best practices to maintain and mentor their expertise and act as a trainer or coach for technical staff.
+Responsibilities
+Oversees the Data Engineering team’s efforts in development, design, modelling and support of the data products from an architectural perspective.
+Defines requirements and creates architectural specifications, ensuring feasibility, functionality, and integration with existing models.
+Leads, inspires, and influences technical team to embrace modern data engineering practices that enable them to frequently release high-quality and performant service that operate at enterprise scale.
+Leads the design and implementation of various initiatives for FHA clients. Analyzes requirements, develops architecture / design artifacts, articulates the approach, and organizes the development of data products.
+Acts as a technical lead on assigned projects and applies project management methodologies. Develops roadmaps, reference architectures and provides guidance and direction to project teams.
+Fosters collaborative relationships with technology, privacy, security, analytics, reporting, and business departments and teams across FHA and partner organisations.
+Partners with stakeholders to architect, build, update, and grow data solutions including transactional, reporting, integration, analysis, security solutions for both on-premises and cloud technology platforms.
+Acts as an expert consultant for escalation, requirements gathering, and representation of Data Engineering in groups, initiatives, and projects.
+Designs and publishes data management knowledge articles, processes, and procedures within ITIL framework for Data Management Lifecycle (Metadata, Lineage, Data Dictionary, Data Standards), Software Engineering Standards (Source Control, Code Review), Integration Models, Service Delivery, and Operations.
+Leads continual service improvements including updating knowledge base articles, procedures, processes, standards, and refactoring of packages and scripts.
+Provides technical coaching, guidance to members of technical teams and assists in the recruitment and training of team members.
+Performs other related duties as assigned.
+Qualifications
+Bachelor’s Degree in Computer Science, Information Systems Management or a related technical discipline or equivalent is required. A minimum of eight (8) years of industry experience in Software Development, Data Engineering or a related data intensive field with a proven track record of success in managing technical teams or projects. Demonstrated experience in a technical architecture role in designing and deploying large scale solutions. Cloud or related technical certifications are an asset.
+COMPETENCIES:
+Demonstrates the leadership practices of the Fraser Health Leadership Framework of Clear, Caring and Courageous and creates the conditions for people to succeed.
+Professional/Technical Capabilities
+Proven ability to design, develop, deploy and maintain multi-tiered data solutions.
+Expert skills in data modeling, ETL development, and data warehousing architecture with solid knowledge of various industry standards.
+Proven track record of leading technical staff to achieve project and operational goals.
+Expert-level understanding of software development, deployment and release processes.
+Demonstrated hands on experience building sophisticated data solutions.
+Deep understanding of coding best practices and modern architectural patterns, including micro services and message-driven architectures.
+Strong analytical, prioritizing, interpersonal, problem-solving, presentation, budgeting, project management (from conception to completion), & planning skills.
+Ability to work effectively with multi-disciplinary teams with different lines of reporting.
+Demonstrated technical leader with skills in teaching, coaching and mentoring others.
+Excellent oral and written communication skills with the ability to effectively communicate complex ideas and processes in simple terminology to internal and external stakeholders, including all levels of management.
+Demonstrated attention to detail and maintenance of high quality standards.
+Demonstrated ability to work independently, meeting deadlines under pressure, with minimal supervision and frequent interruptions.
+Works effectively under time pressure to meet deadlines, balance work priorities and resolve problems in a timely manner.
+Physical ability to perform the duties of the position.
+Show more
+Show less",Data Architect,Fraser Health Authority,Surrey, British Columbia,Mid senior,Onsite,2024-01-12
+https://www.linkedin.com/jobs/view/data-architect-at-integrated-talent-strategies-its-3779705336,"data architecture, data platform development, data analytics, data strategy, data governance, data modeling, data warehousing, data lakes, etl tools and processes, scripting languages (javascript python r), visualization tools (power bi), cloud database, project management, communication skills, business intelligence, data reporting, data visualization, data quality, data security, data privacy, data compliance, manufacturing experience (plus)","Description
+The Data Architect will partner with business leaders and stakeholders to develop next generation data platform for analytics and insights. Reporting to the CIO, the Data Architect will develop the strategies, processes, and technologies to utilize data across the organization to improve decision making, optimize operations, and enhance customer value.
+Requirements
+Partner with the business to identify strategic data sets and develop innovative solutions for data and reporting needs
+Design a future state data architecture and develop a prioritized roadmap with leaders and stakeholders
+Analyze existing data processes and identify gaps, opportunities, and strengths
+Design and implement processes and systems to source, aggregate, access, and interpret data from internal and external sources
+Automate data management tasks to optimize internal systems and maintain data integrity
+Develop the next generation of tools and solutions to replace legacy reports and Excel based tracking tools
+Establish best practices and standards for Power BI and other visualization tools
+Implement data auditing solutions and processes to enhance data integrity across critical systems and data sets
+Lead and promote a culture of data driven decision making, learning, development, and continuous process improvement
+Mentor and coach team members to improve data acumen and analytical skills across the organization
+Establish and implement data governance to ensure data privacy and confidentiality
+Other Duties may be assigned as needed
+Required Skills
+Building and maintaining data warehouses and data lakes from multiple sources and enterprise systems (ERP, CRM)
+Developing and maintaining ETL tools, solutions, and processes
+Scripting languages and programming frameworks (JavaScript, Python, R)
+Proficient with visualization tools (Power BI)
+Cloud database experience is preferred
+Demonstrated project management skills
+Strong communication skills
+EDUCATION And/or EXPERIENCE
+Bachelor's Degree in Computer Science preferred or related field of study
+Four or more years of direct experience
+Manufacturing experience a plus
+Show more
+Show less",Data Architect,Integrated Talent Strategies (ITS),Bowling Green, OH,Mid senior,Onsite,2024-01-14
+https://www.linkedin.com/jobs/view/data-architect-at-dice-3805947346,"data modelling, data architecture, data flow diagram, er diagram, visio, banking applications, payment systems, data governance, data standards, data standardization, data mastering, metadata management, data management, data visualization, data virtualization, mdm, sql, banking and financial domain, data curation, data representation, data standardization, data normalization, data integration, data persistence, data analysis, data exchange, data sharing, information delivery, information management, enterprise data warehouse, bi & analytics, data engineers, business information needs, information vision, information strategy, system design, business strategy, technology strategy, scalability, evolvability","Dice is the leading career destination for tech experts at every stage of their careers. Our client, Element Technologies Inc., is seeking the following. Apply via Dice today!
+Job Title: Data Architect
+Location: Morristown, NJ (onsite day 1)
+Duration: 6+ Months
+on C2C /W2
+Must Have: Data Modelling
+Job Summary
+This position is responsible to prepare the end to end data diagram for data integration of 80 applications in Community Association Banking Business space.
+The Data Architect will be responsible to work with application owners, SMEs, D ata Analysts, Business Analysts to gain the knowledge and leverage his expertise to build the Data architecture, data flow diagram and various artifacts.
+The Data Architect will work with the client leadership team to build the technical roadmap fort he portfolio.
+Skillset
+15 years of experience and Strong understanding of DW Concepts
+Prior experience as Data Architect, Should have experience building Data Flow Diagram, ER Diagram etc. using Visio.
+Strong understanding of Banking Applications & Payment Systems
+Strong Knowledge of Data Governance, Data Standards, , data standardization, data mastering and Metadata Management
+Demonstrated understanding of Data management, Data Visualization and Data Virtualization
+Data modelling
+Established experience delivering information management solutions to large numbers of end users and common provisioning of the enterprise data for all corporate functions & business units
+Knowledge of MDM
+Prior experience in data analysis and SQL query tuning.
+Banking and Financial domain experience
+Experienced in knowledge-driven data processing techniques like data curation, representation, standardization, normalization and any other type of processing that prepares the data for integration, persistence, analysis, exchange share and so forth. #
+Responsibilities:
+Facilitate the establishment and execution of the roadmap and vision for information delivery and management including the enterprise data warehouse, BI & analytics and Data management
+Lead data engineers to architect and deliver the solutions that fulfil the Business information needs and align with the information vision and strategy
+Research and evaluate capability with other systems, alternative solutions and recommend the most efficient and cost-effective solution for system design
+Apply business strategy while driving technology strategy, balancing short term and long term needs to ensure that the architecture can scale and evolve accordingly""
+Show more
+Show less",Data Architect,Dice,Morristown, NJ,Mid senior,Onsite,2024-01-14
+https://www.linkedin.com/jobs/view/data-architect-at-ilink-digital-3786591570,"data analytics, data management, data science, machine learning, cloud computing, devops, agile development, software engineering, data warehousing, data visualization, natural language processing, data mining, data integration, data warehousing, data modeling, big data platforms, data architecture, data security, data governance, data quality, business intelligence, data strategy, data lakes, data pipelines, data integration, data engineering, data orchestration, data fabrics, dataops, cloud services, cloud platforms, cloud infrastructure, cloud security, cloud compliance, cloud governance, saas, paas, iaas, data center operations, disaster recovery, data backup and recovery, microsoft azure, safe, gxp, talend, databricks, deltalake, azure synapse, snowflake, powerbi, azure functions, azure app services","About
+About The Company:
+iLink Digital is a Global Software Solution Provider and Systems Integrator, delivers next-generation technology solutions to help clients solve complex business challenges, improve organizational effectiveness, increase business productivity, realize sustainable enterprise value and transform your business inside-out. iLink integrates software systems and develops custom applications, components, and frameworks on the latest platforms for IT departments, commercial accounts, application services providers (ASP) and independent software vendors (ISV). iLink solutions are used in a broad range of industries and functions, including healthcare, telecom, government, oil and gas, education, and life sciences. iLink’s expertise includes Cloud Computing & Application Modernization, Data Management & Analytics, Enterprise Mobility, Portal, collaboration & Social Employee Engagement, Embedded Systems and User Experience design etc.
+What makes iLink's offerings unique is the fact that we use pre-created frameworks, designed to accelerate software development and implementation of business processes for our clients. iLink has over 60 frameworks (solution accelerators), both industry-specific and horizontal, that can be easily customized and enhanced to meet your current business challenges.
+Requirements
+Key Responsibilities
+:
+Accountable for optimal solution designs for D&A Products that facilitates an agile, product management approach, can be rapidly and cost-effectively delivered to meet the true business requirements and are robust, sustainable and supportable throughout their lifecycle
+Work closely with D&A Product Mangers, using deep technical expertise and domain understanding to effectively influence (and when needed challenge) business and architectural stakeholders to arrive at the right design
+Steer solution design through D&A Architecture Review process, aligning with enterprise platforms and architectural patterns by first intent
+Oversee technical work of development teams ensuring it is remains aligned with agreed design, is of high quality, complies with relevant standards and policies and will meet agreed business objectives
+Provide hands-on technical problem-solving expertise to address technical challenges during development and, where needed, during lifecycle support
+Act as mentor for more junior technical roles, supporting their development and promoting adoption of best practice across development teams
+Lead discovery / proof-of-concept activities to establish early technical feasibility of new Products or Product Features
+Input to, review and approve key technical documents (e.g. design spec, validation plan)
+Drive adoption by development teams of existing and future best-practice approaches from D&A Platform team (e.g. implementation of DevOps CI/CD pipelines, automated testing)
+Basic Qualifications
+Computer Science or related Bachelor's degree
+12+ years of experience and track record of engineering and delivery of flexible, scalable, and supportable data and analytics applications for large complex, global organizations
+End-to-end / 'full stack' D&A experience from data ingestion through transformation to user interaction (visualisation, analytics, etc.)
+Track record of designing and delivering solutions in a cloud environment using modern data architectures and engineering technologies
+Experience designing with DataOps and FinOps in mind to ensure solutions are flexible/future-proof and can scale to handle growing demand, while remaining cost effective
+Experience in Agile development
+Track record of designing and delivering solutions compliant with industry regulations and legislation
+Ability to oversee and matrix manage GSK and 3rd party technical resources
+Excellent communication, negotiation, influencing and stakeholder management skills.
+Customer focus and excellent problem-solving skills.
+Preferred Qualifications
+Computer Science or related Master's degree
+Microsoft Azure accreditation and experience
+SAFe (Scaled Agile) accreditation experience
+Experience developing and delivering GxP-validated solutions for the Pharma/Vaccines industry
+Experience with specific technologies in GSK stack : Talend, Databricks/DeltaLake, Azure Synapse, Snowflake, PowerBI, Azure Functions, Azure App Services
+Benefits
+Competitive salaries
+Medical Insurance
+Employee Referral Bonuses
+Performance Based Bonuses
+Flexible Work Options & Fun Culture
+Robust Learning & Development Programs
+In-House Technology Training
+Show more
+Show less",Data Architect,iLink Digital,Irvine, CA,Mid senior,Onsite,2024-01-14
+https://www.linkedin.com/jobs/view/data-architect-at-nr-consulting-3762818552,"data analysis, data modelling (erd), big data design, master data management patterns & implementation, data landscape design, database management systems, data services, data lakes, enterprise architecture, process, applications, infrastructure, security, powerdesigner, bizzdesign","Title: Data Architect
+Duration: 6&plus; Months
+Location: Remote
+Job Description
+As a Segment Data Architect, your key deliverables include Critical Data List, Data Affinity Maps, Enterprise Data Catalogues, Conceptual & Logical Data Models, Mastership Matrices, Enterprise Data Flow Diagrams, Data Principles, and Standards & Handrails.
+In this role, you will be leveraging on your desire to bring enterprise data design to IT and business functions. You will also require the passion to drive IT related business activity towards value-based outcomes built on a foundation of well-described quality data.
+You will have full ownership of data domains, including being a key focal point for the Lead Segment Data Architect, Segment Architects, Solution Architects and Solution Data Architects.
+Proven Core Data Architecture skills including Data Analysis, Data Modelling (ERD), Big Data Design, Master Data Management patterns & implementation, Data Landscape Design (Data Flow, Mastership, API).
+Extensive understanding of technologies involved in data management (Database management systems, data services, data lakes, etc.).
+Proven knowledge of all architecture aspects and the ability to stay up to date with key developments in IT - affinity with the other Enterprise Architecture domains (process, applications, infrastructure, security, etc.).
+A delivery and result oriented mindset with a hands-on attitude with a vision for the long-term implications of short to intermediate term decisions.
+Ability to initiate, plan and develop according to plan, along with the ability to adapt to the circumstances on the ground that may have a level of uncertainty and risk.
+Experience in Data Modelling tools such as PowerDesigner.
+While you experience in working with Enterprise Architecture tools such as BiZZDesign is not required, it will certainly be beneficial in your application.
+Show more
+Show less",Data Architect,NR Consulting,Boulder, CO,Mid senior,Onsite,2024-01-14
+https://uk.linkedin.com/jobs/view/data-architect-at-ritzyrocks-3803891534,"data architecture, data strategy, erd, use cases, process diagrams, data modelling, waterfall, agile, dbms, data warehousing, business intelligence, healthcare, relational databases, etl, data integration, data governance, data quality, data security, data privacy, data analytics, big data, cloud computing, data mining, machine learning, artificial intelligence, healthcare data standards, commercial data strategies, b2c, b2b, erp","We have an exciting opportunity for a Data Architect to join our IT team. This role is a based in our Head Office in Central London (NW1 4LJ), with a hybrid working model. We are also offering a competitive salary of up to £87,000 per annum plus a fantastic array of benefits.
+Established in 1932, The London Clinic is one of the UK's largest private hospitals, with 8 state-of-the-art facilities located in the heart of London's medical community around Harley Street. We have circa 1350 employees, and we are dedicated to providing our patients with expert, individualised treatment and care. We cover a comprehensive range of services, including complex medical and surgical procedures plus a range of cancer services. The London Clinic has a supportive and warm working culture where your contribution is valued, and you can help us deliver our three core values of 'We go further', 'We work as one' and 'We personalise care.'
+Job Profile
+The Data Architect will be responsible for the design, development, and management of The London Clinic's data architecture. This will be achieved by identifying strategic data requirements across TLC, and designing appropriate models aligned to organisational and technology strategy and vision.
+Specifically, the role will collaboratively work with TLC colleagues in defining and maintaining TLC's data models using the appropriate reference models and Healthcare data standards.
+Job Type: This is a full-time, permanent position working 37.5 hours per week.
+Salary: Up to £87,000 per annum
+Location: 1 Park Square West, London, NW1 4LJ (Baker Street and Regents Park stations) - this role will offer a 50/50 hybrid working approach.
+Benefits package: Contributory pension scheme (total annual contribution up to 20%). Private Medical Healthcare. 33 day's annual leave (Inclusive of bank holidays). Season ticket travel loan, family friendly benefits, and a wide range of discounts with a variety of retailers/services, plus much more. We also offer excellent career development; with clear career pathways and access to further education.
+Key Duties
+Owning the current and target state data architecture and models, providing hands-on data architecture leadership, guiding and shaping data solutions across The London Clinic.
+Producing and communicating logical and conceptual data models of key TLC clinical and non-clinical processes and data flows using ERDs, use cases, process diagrams or other appropriate visualisation tools
+Consulting with infrastructure, project and product teams to ensure consistency with the data architecture, as well as to identify when it is necessary to modify the data architecture.
+Leading the analysis of data and market trends in the technology and healthcare industry to determine their potential impact on TLC's business strategy, direction and architecture.
+Skills & Experience
+At least 3-5 years' experience of defining and implementing data architecture solutions and data strategies within a Healthcare context is essential.
+Experience of defining and implementing data architecture solutions and data strategies within a commercial context e.g. B2C, B2B, ERP etc is advantageous.
+Proven experience in a related data domain technical role, working in both a waterfall and agile context.
+Experience of designing relational DBMS, data warehouses and business intelligence capabilities.
+The London Clinic has charitable status which is fundamental to our identity and how we operate, enabling our teams to invest in treatments, technology and facilities that benefit our patients, staff and the wider community.
+We are committed to safeguarding and protecting all adults at risk, children and young people by implementing robust safer recruitment practices during our selection process. Pre-employment checks are undertaken in accordance with industry standards and regulations, and successful applicants may be required to undertake an Enhanced Disclosure via the Disclosure and Barring Service (DBS). If you would like further information about our safer recruitment policy then please contact a member of our recruitment team.
+The London Clinic is proud of its diverse workforce and is committed to building a team that represents a variety of backgrounds, perspectives, and skills. We absolutely welcome applicants from underrepresented groups; if you think you have the skills and experience for the job, please apply - we would love to hear from you regardless of your background.
+Show more
+Show less",Data Architect,RITZYROCKS,Little London, England,Mid senior,Onsite,2024-01-14
+https://www.linkedin.com/jobs/view/data-architect-at-diverse-lynx-3768059230,"data architecture, data governance, data management, data modeling, data analysis, data profiling, data transformation, data warehousing, big data, data streaming, data lakes, data quality, data security, data governance and compliance, data visualization, business intelligence, machine learning, artificial intelligence, python, sql, nosql, hadoop, snowflake, power bi, tableau, cognos, data mesh, domain driven design, event streaming, eventbased data warehousing, data catalog, data lineage, master data management, reference data management, data standards, data lifecycle management, data quality and integrity, financial services, banking, insurance, risk and compliance","An expert to deliver a world class data architecture to an enterprise that establishes robust data governance and enforces best practices, policies, and procedures across the entire data landscape on cloud or premises.
+Solid experience in building reference architecture and establish prescriptive patterns for data ingestion, transformation, consumption, provisioning, and prospecting. Be able to execute proof of concepts for new technologies, techniques, and patterns such as data mesh and domain driven design.
+15+ years of experience in designing data assets for extremely performant Operational Data Stores, near real time Data Warehouses and BI&A universe. Well versed with industry standard Kimball and Inmon practices
+10+ years of data analysis and profiling experience in financial services development, including account, card, payment, or digital processing.
+5+ years of experience in tools such as Matillion, SnapLogic, or DBT building data transformation pipelines for on cloud / on premises databases such as Snowflake.
+Strong data analysis / profiling skills on large data sets with complex VSAM files / Cobol copybook structures on IBM Z/OS mainframe. Experience with IBM tools such as CP4D, ADDI, DVM, Information Analyzer is a big plus.
+Expertise in creating ER (Entity Relationship), Logical, Physical, and Conceptual data models for an enterprise. At least 15 years hands on experience with Data Modeling tool such as Power Designer and well versed in designing universes for reports / dashboards in tools such as Tableau, Cognos, Power BI etc. Data Modeling experience in financial industry is highly preferred.
+Expert hands-on data architecture, development, and performance tuning experience in Snowflake including writing pipelines, coding stored procedures, and establishing data sharing.
+Expert SQL development, analysis, design, and performance skills in database technologies such as DB2, Oracle, SQL Server, Cassandra, and Snowflake to build highly performant physical data models.
+Experience in modern data design methodologies such as DDD (Domain Driven Design), Bounded Contexts, and Data Mesh building data warehouses for agility, scalability, and autonomy.
+Experience in event streaming and event-based data warehousing methodologies
+Experience in Big Data development, design, and architecture for distributed and scalable file system such as HDFS. Working experience in HWs / Cloudera Hadoop environment with expert development skills in HIVE and/or Impala.
+Solid communication skills and be able to facilitate / lead Data Modeling sessions with partners including Business, IT (engineers and developers), BI (Business Intelligence), System of Record (SOR) SMEs etc. to assess business requirements and deliver design prototypes and models.
+Experience with reference frameworks such as BIAN (Banking Industry Architecture Network), IBM Banking & Financial Markets Model, ISO20022.
+Scripting experience in Python to create alerts and monitoring, build interfaces to move data between systems and automate data governance.
+Experience in building and maintaining an evergreen Data Catalogue for an enterprise with robust metadata and end to end lineage. Experience with Alation and Manta is a plus.
+Experience in reverse/forward engineering analysis for complex data flows and be able to develop source-to-target and process mappings.
+Expert in Excel and Splunk with experience in writing complex macros to expedite data analysis.
+Experience in Data Taxonomy, Classification, and Security and be able to work with Data Stewards to ensure firms data is defined, classified, traceable, and protected at rest and in motion.
+Establish Master and Reference Data Management best practices and policies in core banking and financial markets domain and guide initiatives/solutions to align with master data strategy.
+Drive reuse of data and data models at all levels and establish standards to enforce and preserve single version of truth across the data landscape.
+Experience in development and implementation of Data Quality and Integrity standards in all phases of Data Lifecycle ingestion, transformation, provisioning, discovery etc.
+Qualifications:
+Excellent interpersonal, written, and verbal communication skills able to break down complex information and articulate in a manner that is easy to understand.
+Comfortable working in a fast paced, highly complex, matrixed environment and capable of handling multiple tasks concurrently.
+Be able to understand current data landscape, interpret results of analysis, identify trends and issues, and develop data standards to support business objectives.
+Ability to exercise independent judgment and creative problem-solving techniques for data solutions in a large and complex environment.
+Strong organizational skills with demonstrated ability to work with partners to meet business SLAs and plan and deliver work to expectations.
+Functional knowledge of the Financial Services industry with experience promoting a robust risk & control environment is preferred.
+Diverse Lynx LLC is an Equal Employment Opportunity employer. All qualified applicants will receive due consideration for employment without any discrimination. All applicants will be evaluated solely on the basis of their ability, competence and their proven capability to perform the functions outlined in the corresponding role. We promote and support a diverse workforce across all levels in the company.
+Show more
+Show less",Data Architect,Diverse Lynx,Berkeley Heights, NJ,Mid senior,Onsite,2024-01-17
+https://www.linkedin.com/jobs/view/data-architect-at-florida-polytechnic-university-3632326570,"data architecture, data integration, data modeling, data warehousing, data analytics, cloud data platforms, data visualization, business intelligence, sql, data manipulation, data transformation, data engineering, apache kafka, hive, hadoop, spark, nosql, agile development, devops, communication, collaboration, analytical skills, problemsolving, attention to detail, business analysis, requirement gathering, cloud computing, data governance, data catalog, data lineage, data quality, data security, database design, data migration, data extraction, data loading, data cleansing, master's degree, sql server, azure sql, postgresql, team foundation server (tfs), c#, rest apis, xml, xslt, workday, ellucian banner, salesforce, blackbaud, workday studio, ellucian insights, ellucian ethos, workday reporting, microsoft dynamics gp, microsoft dynamics crm, microsoft sharepoint, microsoft project, microsoft visio, enterprise resource planning (erp), customer relationship management (crm)","Make a difference at one of Florida’s premier institutions for education in science, technology, engineering, and math (STEM). Florida Polytechnic University, ranked the No. 1 public college in the region by U.S. News and World Report, offers a unique working environment that encourages faculty and staff to be part of a culture that prizes collaboration, innovation, and the willingness to go above and beyond to ensure our students and University succeed. Florida Poly offers a small campus academic environment where students form connections with their faculty and peers as they pursue high-value degrees in engineering and applied sciences.
+The University is equipped with cutting-edge facilities and equipment and two award-winning, architecturally distinct academic buildings. Its evolving curriculum, designed to meet the needs of industry and provide a life-long educational foundation for students, has helped the institution grow in prominence since its opening in 2014. Florida Poly’s deliberately small classes, affordability, and outstanding graduate outcomes have helped it earn recognitions such as being named a top value school, in the top 25 nationally for affordability, and in the top five best universities in the South for tech students. Accredited by ABET and SACSCOC, Florida Poly is educating some of the brightest minds in Florida and attracting standout talent from across the nation.
+JOB TITLE
+Data Architect
+Job Description Summary
+The Data Engineering group in Information Technology Services’ DevOps Team designs, implements and deploys data solutions within the University’s business applications and data management ecosystem. The Data Architect serves as the technical lead for the Data Engineering Group.
+The Data Architect has primary responsibility for the enterprise data model and the architecture of data management platforms, both cloud, and on-premises. The Architect deploys that architecture for use by integration engineers, software application engineers, and data analysts. The Architect’s work produces solutions enabling data ingestions and integrations for enterprise business applications, as well as a high-quality enterprise data solution for analytics and business intelligence.
+The Architect leads all elements of the data workstream and oversees maintenance of metadata and documentation (including architecture diagrams, data catalog, etc.) for the enterprise data platforms. The Data Architect works effectively with DevOps engineers, data analysts in other departments, and functional users of business systems to gather requirements and design business-transforming solutions. The Data Architect is a hands-on role requiring solid theoretical knowledge and familiarity with industry best practices, as well as advanced skills in using specific tools and technologies to implement working solutions.
+Florida Poly’s business systems architecture includes Workday ERP, Ellucian Banner SaaS ERP, Salesforce, and Blackbaud core business systems as well as forty or more associated business applications. Technologies used by the DevOps team include (but are not limited to) MS SQL Server and Azure SQL, SSIS, SSRS, Team Foundation Server (TFS), PostgreSQL, TeamDynamix iPaaS, C# with MVC, REST APIs, XML, XSLT, and Cinchy Dataware. Platform-specific tools include Workday reporting, Workday Studio, Ellucian Insights, and Ellucian Ethos.
+Job Description
+RESPONSIBILITIES:
+Data Architecture Design – Design and implement data architecture for business applications and related platforms to be deployed on key data platforms such as SQL Server, Azure SQL, and PostgreSQL, and data lake and data warehouse environments implemented on those platforms.
+Data Modeling and Design – Define data models, schemas, and structures to effectively represent data requirements and capture needed data. Ensure data models are flexible, scalable, and optimized for performance and ease of use.
+Provide technical guidance to the work of Data Engineers. Lead Data Engineers in implementing data solutions using data pipelines, transformations and orchestrations that maintain both operational and analytic data flows and integrations.
+Collaborate with Integration Architect, Integration Engineers, and Software Application Engineers to deliver holistic process and data solutions.
+KNOWLEDGE, SKILLS, AND ABILITIES:
+Advanced proficiency in SQL and scripting languages for data manipulation and transformation.
+Expertise in data modeling, database design, and data integration patterns and techniques.
+Experience across the entire spectrum of data engineering, including data stores, data pipeline and workflow orchestration, and data messaging.
+Demonstrated knowledge of industry trends and standards.
+Proven ability to learn and master new technologies quickly.
+Excellent communication and collaboration skills both verbal and written and the ability to work closely with team members.
+Excellent analytical and problem-solving skills.
+Strong attention to detail.
+MINIMUM QUALIFICATIONS:
+Bachelor’s Degree in Computer Science, Information Systems, or a related analytical field, or equivalent experience.
+3-5 years of data engineering experience.
+In lieu of a degree, any appropriate combination of relevant education, experience, and/or certifications may be considered.
+PREFERRED QUALIFICATIONS:
+Master’s Degree in Computer Science, Information Systems, or a related analytical field.
+Experience with cloud data platforms.
+Experience with providing data sources for data visualization and business intelligence tools.
+REQUIRED LICENSES, CERTIFICATIONS, AND/OR OTHER SPECIFIC REQUIREMENTS OF LAW:
+Must possess a valid driver’s license.
+This position requires a criminal background check, which may include a Level II screening as required by Florida Statute
+435.04.
+This position is subject to federal and state privacy regulations.
+NORMAL WORK SCHEDULE:
+This position is salary exempt. The normal work schedule is Monday – Friday, 8:00 a.m.-5:00 p.m.; however, occasional overtime (weekends and evenings) may be required. Travel between campus locations may be required.
+TARGET HIRING SALARY
+: $85,000 - $95,000, commensurate with experience.
+APPLICATION DEADLINE DATE
+: The position is open until filled; however, the review of applications will commence immediately.
+APPLICATION PROCESS
+: In addition to completing the online application, all Applicants are required to upload the following as an attachment to the application (preferably in PDF format):
+Cover Letter
+Resume
+Contact information for three professional references
+LinkedIn URL if available
+DIVERSITY STATEMENT:
+Florida Polytechnic University is an equal opportunity/equal access institution. It is the policy of the Board of Trustees to provide equal opportunity for employment and educational opportunities to all (including applicants for employment, employees, applicants for admission, students, and others affiliated with the University) without regard to race, color, national origin, ethnicity, sex, religion, age, disability, sexual orientation, marital status, veteran status or genetic information.
+Florida Poly Benefits Information
+Florida Poly qualified employees have the opportunity to take advantage of a variety of
+health benefits
+(through the State of Florida) to help meet their specific needs, as well as the needs of their family. This comprehensive coverage includes flexible spending accounts, medical and life insurance, and workers compensation.
+Health benefits are administered through People First, on behalf of the State of Florida, as pre-tax insurance plans. People First handles all new hire enrollments, coverage changes, premium administration, and dependent eligibility.
+Their Service Center is staffed Monday through Friday, from 8 a.m.–6 p.m. EST, at 1-866-663-4735.
+SPECIAL INSTRUCTIONS REGARDING ATTACHMENTS:
+Required attachments are listed on each posting.
+Please be sure to attach all required documents in the Resume/CV field before continuing through the application.
+Once your application has been submitted, no changes may be made and additional attachments will not be considered.
+An unofficial copy of the degree/transcript is acceptable during the application process. For positions requiring a degree, the official transcripts are required upon hire.
+Foreign Transcript: Transcripts issued outside of the United States require a equivalency statement from a certified transcript evaluation service verifying the degree equivalency to that of an accredited institution within the USA. This report must be attached with the application and submitted by the application deadline.
+All document(s) must be received on or before the closing date of the job announcements.
+This position requires a background check, which may include a level II screening as required by the Florida Statute
+435.04.
+Show more
+Show less",Data Architect,Florida Polytechnic University,Lakeland, FL,Mid senior,Onsite,2024-01-14
+https://ca.linkedin.com/jobs/view/data-architect-at-zortech-solutions-3737371648,"computer science degree, data visualization, data modelling, data migration, rdmb, nosql, snowflake, hadoop, information management, data mining, data modelling tools, development experience, data management, reporting technologies, predictive analytics, data accuracy, data integrity, data accessibility, data architecture, data inventory, data pipelines, data models, database structures, analytics, ai applications, database development standards, data ingestion, data storage, data usage, data sources, data integration strategy, data analytics, data analysis, source to target entity mapping, enterprise data management, data warehousing, data integration projects, hadoop ecosystem, informatica pc, bdm/dei, oracle, postgresql, sql server, aws services, hadoop platform, avps, vps, sas insurance data model, guidewire policy, claim & billing center data model, big data platforms","Qualification
+Bachelor’s degree in computer science, or related field (applied mathematics/statistics)
+At least 7 years of data visualization/modelling/migration experience
+Working experience with RDMB, NoSQL and other database technologies
+Working experience with data platforms (Snowflake/Hadoop, etc)
+Experience with information management o multiple platforms
+Data mining and modelling tools
+Development experience would be a nice to have
+Experience with data management and reporting technologies, predictive analytics, data visualization.
+Creative and analytical problem-solving capabilities.
+Please list 5 mandatory “MUST HAVE” skills and experience for this requirement. Please include skills related to technical as well as domain and non-technical skills and experience as applicable to the position.
+Collaborate with business and IT to develop a data strategy that meets corporate needs and industry standards/requirements.
+Implement a data architecture and create a data inventory.
+Architect/design data pipelines and how data will flow through the enterprise.
+Maintain a repository of data architecture/applications.
+Help build data models for database structures, analytics, and AI applications.
+Develop/enforce database development standards.
+Design methods for ingestion/storage/use of new data sources
+Develop measures that ensure data accuracy/integrity/accessibility.
+10+ years’ experience with Data Modeling
+Experience in Insurance Domain
+7 to 10 years’ experience in working on Data warehousing or Data Integration projects.
+5+ years of experience with creating data integration strategy.
+5+ years’ experience in data analytics area
+Hands on Experience in Data and System Analysis, source to target entity / attribute mapping.
+Good understanding of all aspects of Enterprise Data Management (traditional data warehousing concepts, data lake concepts.)
+Good exposure to Hadoop (Cloudera/EMR) and associated ecosystem, ETL tools like Informatica PC and BDM/DEI, databases like Oracle, PostgreSQL, SQL Server
+Exposure to AWS services from solution architecture perspective
+Experience building them in Hadoop platform.
+Need to be able to work with AVPs and VPs on regular basis apart from different delivery teams.
+Good written and oral communication skills.
+Please list 5 “NICE TO HAVE” but not mandatory skills and experience for this requirement.
+Experience using SAS Insurance Data Model for building LDM’s and PDM’s
+Experience with Guidewire Policy, Claim & Billing Center Data Model
+Experience with using Big Data platforms such as Hadoop.
+Show more
+Show less",Data Architect,Zortech Solutions,Markham, Ontario,Mid senior,Onsite,2024-01-14
+https://ca.linkedin.com/jobs/view/data-architect-at-zortech-solutions-3737371648,"computer science degree, data visualization, data modelling, data migration, rdmb, nosql, snowflake, hadoop, information management, data mining, data modelling tools, development experience, data management, reporting technologies, predictive analytics, data accuracy, data integrity, data accessibility, data architecture, data inventory, data pipelines, data models, database structures, analytics, ai applications, database development standards, data ingestion, data storage, data usage, data sources, data integration strategy, data analytics, data analysis, source to target entity mapping, enterprise data management, data warehousing, data integration projects, hadoop ecosystem, informatica pc, bdm/dei, oracle, postgresql, sql server, aws services, hadoop platform, avps, vps, sas insurance data model, guidewire policy, claim & billing center data model, big data platforms","Qualification
+Bachelor’s degree in computer science, or related field (applied mathematics/statistics)
+At least 7 years of data visualization/modelling/migration experience
+Working experience with RDMB, NoSQL and other database technologies
+Working experience with data platforms (Snowflake/Hadoop, etc)
+Experience with information management o multiple platforms
+Data mining and modelling tools
+Development experience would be a nice to have
+Experience with data management and reporting technologies, predictive analytics, data visualization.
+Creative and analytical problem-solving capabilities.
+Please list 5 mandatory “MUST HAVE” skills and experience for this requirement. Please include skills related to technical as well as domain and non-technical skills and experience as applicable to the position.
+Collaborate with business and IT to develop a data strategy that meets corporate needs and industry standards/requirements.
+Implement a data architecture and create a data inventory.
+Architect/design data pipelines and how data will flow through the enterprise.
+Maintain a repository of data architecture/applications.
+Help build data models for database structures, analytics, and AI applications.
+Develop/enforce database development standards.
+Design methods for ingestion/storage/use of new data sources
+Develop measures that ensure data accuracy/integrity/accessibility.
+10+ years’ experience with Data Modeling
+Experience in Insurance Domain
+7 to 10 years’ experience in working on Data warehousing or Data Integration projects.
+5+ years of experience with creating data integration strategy.
+5+ years’ experience in data analytics area
+Hands on Experience in Data and System Analysis, source to target entity / attribute mapping.
+Good understanding of all aspects of Enterprise Data Management (traditional data warehousing concepts, data lake concepts.)
+Good exposure to Hadoop (Cloudera/EMR) and associated ecosystem, ETL tools like Informatica PC and BDM/DEI, databases like Oracle, PostgreSQL, SQL Server
+Exposure to AWS services from solution architecture perspective
+Experience building them in Hadoop platform.
+Need to be able to work with AVPs and VPs on regular basis apart from different delivery teams.
+Good written and oral communication skills.
+Please list 5 “NICE TO HAVE” but not mandatory skills and experience for this requirement.
+Experience using SAS Insurance Data Model for building LDM’s and PDM’s
+Experience with Guidewire Policy, Claim & Billing Center Data Model
+Experience with using Big Data platforms such as Hadoop.
+Show more
+Show less",Data Architect,Zortech Solutions,Markham, Ontario,Mid senior,Onsite,2024-01-14

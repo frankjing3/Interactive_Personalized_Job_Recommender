@@ -1,0 +1,2001 @@
+id,job_skills_new,skills_cat_id
+1,communication,166
+2,customer service,161
+3,teamwork,189
+4,communication skills,166
+5,leadership,180
+6,problem solving,179
+7,time management,177
+8,attention to detail,187
+9,problemsolving,185
+10,project management,201
+11,interpersonal skills,168
+12,patient care,73
+13,sales,131
+14,nursing,73
+15,collaboration,183
+16,training,39
+17,data analysis,202
+18,microsoft office suite,203
+19,organizational skills,186
+20,inventory management,135
+21,bachelors degree,204
+22,high school diploma,205
+23,scheduling,144
+24,multitasking,177
+25,analytical skills,150
+26,microsoft office,203
+27,adaptability,181
+28,flexibility,196
+29,critical thinking,185
+30,documentation,206
+31,organization,186
+32,safety,28
+33,budgeting,102
+34,troubleshooting,151
+35,excel,207
+36,problemsolving skills,185
+37,written communication,167
+38,conflict resolution,142
+39,supervision,154
+40,coaching,153
+41,quality control,138
+42,merchandising,221
+43,paid time off,177
+44,verbal communication,166
+45,life insurance,110
+46,reporting,55
+47,quality assurance,138
+48,decision making,178
+49,computer skills,1
+50,team management,156
+51,travel,136
+52,drivers license,208
+53,accounting,107
+54,research,130
+55,lifting,88
+56,registered nurse,73
+57,team leadership,159
+58,401k,209
+59,negotiation,176
+60,food safety,85
+61,dental insurance,82
+62,cash handling,101
+63,healthcare,73
+64,planning,124
+65,risk management,110
+66,management,155
+67,mentoring,199
+68,valid drivers license,208
+69,marketing,132
+70,presentation skills,169
+71,health insurance,82
+72,engineering,37
+73,supervisory experience,155
+74,compliance,141
+75,vision insurance,85
+76,bls,1
+77,retail experience,161
+78,equal opportunity employer,222
+79,confidentiality,85
+80,patient education,210
+81,prioritization,145
+82,microsoft excel,207
+83,professionalism,195
+84,business development,131
+85,python,3
+86,data entry,41
+87,cpr,211
+88,fastpaced environment,181
+89,high school diploma or equivalent,205
+90,acls,5
+91,education,39
+92,professional development,153
+93,high school diploma or ged,205
+94,motivation,193
+95,decisionmaking,178
+96,initiative,188
+97,leadership skills,153
+98,retail,161
+99,sql,11
+100,bls certification,211
+101,physical stamina,212
+102,relationship building,129
+103,budget management,102
+104,diversity,197
+105,product knowledge,128
+106,standing,189
+107,performance management,156
+108,case management,123
+109,medication administration,75
+110,microsoft word,213
+111,maintenance,30
+112,teaching,39
+113,food preparation,214
+114,hiring,161
+115,physical strength,223
+116,team player,158
+117,medical,86
+118,cpr certification,211
+119,masters degree,54
+120,vision,124
+121,bending,196
+122,ability to work in a fastpaced environment,181
+123,integrity,190
+124,regulatory compliance,217
+125,financial analysis,99
+126,autocad,218
+127,flexible schedule,196
+128,ability to work independently,181
+129,finance,99
+130,tuition reimbursement,102
+131,walking,224
+132,team work,189
+133,continuing education,200
+134,empathy,173
+135,compassion,173
+136,cleaning,219
+137,networking,198
+138,word,167
+139,electrical engineering,220
+140,innovation,182
+141,assessment,73
+142,medical terminology,86
+143,counseling,173
+144,quality improvement,138
+145,paid holidays,177
+146,manufacturing,135
+147,employee assistance program,175
+148,financial reporting,107
+149,dental,73
+150,continuous improvement,225
+151,account management,129
+152,forecasting,100
+153,strategic planning,124
+154,powerpoint,169
+155,sanitation,82
+156,selfmotivation,193
+157,inventory control,135
+158,civil engineering,226
+159,change management,201
+160,construction management,123
+161,process improvement,227
+162,mechanical engineering,128
+163,diversity and inclusion,197
+164,weekly pay,105
+165,background check,231
+166,medical benefits,82
+167,team collaboration,189
+168,team building,189
+169,evaluation,43
+170,positive attitude,171
+171,training and development,39
+172,inclusion,189
+173,401k plan,209
+174,accuracy,58
+175,construction,123
+176,development,37
+177,customer service skills,161
+178,infection control,91
+179,rn,151
+180,sap,3
+181,java,3
+182,retail management,161
+183,dental benefits,82
+184,social work,173
+185,technical writing,206
+186,rn license,78
+187,financial management,99
+188,security,5
+189,english,166
+190,c,1
+191,hospitality,161
+192,ethics,141
+193,travel nursing,73
+194,report writing,167
+195,medical insurance,82
+196,aws,16
+197,outlook,124
+198,time management skills,177
+199,vision benefits,85
+200,ability to work under pressure,175
+201,ms office,203
+202,delegation,189
+203,radiology,86
+204,patient assessment,73
+205,detailoriented,187
+206,computer science,37
+207,writing,167
+208,risk assessment,110
+209,human resources,156
+210,driving,208
+211,independent work,177
+212,reaching,161
+213,creativity,182
+214,english proficiency,166
+215,recruitment,228
+216,401k retirement plan,209
+217,agile,181
+218,physical fitness,88
+219,stooping,88
+220,coordination,189
+221,us citizenship,232
+222,stress management,175
+223,data collection,41
+224,first aid,73
+225,mathematical calculations,202
+226,treatment planning,90
+227,equipment maintenance,229
+228,computer literacy,230
+229,ability to work independently and as part of a team,189
+230,pals,189
+231,disability insurance,216
+232,referral bonus,131
+233,oral communication,166
+234,design,5
+235,physical demands,73
+236,public speaking,170
+237,psychology,171
+238,analytical thinking,150
+239,software development,3
+240,record keeping,121
+241,registered nurse rn,73
+242,data management,233
+243,client relations,162
+244,retail operations,135
+245,loss prevention,110
+246,customer relationship management,129
+247,mental health,175
+248,kneeling,77
+249,remote work,36
+250,testing,68
+251,safety procedures,82
+252,technical skills,37
+253,basic computer skills,203
+254,machine learning,40
+255,contract management,234
+256,procurement,133
+257,climbing,235
+258,interpersonal communication,168
+259,worklife balance,177
+260,root cause analysis,151
+261,ability to meet deadlines,146
+262,accountability,194
+263,payroll,105
+264,associates degree,12
+265,business administration,236
+266,javascript,2
+267,crm,129
+268,salesforce,129
+269,pto,5
+270,automation,69
+271,covid19 vaccination,85
+272,hipaa,85
+273,insurance,237
+274,implementation,3
+275,reliable transportation,208
+276,supply chain management,133
+277,paid vacation,177
+278,stakeholder management,129
+279,active listening,174
+280,cost control,137
+281,reliability,126
+282,internal medicine,73
+283,physical requirements,223
+284,crisis intervention,175
+285,teamwork skills,189
+286,restaurant management,238
+287,business acumen,99
+288,procedures,201
+289,auditing,239
+290,vendor management,134
+291,analysis,14
+292,strategic thinking,124
+293,physician assistant,73
+294,operations,30
+295,food handling,214
+296,event planning,240
+297,data analytics,202
+298,strong work ethic,177
+299,retail sales,131
+300,ability to lift heavy objects,88
+301,patient safety,95
+302,nurse practitioner,73
+303,client relationship management,129
+304,recruiting,156
+305,sales management,131
+306,windows,241
+307,presentation,169
+308,technology,3
+309,critical care,185
+310,evidencebased practice,86
+311,physician,73
+312,data visualization,52
+313,pediatrics,73
+314,benefits,161
+315,discharge planning,73
+316,clinical experience,73
+317,equity,99
+318,hvac,242
+319,bsn,3
+320,software engineering,243
+321,negotiation skills,176
+322,shift work,177
+323,equal employment opportunity,222
+324,holiday pay,105
+325,ged,1
+326,sales experience,131
+327,acls certification,82
+328,logistics,133
+329,referral bonuses,161
+330,customer focus,163
+331,linux,30
+332,management experience,155
+333,cleanliness,187
+334,medical records,86
+335,emergency response,185
+336,transportation,136
+337,patience,191
+338,stocking,135
+339,ability to travel,181
+340,project planning,123
+341,nursing process,73
+342,health and safety,95
+343,electrical,21
+344,billing,107
+345,resource management,135
+346,osha,82
+347,lead generation,131
+348,computer proficiency,244
+349,plumbing,245
+350,safety compliance,82
+351,mathematics,202
+352,registered nurse license,73
+353,monitoring,67
+354,business,50
+355,cloud computing,16
+356,safety management,110
+357,operations management,246
+358,relationship management,129
+359,curriculum development,247
+360,competitive salary,176
+361,cash register operation,101
+362,employee relations,228
+363,store management,135
+364,azure,17
+365,legal research,248
+366,emr,3
+367,chemistry,14
+368,staffing,156
+369,email,167
+370,revit,218
+371,program management,123
+372,quality,138
+373,oncology,73
+374,flexible work schedule,196
+375,advocacy,161
+376,tableau,52
+377,safety and security,22
+378,pet insurance,216
+379,interviewing,168
+380,jira,123
+381,surgery,73
+382,prospecting,131
+383,care planning,73
+384,strong communication skills,166
+385,crossfunctional collaboration,189
+386,business analysis,50
+387,mentorship,199
+388,client service,161
+389,microsoft outlook,203
+390,food service,161
+391,selfstarter,193
+392,architecture,3
+393,pushing,189
+394,allied health professional,73
+395,ms office suite,203
+396,housekeeping,219
+397,kubernetes,19
+398,cashier,161
+399,work ethic,177
+400,diagnosis,89
+401,tax preparation,106
+402,pulling,189
+403,epic,189
+404,pos systems,249
+405,cpa,194
+406,punctuality,177
+407,litigation,250
+408,care coordination,73
+409,visual merchandising,251
+410,licensure,82
+411,effective communication,166
+412,specifications,37
+413,quality management,138
+414,malpractice insurance,86
+415,financial planning,99
+416,feedback,252
+417,holidays,177
+418,devops,65
+419,performance improvement,153
+420,barber license,253
+421,guest service,161
+422,docker,31
+423,flexible spending accounts,196
+424,written communication skills,166
+425,dentistry,73
+426,medical coverage,82
+427,problem resolution,179
+428,criminal background check,254
+429,math skills,255
+430,clinical skills,73
+431,administration,82
+432,people management,156
+433,technical support,35
+434,autonomy,181
+435,physical ability,212
+436,client management,129
+437,statistics,52
+438,lean manufacturing,227
+439,statistical analysis,49
+440,customer satisfaction,164
+441,goal setting,177
+442,rehabilitation,88
+443,wound care,74
+444,planogram implementation,123
+445,behavioral health,73
+446,retirement plan,209
+447,onboarding,160
+448,flexible scheduling,196
+449,market research,130
+450,mathematical skills,150
+451,cosmetology license,256
+452,bachelors degree in nursing,73
+453,team environment,189
+454,store operations,135
+455,inspection,138
+456,git,257
+457,carrying,189
+458,relocation assistance,201
+459,cv,161
+460,social media,132
+461,cooking,214
+462,sitting,168
+463,high school diplomaged,161
+464,property management,258
+465,performance evaluation,150
+466,veterinary medicine,73
+467,college degree,204
+468,drug screening,85
+469,primary care,73
+470,staff development,160
+471,detail orientation,187
+472,installation,37
+473,forklift operation,259
+474,sales skills,131
+475,product development,201
+476,presentations,169
+477,resilience,184
+478,english language proficiency,166
+479,dependability,177
+480,parental leave,177
+481,equipment operation,30
+482,psychotherapy,73
+483,preventative maintenance,30
+484,psychiatry,73
+485,shortterm disability,73
+486,employee discounts,161
+487,career development,124
+488,organization skills,186
+489,mental health counseling,260
+490,board certification,86
+491,hearing,166
+492,basic math skills,261
+493,english language,166
+494,oracle,11
+495,profitability,99
+496,microsoft powerpoint,169
+497,production,30
+498,power bi,52
+499,excellent communication skills,166
+500,regulations,19
+501,physical therapy,73
+502,administrative support,177
+503,html,1
+504,medical imaging,86
+505,word processing,203
+506,treatment,73
+507,sharepoint,183
+508,english fluency,166
+509,emergency medicine,73
+510,safety protocols,22
+511,ms excel,207
+512,programming,37
+513,staff management,156
+514,family medicine,73
+515,public relations,162
+516,medication management,75
+517,credentialing,85
+518,repair,151
+519,consulting,124
+520,erp systems,12
+521,sustainability,262
+522,written and verbal communication,166
+523,respect,161
+524,flexible hours,196
+525,staff training,39
+526,financial statements,99
+527,communications,166
+528,safety regulations,82
+529,classroom management,156
+530,compensation,99
+531,heavy lifting,88
+532,competitive compensation,99
+533,kitchen management,214
+534,analytics,49
+535,conflict management,172
+536,six sigma,227
+537,cad,1
+538,typing,263
+539,leadership experience,153
+540,spanish,168
+541,estimating,100
+542,palliative care,73
+543,ultrasound,86
+544,proposal writing,50
+545,efficiency,177
+546,accounts payable,103
+547,financial services,99
+548,audit,107
+549,certification,19
+550,writing skills,167
+551,stakeholder engagement,129
+552,employee stock purchase plan,99
+553,cardiology,73
+554,hipaa compliance,85
+555,productivity,177
+556,basic life support bls,73
+557,critical thinking skills,185
+558,policies,19
+559,decisionmaking skills,178
+560,12hour shifts,177
+561,support,35
+562,equipment,135
+563,paid parental leave,228
+564,r,185
+565,business intelligence,50
+566,verbal communication skills,264
+567,purchasing,133
+568,scrum,201
+569,basic life support,73
+570,client communication,166
+571,databases,12
+572,electronic medical records,85
+573,banking,99
+574,clean driving record,208
+575,data science,41
+576,customer relations,162
+577,mileage reimbursement,265
+578,verbal and written communication,166
+579,patientcentered care,73
+580,clinical research,73
+581,data interpretation,52
+582,visual acuity,187
+583,css,1
+584,supervisory skills,153
+585,google suite,203
+586,team development,160
+587,manual dexterity,215
+588,bilingual,168
+589,patient advocacy,73
+590,contract negotiation,176
+591,treatment plans,73
+592,preventive maintenance,30
+593,drug test,266
+594,pricing,99
+595,bookkeeping,103
+596,software,37
+597,digital marketing,267
+598,experience,161
+599,pc skills,37
+600,problem solving skills,185
+601,cashiering,161
+602,cash handling procedures,268
+603,database management,12
+604,crisis management,179
+605,cultural sensitivity,197
+606,client relationships,129
+607,phlebotomy,269
+608,erp,12
+609,stocker,135
+610,standard operating procedures,206
+611,systems engineering,270
+612,gaap,5
+613,ms word,213
+614,hygiene,77
+615,hand tools,271
+616,artificial intelligence,40
+617,electrical systems,220
+618,safety policies,82
+619,reports,55
+620,policy development,124
+621,safety standards,82
+622,blueprints,5
+623,ct technologist,86
+624,chemical engineering,14
+625,telehealth,85
+626,receiving,161
+627,competitive pay,99
+628,product management,128
+629,vacation,196
+630,accounts receivable,272
+631,401k retirement savings plan,209
+632,math,202
+633,lesson planning,123
+634,structural engineering,273
+635,electronic health records,85
+636,best practices,65
+637,401k with company match,107
+638,security clearance,22
+639,willingness to learn,181
+640,orientation,181
+641,credentials,22
+642,signon bonus,176
+643,cybersecurity,5
+644,agile development,65
+645,radiography,274
+646,warehouse management,135
+647,audits,107
+648,consultation,161
+649,vital signs,73
+650,execution,123
+651,invoicing,275
+652,independence,181
+653,information technology,3
+654,medical equipment,86
+655,policies and procedures,217
+656,internet,5
+657,vision coverage,50
+658,36 hours per week,177
+659,stock management,135
+660,acute care,73
+661,health promotion,73
+662,recognition,161
+663,financial modeling,99
+664,associate degree,12
+665,spreadsheets,207
+666,health benefits,73
+667,health savings account,82
+668,customer experience,161
+669,research skills,130
+670,microbiology,91
+671,ability to work flexible hours,196
+672,servsafe certification,276
+673,enthusiasm,161
+674,community involvement,189
+675,medical technology,85
+676,employee training,39
+677,legal writing,277
+678,welding,278
+679,cashier accountability,101
+680,nursing care,73
+681,biology,97
+682,active directory,33
+683,direct deposit,107
+684,cold calling,131
+685,taxfree stipend,106
+686,quality standards,138
+687,instrumentation,30
+688,everify,5
+689,pharmacy,96
+690,certifications,16
+691,market analysis,130
+692,written skills,167
+693,service excellence,165
+694,microsoft project,123
+695,interdisciplinary collaboration,189
+696,robotics,40
+697,carpentry,279
+698,creative thinking,182
+699,crouching,196
+700,dental coverage,82
+701,child development,280
+702,equal opportunity,222
+703,resume,161
+704,paid training,39
+705,cultural competence,197
+706,cover letter,167
+707,health care,82
+708,reading,167
+709,telemetry,5
+710,standards,5
+711,business management,155
+712,honesty,141
+713,cme,3
+714,pain management,175
+715,clinical supervision,73
+716,icu,185
+717,accounting software,103
+718,40 hours per week,177
+719,marriage and family therapy,281
+720,internal communication,168
+721,neurology,73
+722,travel reimbursement,102
+723,ai,40
+724,restaurant operations,135
+725,urgent care,73
+726,adoption assistance,161
+727,accident insurance,95
+728,401k savings plan,209
+729,project scheduling,123
+730,registered nurse rn license,73
+731,mri,86
+732,subcontractor management,134
+733,benefits package,209
+734,driving license,208
+735,blueprint reading,282
+736,attendance,177
+737,xray,5
+738,fulltime,177
+739,cost management,137
+740,tncc,5
+741,guaranteed hours,177
+742,affirmative action,222
+743,email alerts,283
+744,react,2
+745,asset protection,28
+746,early childhood education,284
+747,building codes,285
+748,tuition assistance,39
+749,teaching experience,286
+750,surgical procedures,73
+751,collaboration skills,189
+752,organizing,186
+753,safety policies and practices,82
+754,merchandise handling,135
+755,service,161
+756,depth perception,215
+757,deadlines,146
+758,detail oriented,187
+759,economics,99
+760,staff supervision,156
+761,matlab,202
+762,quality food production,138
+763,solidworks,218
+764,go,2
+765,medicalsurgical nursing,73
+766,ability to follow instructions,187
+767,drug screen,287
+768,occupational therapy,73
+769,talent acquisition,288
+770,selfmotivated,193
+771,dea license,82
+772,gmp,3
+773,overtime,177
+774,requirements gathering,123
+775,haccp,289
+776,nrp,5
+777,exceptional customer service,161
+778,healthcare staffing,73
+779,gcp,18
+780,unit testing,69
+781,project coordination,290
+782,food production,133
+783,allied health,82
+784,continuous learning,200
+785,data modeling,14
+786,hematology,86
+787,fundraising,291
+788,learning,40
+789,identity theft protection,5
+790,cosmetology,292
+791,shipping,136
+792,longterm disability,293
+793,general ledger,104
+794,sops,189
+795,program development,37
+796,employee development,160
+797,radiation safety,85
+798,phd,14
+799,data mining,41
+800,ibm cash register functions,101
+801,job search,198
+802,real estate,294
+803,dea,161
+804,judgment,178
+805,resource allocation,123
+806,internal controls,99
+807,medicine,73
+808,ordering,161
+809,personnel management,156
+810,commissioning,3
+811,jenkins,65
+812,variance analysis,107
+813,microservices,3
+814,distribution,49
+815,ms project,123
+816,microstation,37
+817,inspections,138
+818,restaurant experience,161
+819,grant writing,295
+820,ability to work in a team,189
+821,journal entries,296
+822,surgical technologist,73
+823,microsoft suite,203
+824,physics,44
+825,talent management,156
+826,quickbooks,103
+827,it,5
+828,community engagement,129
+829,energy,177
+830,technical expertise,37
+831,customer service experience,161
+832,gis,297
+833,strong organizational skills,186
+834,radiologic technology,73
+835,saas,5
+836,editing,167
+837,state license,82
+838,caseload management,73
+839,contract administration,123
+840,nosql,15
+841,intervention,73
+842,care plans,73
+843,telemedicine,85
+844,discipline,177
+845,professional profile,161
+846,leasing,161
+847,ability to stand for long periods of time,88
+848,annual leave,177
+849,sick leave,86
+850,home health,73
+851,ppe,5
+852,typescript,2
+853,associates degree in nursing,73
+854,triage,79
+855,hospital,73
+856,mba,50
+857,arrt certification,38
+858,disability,181
+859,multidisciplinary team,189
+860,emotional intelligence,171
+861,planograms,135
+862,technical documentation,167
+863,referrals,129
+864,close vision,187
+865,incentives,131
+866,clinical care,73
+867,reading comprehension,166
+868,menu planning,135
+869,basic math,298
+870,observation,168
+871,deadline management,146
+872,401k matching,209
+873,passion,182
+874,social media marketing,132
+875,retirement plans,209
+876,debugging,151
+877,administrative tasks,299
+878,filing,122
+879,career advancement,153
+880,background investigation,28
+881,inventory,135
+882,cicd,65
+883,deposit control,12
+884,industry trends,130
+885,listening skills,174
+886,customer relationship management crm,129
+887,dexterity,181
+888,ability to work in a team environment,189
+889,obstetrics,73
+890,hospice care,73
+891,scripting,300
+892,safety awareness,82
+893,ability to multitask,177
+894,growth opportunities,124
+895,ansible,66
+896,supply chain,133
+897,performance reviews,177
+898,employee engagement,189
+899,imaging,52
+900,personal protective equipment,216
+901,squatting,88
+902,office management,177
+903,powershell,30
+904,licensing,37
+905,event management,123
+906,pos system,301
+907,discretion,141
+908,painting,302
+909,strong interpersonal skills,168
+910,commitment,181
+911,integration,3
+912,nodejs,3
+913,graphic design,303
+914,therapy,73
+915,medical license,73
+916,underwriting,95
+917,volunteerism,189
+918,clinical documentation,85
+919,project management software,304
+920,discounts,131
+921,terraform,19
+922,computer,37
+923,excellence,189
+924,regulatory requirements,217
+925,diplomacy,176
+926,twisting,185
+927,hr block income tax course,106
+928,material handling,135
+929,mechanical,151
+930,expense control,102
+931,assembly,30
+932,cost analysis,137
+933,production planning,123
+934,medical care,73
+935,dialysis,73
+936,nutrition,85
+937,pto program,123
+938,color vision,52
+939,confluence,189
+940,safety training,216
+941,lifting heavy objects,215
+942,hardware,30
+943,accounting principles,107
+944,sales forecasting,100
+945,asset management,99
+946,patient monitoring,73
+947,sick pay,82
+948,consultative selling,131
+949,delivery,136
+950,ongoing training,200
+951,facilitation,189
+952,menu knowledge,161
+953,validation,68
+954,drafting,218
+955,13 weeks,177
+956,corrective action,179
+957,mechanical aptitude,305
+958,french,168
+959,medical dental and vision insurance,82
+960,extra shift bonuses,177
+961,sql server,11
+962,coding,37
+963,territory management,131
+964,patient satisfaction,164
+965,tax compliance,106
+966,health,73
+967,401k match,209
+968,calibration,12
+969,production management,123
+970,lean,225
+971,license and certification reimbursement,38
+972,physical examination,88
+973,assessments,150
+974,sales techniques,131
+975,manufacturing experience,135
+976,volunteering,189
+977,packaging,135
+978,procore,5
+979,hemodialysis,73
+980,employee benefits,82
+981,masters degree in nursing,73
+982,public health,82
+983,medicare,85
+984,bilingual englishspanish,306
+985,contracts,176
+986,listening,174
+987,reasonable accommodation,181
+988,regular attendance,177
+989,human resources management,156
+990,ability to work as part of a team,189
+991,tax planning,106
+992,liaison,129
+993,trauma,185
+994,power tools,153
+995,business planning,124
+996,physical endurance,212
+997,childcare,307
+998,clinical trials,73
+999,persuasion,176
+1000,clinical practice,73
+1001,prototyping,37
+1002,malpractice coverage,86
+1003,tools,37
+1004,drawings,308
+1005,administrative skills,309
+1006,professional growth,153
+1007,industry knowledge,130
+1008,diagnostics,89
+1009,fabrication,310
+1010,housing,311
+1011,cash management,101
+1012,policy compliance,141
+1013,guidance,124
+1014,computers,37
+1015,crossselling,131
+1016,data security,22
+1017,medical education,86
+1018,orthopedics,73
+1019,management skills,155
+1020,data engineering,12
+1021,plan of care,73
+1022,access,5
+1023,project management skills,123
+1024,health education,210
+1025,network security,22
+1026,ladder climbing,215
+1027,group therapy,168
+1028,data warehousing,49
+1029,adobe creative suite,132
+1030,board certified,30
+1031,warehousing,49
+1032,facilities management,312
+1033,flexible spending account,196
+1034,cost estimation,102
+1035,travel nurse,73
+1036,paid sick leave,177
+1037,microsoft teams,189
+1038,work experience,145
+1039,availability,177
+1040,pmp certification,123
+1041,pals certification,73
+1042,analytical,150
+1043,dns,21
+1044,mobility,181
+1045,bluebeam,5
+1046,human services,82
+1047,performance monitoring,34
+1048,reasonable accommodations,181
+1049,upselling,131
+1050,resourcefulness,181
+1051,schematics,220
+1052,medications,75
+1053,employee assistance programs,175
+1054,schedule management,177
+1055,endurance,181
+1056,crossfunctional teams,189
+1057,collections,49
+1058,american heart association,73
+1059,angular,2
+1060,pacs,5
+1061,emergency care,73
+1062,planogram implementation and maintenance,135
+1063,zoom,5
+1064,crawling,5
+1065,information security,5
+1066,employment law,313
+1067,obgyn,73
+1068,ability to work at heights,94
+1069,hydraulics,314
+1070,cost reduction,137
+1071,project execution,123
+1072,investigations,54
+1073,data integrity,58
+1074,environmental engineering,315
+1075,anatomy,97
+1076,configuration management,66
+1077,bachelors degree in engineering,3
+1078,incident reporting,95
+1079,secret clearance,28
+1080,pharmacology,96
+1081,anesthesia,73
+1082,computer engineering,3
+1083,video game knowledge,316
+1084,corrective actions,179
+1085,learning and development,317
+1086,gynecology,73
+1087,cash control,101
+1088,talent development,160
+1089,weekly direct deposit,177
+1090,traumainformed care,73
+1091,verbal and written communication skills,166
+1092,electronics,220
+1093,plc,3
+1094,drugfree workplace,141
+1095,science,14
+1096,interdisciplinary team,189
+1097,information systems,12
+1098,lifting and carrying,135
+1099,commuter benefits,161
+1100,physiology,97
+1101,weekends,177
+1102,compassionate care,73
+1103,community outreach,162
+1104,community resources,198
+1105,pe license,22
+1106,retention,161
+1107,visio,89
+1108,proactivity,181
+1109,crew management,156
+1110,workers compensation,110
+1111,labor management,156
+1112,nursing experience,73
+1113,protocols,22
+1114,special education,73
+1115,medicaid,82
+1116,industrial engineering,227
+1117,college tuition assistance,99
+1118,ct,1
+1119,auto insurance,318
+1120,ownership,189
+1121,kpis,202
+1122,bilingual spanish,319
+1123,lcsw,73
+1124,kafka,3
+1125,engagement,129
+1126,appointment scheduling,161
+1127,it skills,37
+1128,dermatology,86
+1129,diagnostic imaging,89
+1130,net,21
+1131,environmental science,320
+1132,osha compliance,82
+1133,leadership development,153
+1134,emotional support,173
+1135,care management,73
+1136,optimization,13
+1137,oral and written communication,166
+1138,workday,177
+1139,employee stock purchase program,99
+1140,legal compliance,217
+1141,geriatrics,73
+1142,vehicle maintenance,321
+1143,fastpaced work environment,181
+1144,customer engagement,161
+1145,physical abilities,223
+1146,med surg,73
+1147,facility management,322
+1148,administrative duties,323
+1149,stipend,102
+1150,technical knowledge,37
+1151,facility maintenance,324
+1152,supplier management,134
+1153,multitasking skills,177
+1154,mechanical systems,220
+1155,cme allowance,3
+1156,data processing,41
+1157,medical assistant,73
+1158,due diligence,95
+1159,paid time off pto,177
+1160,data integration,59
+1161,clinical leadership,153
+1162,accreditation,5
+1163,storytelling,166
+1164,career matching support,201
+1165,english communication,166
+1166,noise,325
+1167,pivot tables,207
+1168,paid compliance cost,102
+1169,ekg,73
+1170,proactive,181
+1171,biochemistry,86
+1172,wellness program,85
+1173,bank deposits,107
+1174,content creation,326
+1175,b2b sales,131
+1176,401k with employer match,99
+1177,system design,34
+1178,weekend availability,177
+1179,manufacturing processes,327
+1180,advertising,132
+1181,iv therapy,73
+1182,scala,3
+1183,customer support,161
+1184,career growth,153
+1185,mysql,11
+1186,arrt,1
+1187,us work authorization,206
+1188,competitive wages,189
+1189,medical history,87
+1190,photoshop,132
+1191,sales targets,131
+1192,technical leadership,153
+1193,ehr,5
+1194,seo,132
+1195,safeguarding,28
+1196,clinical,73
+1197,willingness to travel,181
+1198,clinical psychology,73
+1199,social media management,132
+1200,permitting,22
+1201,computer systems,30
+1202,molecular biology,41
+1203,referral program,129
+1204,maintenance management,30
+1205,clinical excellence,73
+1206,bonus,189
+1207,individual therapy,73
+1208,engineering drawings,218
+1209,managing crew,156
+1210,manufacturing engineering,328
+1211,lmft,329
+1212,incident management,179
+1213,acute care experience,73
+1214,sales strategy,131
+1215,outreach,129
+1216,eyehand coordination,330
+1217,anesthesiology,73
+1218,people skills,168
+1219,taxation,331
+1220,travel arrangements,332
+1221,general surgery,333
+1222,written and verbal communication skills,166
+1223,responsibility,189
+1224,state licensure,82
+1225,high school education,161
+1226,comprehensive benefits package,334
+1227,flexible work schedules,196
+1228,independent judgment,178
+1229,software testing,68
+1230,technical training,37
+1231,incident response,28
+1232,animal care,335
+1233,calendar management,177
+1234,high school degree,205
+1235,cost accounting,137
+1236,crm systems,129
+1237,performance,72
+1238,pension,209
+1239,public accounting,336
+1240,payroll management,105
+1241,moderate noise level,161
+1242,stretching,196
+1243,data governance,60
+1244,profit sharing,99
+1245,family practice,73
+1246,automobile insurance,337
+1247,kanban,123
+1248,industry standards,2
+1249,flexible housing options,196
+1250,agile methodologies,201
+1251,vmware,31
+1252,purchase orders,134
+1253,storage,12
+1254,performance evaluations,156
+1255,ibm cash register,161
+1256,flexible schedules,196
+1257,system integration,338
+1258,background checks,339
+1259,salary,99
+1260,healthcare experience,73
+1261,risk assessments,95
+1262,fluoroscopy,86
+1263,peripheral vision,187
+1264,payroll processing,105
+1265,clinical expertise,73
+1266,portfolio management,112
+1267,inclusivity,181
+1268,teams,189
+1269,goaloriented,177
+1270,rn licensure,78
+1271,gastroenterology,86
+1272,home health care,73
+1273,ecommerce,340
+1274,bachelor of science in nursing bsn,73
+1275,patient experience,73
+1276,clinical judgment,73
+1277,outpatient,73
+1278,spark,46
+1279,organized,186
+1280,strategy,124
+1281,agile methodology,201
+1282,vital signs monitoring,76
+1283,sourcing,133
+1284,software design,2
+1285,critical care nursing,73
+1286,computer applications,37
+1287,basic life support certification,73
+1288,staff scheduling,144
+1289,correspondence,167
+1290,laboratory testing,86
+1291,bsn degree,12
+1292,job knowledge,3
+1293,healthcare benefits,73
+1294,critical illness insurance,82
+1295,engineering degree,37
+1296,tact,168
+1297,professional appearance,161
+1298,business strategy,124
+1299,risk mitigation,95
+1300,law,341
+1301,family therapy,173
+1302,talking,166
+1303,safety practices,82
+1304,curiosity,130
+1305,hadoop,45
+1306,recordkeeping,121
+1307,photography,342
+1308,infrastructure,21
+1309,followup,161
+1310,nights,177
+1311,osha regulations,343
+1312,hospitalist,73
+1313,urology,73
+1314,xml,59
+1315,guaranteed stipend,102
+1316,reconciliation,142
+1317,ability to handle stress,175
+1318,distance vision,150
+1319,sas,3
+1320,proposal development,123
+1321,unix,30
+1322,epic emr,85
+1323,mental health support,344
+1324,2 years of experience,2
+1325,commission,131
+1326,financial acumen,99
+1327,emergency department,73
+1328,order processing,135
+1329,budgets,102
+1330,construction documents,123
+1331,adobe acrobat,206
+1332,physical therapist,73
+1333,tcpip,21
+1334,primavera,123
+1335,warehouse operations,135
+1336,proofreading,187
+1337,salon management,161
+1338,employee assistance program eap,345
+1339,aseptic technique,91
+1340,shift management,177
+1341,nursing license,73
+1342,sick time,73
+1343,weekend work,196
+1344,materials,135
+1345,catering,161
+1346,competitive analysis,130
+1347,basic life support bls certification,73
+1348,diagnostic tests,89
+1349,oral communication skills,166
+1350,sales goals,131
+1351,tax,106
+1352,service awards,161
+1353,pension scheme,209
+1354,onthejob training,189
+1355,proposals,123
+1356,prestigious facilities,30
+1357,entrepreneurship,346
+1358,medical knowledge,86
+1359,equipment management,135
+1360,prioritization skills,145
+1361,hair styling,347
+1362,bachelor of science in nursing,73
+1363,negotiations,176
+1364,volunteermatch,189
+1365,influencing,176
+1366,special projects,123
+1367,confidence,153
+1368,patient care coordination,73
+1369,law enforcement,141
+1370,legal,217
+1371,store cleaning,348
+1372,civil 3d,226
+1373,process engineering,349
+1374,professional demeanor,195
+1375,hospice,73
+1376,servicenow,3
+1377,guest relations,162
+1378,system administration,30
+1379,crm software,129
+1380,risk analysis,95
+1381,evidencebased practices,58
+1382,wellness programs,82
+1383,physical examinations,73
+1384,budget preparation,102
+1385,patient confidentiality,141
+1386,advanced cardiac life support acls,73
+1387,incident investigation,28
+1388,unloading,135
+1389,bonuses,189
+1390,linkedin,129
+1391,online tutoring,350
+1392,planogram reading,135
+1393,kitchen equipment,214
+1394,scanning,21
+1395,task management,123
+1396,big data,49
+1397,instant tutoring,36
+1398,microsoft windows,17
+1399,sales strategies,131
+1400,small group classes,189
+1401,standard operating procedures sops,351
+1402,nihss,73
+1403,us gaap,107
+1404,clinical knowledge,73
+1405,bls basic life support,73
+1406,daily maintenance,30
+1407,vacation time,177
+1408,bachelors degree in accounting,204
+1409,flexible working,196
+1410,project leadership,153
+1411,immunizations,73
+1412,data quality,58
+1413,life assurance,161
+1414,cyber security,5
+1415,cpr bls certification,211
+1416,nephrology,73
+1417,core values,141
+1418,large live classes,31
+1419,control systems,352
+1420,mediation,142
+1421,rapport building,168
+1422,stress tolerance,181
+1423,curriculum vitae,206
+1424,plc programming,353
+1425,team supervision,156
+1426,physical activity,223
+1427,cc,1
+1428,behavior management,142
+1429,client interaction,161
+1430,dbs check,354
+1431,ophthalmology,86
+1432,employee discount,161
+1433,telecommunications,21
+1434,cloud,19
+1435,trend analysis,130
+1436,endoscopy,86
+1437,emergency procedures,95
+1438,progress monitoring,123
+1439,results orientation,123
+1440,program evaluation,202
+1441,linkedin for good,355
+1442,microsoft azure,17
+1443,geotechnical engineering,356
+1444,growth mindset,181
+1445,jacho certified,22
+1446,drive,208
+1447,simulation,14
+1448,investigation,179
+1449,training programs,189
+1450,repairs,151
+1451,motivational interviewing,173
+1452,relocation,181
+1453,physical assessment,73
+1454,career matching,124
+1455,controls,21
+1456,records management,121
+1457,hospitality experience,161
+1458,surveying,14
+1459,community relations,162
+1460,planning skills,124
+1461,powerbi,52
+1462,electronic health records ehr,85
+1463,bilingualism,168
+1464,automotive repair,357
+1465,personal training,358
+1466,email marketing,132
+1467,environmental compliance,217
+1468,fda,5
+1469,distributed systems,48
+1470,communication and interpersonal skills,168
+1471,certification reimbursement,200
+1472,venipuncture,359
+1473,substance abuse,360
+1474,planogram,135
+1475,barbering,361
+1476,ada compliance,362
+1477,firewalls,22
+1478,social services,161
+1479,iso 9001,138
+1480,process optimization,363
+1481,financial performance,99
+1482,patient records,73
+1483,medical dental and vision coverage,82
+1484,patient positioning,73
+1485,per diem,177
+1486,microsoft office applications,203
+1487,physical labor,223
+1488,business growth,50
+1489,nurse,73
+1490,stock control,135
+1491,programming languages,364
+1492,influence,176
+1493,advancement opportunities,365
+1494,immunology,85
+1495,key control,22
+1496,continuous integration,366
+1497,accredited school of nursing,73
+1498,grasping,185
+1499,annual holiday bonus,107
+1500,balancing,189
+1501,conflict resolution skills,142
+1502,interpersonal,168
+1503,aed,1
+1504,performance appraisal,156
+1505,video editing,367
+1506,sales presentations,131
+1507,product design,368
+1508,transparency,141
+1509,data reporting,55
+1510,cissp,5
+1511,etl,56
+1512,intensive care unit,73
+1513,irs requirements,5
+1514,housing options,369
+1515,medical professional information,86
+1516,cpa certification,370
+1517,references,12
+1518,hybrid working,36
+1519,life and disability insurance,216
+1520,grading,12
+1521,sensitivity,173
+1522,trust,141
+1523,bereavement leave,177
+1524,microsoft access,12
+1525,operational excellence,225
+1526,ability to lift and carry heavy objects,88
+1527,radiation protection,85
+1528,deployment,65
+1529,guest satisfaction,164
+1530,scalability,19
+1531,tax prep benefit,106
+1532,environmental regulations,217
+1533,modeling,43
+1534,written and oral communication,166
+1535,governance,60
+1536,tutoring,39
+1537,student loan reimbursement,99
+1538,home care,73
+1539,succession planning,153
+1540,wellness,175
+1541,gdt,5
+1542,day shift,177
+1543,pipeline management,123
+1544,clinical assessment,73
+1545,document management,206
+1546,nmc registration,85
+1547,food safety certification,371
+1548,safety guidelines,82
+1549,vaccination,73
+1550,performance analysis,72
+1551,metrics,52
+1552,internal audit,107
+1553,cleaning and maintenance,219
+1554,change orders,201
+1555,office equipment,35
+1556,json,59
+1557,crosstraining,189
+1558,education assistance,39
+1559,web development,2
+1560,company policies,189
+1561,customer interaction,161
+1562,outdoor work,88
+1563,personal protective equipment ppe,82
+1564,nondiscrimination,141
+1565,github,372
+1566,surgical technology,73
+1567,specimen collection,73
+1568,data structures,373
+1569,license reimbursement,37
+1570,cooperation,189
+1571,food presentation,214
+1572,tssci clearance,28
+1573,business requirements,201
+1574,ability to stand for long periods,88
+1575,customer relationships,129
+1576,nuclear medicine,86
+1577,handeye coordination,215
+1578,software architecture,374
+1579,cprbls certification,211
+1580,hr,228
+1581,5s,177
+1582,urgency,146
+1583,algorithms,40
+1584,5 years of experience,3
+1585,residency,3
+1586,ahpra registration,85
+1587,sense of urgency,177
+1588,cycle to work scheme,375
+1589,cath lab technologist,73
+1590,military experience,153
+1591,career progression,153
+1592,electronic medical record,85
+1593,interventional radiology,86
+1594,scheduling software,376
+1595,building maintenance,377
+1596,retirement savings plan,99
+1597,work environment,189
+1598,electronic charting,5
+1599,oral surgery,73
+1600,team motivation,189
+1601,aerospace,31
+1602,retirement benefits,107
+1603,estate planning,99
+1604,3d modeling,378
+1605,moving,181
+1606,general dentistry,73
+1607,database,11
+1608,volunteer management,156
+1609,snowflake,49
+1610,caregiving,73
+1611,trauma center,73
+1612,splunk,5
+1613,utilities,21
+1614,flexible,181
+1615,automotive,379
+1616,md,1
+1617,renewable energy,380
+1618,labor relations,228
+1619,client engagement,129
+1620,laboratory procedures,86
+1621,restocking,135
+1622,career growth opportunities,153
+1623,operating systems,30
+1624,food handlers certification,214
+1625,landscaping,381
+1626,iso,5
+1627,project engineering,123
+1628,store opening and closing,135
+1629,commercial awareness,50
+1630,outpatient care,73
+1631,proficiency testing,37
+1632,strong communication,166
+1633,advanced cardiac life support,73
+1634,parttime,177
+1635,aerospace engineering,382
+1636,learning science,14
+1637,datadriven decision making,14
+1638,physical exam,73
+1639,bachelors degree preferred,204
+1640,learning agility,181
+1641,sales leadership,131
+1642,detailorientation,187
+1643,materials management,133
+1644,workload management,177
+1645,virtualization,31
+1646,timekeeping,177
+1647,pathology,86
+1648,rest,177
+1649,client relationship building,129
+1650,systems,30
+1651,coordination of care,73
+1652,commercial construction,383
+1653,care,161
+1654,windows server,30
+1655,food storage,135
+1656,primavera p6,123
+1657,performance metrics,384
+1658,inpatient,73
+1659,interpersonal communication skills,168
+1660,interpretation,41
+1661,occupational health,82
+1662,quantitative analysis,202
+1663,longterm care,73
+1664,sterilization,91
+1665,engineering design,179
+1666,strong analytical skills,150
+1667,itil,38
+1668,client care,161
+1669,direct patient care,73
+1670,tax returns,106
+1671,public administration,216
+1672,shortterm disability insurance,385
+1673,spreadsheet software,207
+1674,screening,161
+1675,autocad civil 3d,218
+1676,hybrid work,36
+1677,comprehensive benefits,386
+1678,work order management,115
+1679,music,387
+1680,progress notes,73
+1681,culinary arts,214
+1682,dhcp,21
+1683,sales training,131
+1684,office 365,17
+1685,cultural diversity,197
+1686,project delivery,123
+1687,cgmp,138
+1688,chef,214
+1689,bash,388
+1690,calculations,99
+1691,lighting,220
+1692,sketchup,389
+1693,documentation skills,167
+1694,report preparation,55
+1695,operating room,73
+1696,wellness and fitness programs,88
+1697,sales planning,131
+1698,production scheduling,123
+1699,sales and marketing,131
+1700,night shift,30
+1701,postgresql,12
+1702,office environment,35
+1703,daily maintenance and cleanliness,219
+1704,objectoriented programming,3
+1705,partnerships,183
+1706,wealth management,99
+1707,workshops,189
+1708,apis,4
+1709,goal orientation,177
+1710,food quality,214
+1711,machining,390
+1712,spanish language,168
+1713,pointofsale systems,3
+1714,skilled nursing,73
+1715,employee resource connection,161
+1716,privacy,5
+1717,relational databases,11
+1718,customer base,129
+1719,contract,176
+1720,legal analysis,391
+1721,event coordination,392
+1722,software applications,37
+1723,teletherapy,393
+1724,client retention,129
+1725,network engineering,21
+1726,processes,123
+1727,journalism,55
+1728,specialtyrelated certifications,19
+1729,basic cardiac life support,73
+1730,hris,161
+1731,data protection,19
+1732,speaking,166
+1733,paperwork,121
+1734,waste management,394
+1735,site management,395
+1736,google analytics,396
+1737,sales growth,131
+1738,mammography,86
+1739,accessibility,397
+1740,professional references,161
+1741,project documentation,55
+1742,medical procedures,73
+1743,unloading trucks,135
+1744,first aid certification,73
+1745,quantity surveying,102
+1746,administrative experience,398
+1747,managerial experience,155
+1748,resultsoriented,179
+1749,medical dental vision insurance,82
+1750,material management,135
+1751,medicalsurgical,73
+1752,meditech,73
+1753,reasoning ability,185
+1754,neurosurgery,73
+1755,multidisciplinary teams,189
+1756,deep learning,40
+1757,climbing ladders,88
+1758,referral bonus program,161
+1759,ascp certification,12
+1760,interpersonal and communication skills,168
+1761,nih,1
+1762,diversity awareness,197
+1763,market trends,130
+1764,criminal justice,141
+1765,ability to communicate effectively,166
+1766,staff meetings,189
+1767,pmp,123
+1768,collaborative work,189
+1769,fsa,2
+1770,php,3
+1771,noise level,168
+1772,base salary,99
+1773,access control,5
+1774,professional liability insurance,110
+1775,budget,102
+1776,health certificate,73
+1777,production supervision,155
+1778,manager training,153
+1779,employee management,156
+1780,physiotherapy,73
+1781,work orders,115
+1782,endodontics,73
+1783,medical information,86
+1784,charge nurse,73
+1785,physical exertion,223
+1786,netsuite,3
+1787,supervisory responsibilities,155
+1788,health and safety regulations,95
+1789,revenue generation,131
+1790,radiation therapy,399
+1791,medical degree,86
+1792,smartphone,9
+1793,endoflife care,73
+1794,employee referral program,160
+1795,selective service registration,12
+1796,cash register,101
+1797,personal development,181
+1798,medical devices,86
+1799,bim,1
+1800,payment processing,107
+1801,nursing skills,73
+1802,mongodb,15
+1803,office administration,124
+1804,yardi,3
+1805,technical specifications,37
+1806,data manipulation,11
+1807,construction experience,226
+1808,reasoning,185
+1809,retirement,177
+1810,liability insurance,400
+1811,acca,1
+1812,arcgis,401
+1813,pumps,161
+1814,vendor relations,134
+1815,technical reports,55
+1816,medical dental and vision plans,82
+1817,dispute resolution,142
+1818,lpn,73
+1819,electrical design,220
+1820,bcls,1
+1821,refrigeration,402
+1822,report generation,55
+1823,cost estimating,137
+1824,bcls certification,82
+1825,professional communication,166
+1826,positivity,173
+1827,clinical management,73
+1828,5 years experience,3
+1829,strong attention to detail,187
+1830,benefits administration,403
+1831,universal precautions,5
+1832,structural analysis,404
+1833,flexible availability,196
+1834,financial accounting,99
+1835,knowledge sharing,189
+1836,document control,121
+1837,food and beverage knowledge,161
+1838,research and development,405
+1839,salesforcecom,129
+1840,lpc,3
+1841,account executive,129
+1842,personal care,73
+1843,flexible work hours,177
+1844,charting,52
+1845,site visits,5
+1846,requirements,5
+1847,scada,21
+1848,geology,406
+1849,entrepreneurial spirit,182
+1850,data gathering,41
+1851,integration testing,68
+1852,emergency room,73
+1853,preceptorship,73
+1854,drug testing,407
+1855,cms,408
+1856,discovery,130
+1857,utilization management,82
+1858,timeliness,177
+1859,food cost control,137
+1860,human resource management,156
+1861,disaster recovery,32
+1862,electronic medical records emr,85
+1863,process development,37
+1864,pediatric advanced life support pals,73
+1865,telework,36
+1866,pytorch,40
+1867,lean six sigma,227
+1868,cpa license,194
+1869,laundry,177
+1870,computer software,37
+1871,instruction,39
+1872,supplier relationship management,134
+1873,treatments,73
+1874,cost estimates,137
+1875,diversity equity and inclusion,197
+1876,store maintenance,135
+1877,hospitality management,161
+1878,technical communication,167
+1879,complaint handling,161
+1880,azure devops,65
+1881,treatment administration,73
+1882,goal achievement,177
+1883,clerical duties,206
+1884,training skills,169
+1885,construction drawings,218
+1886,systems analysis,409
+1887,direction,123
+1888,company policies and procedures,156
+1889,mopping,219
+1890,aca,1
+1891,medical documentation,86
+1892,project controls,123
+1893,copywriting,410
+1894,consultative sales,131
+1895,equipment repair,229
+1896,ability to work weekends and holidays,181
+1897,laboratory,86
+1898,merchandise presentation,411
+1899,interior design,168
+1900,hsa,1
+1901,ethical standards,141
+1902,puppet,3
+1903,safety culture,95
+1904,insurance verification,82
+1905,design patterns,37
+1906,dod secret clearance,28
+1907,us citizen,161
+1908,routing,21
+1909,microsoft office 365,203
+1910,verification,37
+1911,verbal skills,166
+1912,issue resolution,179
+1913,patient communication,73
+1914,teaching skills,169
+1915,fashion,130
+1916,cmms,3
+1917,culinary skills,214
+1918,short term disability,82
+1919,sterile technique,412
+1920,email communication,167
+1921,supervisory,153
+1922,cash control procedures,101
+1923,promotions,132
+1924,proposal preparation,123
+1925,meal preparation,214
+1926,proactiveness,181
+1927,retail sales experience,131
+1928,critical illness,185
+1929,spreadsheet,207
+1930,osha standards,413
+1931,hvac systems,414
+1932,ipad,6
+1933,food and beverage service,161
+1934,housing assistance,415
+1935,customer care,161
+1936,travel job,136
+1937,bachelors degree in accounting or finance,99
+1938,value engineering,225
+1939,cultural awareness,197
+1940,hospital experience,73
+1941,dusting,219
+1942,related experience,3
+1943,collaborative,189
+1944,haircutting,416
+1945,administrative,177
+1946,high energy,181
+1947,labor laws,217
+1948,sdlc,37
+1949,registration,161
+1950,utilization review,82
+1951,collaborative work environment,189
+1952,volunteer,189
+1953,construction inspection,417
+1954,business degree,99
+1955,api,4
+1956,power point,169
+1957,paid sick time,177
+1958,illustrator,132
+1959,sales support,161
+1960,client satisfaction,164
+1961,loading,5
+1962,clinical support,73
+1963,sports medicine,73
+1964,mental health services,418
+1965,advanced degree,54
+1966,equal employment opportunities,222
+1967,nephrology nursing,73
+1968,excellent written and verbal communication skills,166
+1969,life sciences,85
+1970,tax accounting,106
+1971,perl,3
+1972,career advancement opportunities,153
+1973,data architecture,14
+1974,technical sales,131
+1975,key performance indicators kpis,50
+1976,18 years of age,161
+1977,expense management,102
+1978,opportunity for advancement,189
+1979,joint commission,82
+1980,meetings,189
+1981,health  safety,82
+1982,emergency situations,185
+1983,voluntary benefits,419
+1984,service management,161
+1985,bls provider,73
+1986,subcontractors,134
+1987,computer vision,420
+1988,sound judgment,185
+1989,team meetings,189
+1990,work instructions,206
+1991,building relationships,129
+1992,embedded systems,421
+1993,growth,124
+1994,board eligible,3
+1995,live learning platform,5
+1996,operational knowledge,30
+1997,kaizen,225
+1998,baking,214
+1999,indesign,422
+2000,depositions,423
